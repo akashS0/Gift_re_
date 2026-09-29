@@ -1,0 +1,12 @@
+{
+  "name": "gift-re-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gift Re — DBA research portal (Golden Gate University, Cohort 6894, Abhay Tewari)",
+  "scripts": {
+    "build": "esbuild src/main.jsx --bundle --minify --outfile=app.js --loader:.jsx=jsx --jsx=automatic --define:process.env.NODE_ENV='\"production\"'",
+    "dev": "esbuild src/main.jsx --bundle --outfile=app.js --loader:.jsx=jsx --jsx=automatic --define:process.env.NODE_ENV='\"development\"' --servedir=. --watch"
+  },
+  "dependencies": { "react": "^18.3.1", "react-dom": "^18.3.1", "recharts": "^2.12.7" },
+  "devDependencies": { "esbuild": "^0.28.0" }
+}

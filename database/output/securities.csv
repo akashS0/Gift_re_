@@ -1,0 +1,1061 @@
+symbol,isin,name,bbg_code,industry,sec_type,matched_by,codes,first_date,last_date,n_prices,parquet_used
+BEL,INE263A01024,Bharat Electronics Ltd,BHE,Aerospace & Defense,equity,isin,BHE,1999-06-30,2026-09-15,6740,True
+PANAMAPET,INE305C01029,Panama Petrochem Ltd,PNPC,Chemicals,equity,isin,PNPC,1999-06-30,2026-09-15,6232,True
+KINGFA,INE473D01015,Kingfa Science & Technology India Ltd,KINGFA,Chemicals,equity,isin,KINGFA,1999-07-06,2026-09-15,6088,True
+TATVA,INE0GK401011,Tatva Chintan Pharma Chem Pvt Ltd,TATVA,Chemicals,equity,isin,TATVA,2021-07-28,2026-09-15,1273,True
+PENIND,INE932A01024,Pennar Industries Ltd,PSL,Industrial Products,equity,isin,PSL,2015-09-01,2026-09-15,2727,True
+MARATHON,INE182D01020,Marathon Nextgen Realty Ltd,MNRT,Real Estate Operations,equity,isin,MNRT,1999-07-23,2026-09-15,6151,True
+FINOPB,INE02NC01014,Fino Payments Bank Ltd,FINOPB,Banking Services,equity,isin,FINOPB,2021-11-11,2026-09-15,1200,True
+PRECWIRE,INE372C01037,Precision Wires India Ltd,PWI,"Machinery, Equipment & Components",equity,isin,PWI,1999-07-05,2026-09-15,6515,True
+ARMANFIN,INE109C01017,Arman Financial Services Ltd,ARLF,Banking Services,equity,isin,ARLF,1999-11-25,2026-09-15,6003,True
+ASTEC,INE563J01010,Astec Lifesciences Ltd,ASTEL,Chemicals,equity,isin,ASTEL,2009-11-24,2026-09-15,4154,True
+BLSE,INE0NLT01010,BLS E-Services Ltd,BLSE,Software & IT Services,equity,isin,BLSE,2024-02-05,2026-09-15,649,True
+UNIPARTS,INE244O01017,Uniparts India Ltd,UNIPARTS,Automobiles & Auto Parts,equity,isin,UNIPARTS,2022-12-09,2026-09-15,931,True
+OPTIEMUS,INE350C01017,Optiemus Infracom Ltd,OPIL,"Computers, Phones & Household Electronics",equity,isin,OPIL,1999-12-17,2026-09-15,5983,True
+CARYSIL,INE482D01024,Carysil Ltd,CARYSIL,Homebuilding & Construction Supplies,equity,isin,CARYSIL,1999-06-30,2026-09-15,6310,True
+FOSECOIND,INE519A01011,Foseco India Ltd,FSC,Chemicals,equity,isin,FSC,2000-03-31,2026-09-15,6496,True
+SASKEN,INE231F01020,Sasken Technologies Ltd,SASKEN,Software & IT Services,equity,isin,SASKEN,2005-09-08,2026-09-15,5189,True
+RAMCOIND,INE614A01028,Ramco Industries Ltd,RAMCO,Construction Materials,equity,isin,RAMCO,2000-10-12,2026-09-15,6265,True
+UTINEXT50,INF789F1AUW9,UTI Nifty Next 50 ETF,UTINN50,Others,etf,isin-bhavcopy,UTINN50,2025-02-28,2026-08-31,248,False
+VPRPL,INE0AE001013,Vishnu Prakash R Punglia Ltd,VPRPL,Construction & Engineering,equity,isin,VPRPL,2023-09-04,2026-09-15,750,True
+FMGOETZE,INE529A01010,Federal-Mogul Goetze India Ltd,FMGI,Automobiles & Auto Parts,equity,isin,FMGI,1999-06-30,2026-09-15,6693,True
+UEL,INE899L01030,Ujaas Energy Ltd,UEL,Electrical Utilities & IPPs,equity,isin,UEL UJEL,2011-10-19,2026-09-15,3679,True
+PARACABLES,INE074B01023,Paramount Communications Ltd,PRMC,"Machinery, Equipment & Components",equity,isin,PRMC,1999-06-30,2026-09-15,6736,True
+INDRAMEDCO,INE681B01017,Indraprastha Medical Corp Ltd,IPMC,Others,equity,isin,IPMC,2015-09-01,2026-09-15,2726,True
+RPTECH,INE0J1F01024,Rashi Peripherals Ltd,RPTECH,"Computers, Phones & Household Electronics",equity,isin,RPTECH,2024-02-13,2026-09-15,643,True
+NIFTY1,INF174K014P6,Kotak Nifty 50 ETF,NIFTY1,Others,etf,isin-bhavcopy,NIFTY1,2025-02-28,2026-08-31,199,False
+JINDALPOLY,INE197D01010,Jindal Poly Films Ltd,JDPF,Containers & Packaging,equity,isin,JDPF,1999-06-30,2026-09-15,6354,True
+IOLCP,INE485C01029,IOL Chemicals and Pharmaceuticals Ltd,ICP,Pharmaceuticals,equity,isin,ICP,2015-09-01,2026-09-15,2727,True
+MUKANDLTD,INE304A01026,Mukand Ltd,MUK,Metals & Mining,equity,isin,MUK,1999-06-30,2026-09-15,6712,True
+TARSONS,INE144Z01023,Tarsons Products Ltd,TARSONS,Healthcare Equipment & Supplies,equity,isin,TARSONS,2021-11-25,2026-09-15,1191,True
+SDBL,INE480C01038,Som Distilleries And Breweries Ltd,SDB,Beverages,equity,isin,SDB,1999-06-30,2026-09-15,6422,True
+GLOBUSSPR,INE615I01010,Globus Spirits Ltd,GBSL,Beverages,equity,isin,GBSL,2009-09-22,2026-09-15,4194,True
+PSUBNKBEES,INF204KB16I7,Nippon India ETF Nifty PSU Bank BEES,PSUBBE,Others,etf,isin-bhavcopy,PSUBBE,2025-02-28,2026-08-31,248,False
+TIRUMALCHM,INE338A01024,Thirumalai Chemicals Ltd,TMC,Chemicals,equity,isin,TMC,1999-06-30,2026-09-15,6730,True
+MANGLMCEM,INE347A01017,Mangalam Cement Ltd,MGC,Construction Materials,equity,isin,MGC,1999-07-01,2026-09-15,6676,True
+ROUTE,INE450U01017,Route Mobile Ltd,ROUTE,Software & IT Services,equity,isin,ROUTE,2020-09-18,2026-09-15,1484,True
+PFOCUS,INE367G01038,Prime Focus Ltd,PRIF,Media & Publishing,equity,isin,PRIF,2006-06-19,2026-09-15,4999,True
+PARAGMILK,INE883N01014,Parag Milk Foods Ltd,PARAG,Food & Tobacco,equity,isin,PARAG,2016-05-18,2026-09-15,2556,True
+APCOTEXIND,INE116A01032,Apcotex Industries Ltd,APCO,Chemicals,equity,isin,APCO,1999-06-30,2026-09-15,6621,True
+CENTUM,INE320B01020,Centum Electronics Ltd,CTE,"Machinery, Equipment & Components",equity,isin,CTE,1999-06-30,2026-09-15,6683,True
+RPSGVENT,INE425Y01011,RPSG Ventures Ltd,RPSGVENT,Software & IT Services,equity,isin,RPSGVENT,2019-01-25,2026-09-15,1888,True
+BFINVEST,INE878K01010,BF Investment Ltd,BFIN,Investment Banking & Investment Services,equity,isin,BFIN,2011-01-14,2026-09-15,3866,True
+DIVGIITTS,INE753U01022,Divgi Torqtransfer Systems Ltd,DIVGIITT,Others,equity,isin,DIVGIITT,2023-03-13,2026-09-15,867,True
+DIAMONDYD,INE393P01035,Prataap Snacks Ltd,DIAMOND,Food & Tobacco,equity,isin,DIAMOND,2017-10-04,2026-09-15,2212,True
+IKIO,INE0LOJ01019,IKIO Technologies Ltd,IKIO,"Machinery, Equipment & Components",equity,isin,IKIO,2023-06-15,2026-09-15,805,True
+IFGLEXPOR,INE133Y01011,IFGL Refractories Ltd,IFGLRF,Construction Materials,equity,isin,IFGLRF,2015-09-01,2026-09-15,2726,True
+OWAIS,INE0R8M01017,Owais Metal and Mineral Processing Ltd,OWAIS,Chemicals,equity,unresolved,OWAIS,2025-02-28,2026-08-31,248,False
+QUICKHEAL,INE306L01010,Quick Heal Technologies Ltd,QUICKHEA,Software & IT Services,equity,isin,QUICKHEA,2016-02-17,2026-09-15,2615,True
+MTNL,INE153A01019,Mahanagar Telephone Nigam Ltd,MTNL,Telecommunications Services,equity,isin,MTNL,1999-06-30,2026-09-15,6741,True
+SJS,INE284S01014,SJS Enterprises Ltd,SJS,Automobiles & Auto Parts,equity,isin,SJS,2021-11-12,2026-09-15,1199,True
+FILATEX,INE816B01035,Filatex India Ltd,FLTX,Textiles & Apparel,equity,isin,FLTX,2015-09-01,2026-09-15,2727,True
+VSSL,INE050M01012,Vardhman Special Steels Ltd,VSSL,Metals & Mining,equity,isin,VSSL,2012-05-17,2026-09-15,3528,True
+DEN,INE947J01015,DEN Networks Ltd,DEN,Media & Publishing,equity,isin,DEN,2009-11-23,2026-09-15,4154,True
+GTLINFRA,INE221H01019,GTL Infrastructure Ltd,GTLI,Telecommunications Services,equity,isin,GTLI,2006-11-09,2026-09-15,4901,True
+BEPL,INE922A01025,Bhansali Engineering Polymers Ltd,BEPL,Chemicals,equity,isin,BEPL,1999-06-30,2026-09-15,6597,True
+MAFANG,INF769K01HF4,Mirae Asset NYSE FANG+ ETF,MFANGETF,Others,etf,isin-bhavcopy,MFANGETF,2025-02-28,2026-08-31,248,False
+HUHTAMAKI,INE275B01026,Huhtamaki India Ltd,HUIN,Containers & Packaging,equity,isin,HUIN,2000-03-31,2026-09-15,6476,True
+GEOJITFSL,INE007B01023,Geojit Financial Services Ltd,GEOFSL,Investment Banking & Investment Services,equity,isin,GEOFSL,2000-01-20,2026-09-15,6586,True
+HINDOILEXP,INE345A01011,Hindustan Oil Exploration Co Ltd,HOE,Others,equity,isin,HOE,2015-09-01,2026-09-15,2727,True
+GOKULAGRO,INE314T01033,Gokul Agro Resources Ltd,GOKUL,Food & Tobacco,equity,isin,GOKUL,2016-03-11,2026-09-15,2598,True
+VISHNU,INE270I01022,Vishnu Chemicals Ltd,VCL,Chemicals,equity,isin,VCL,2002-07-30,2026-09-15,5892,True
+EVEREADY,INE128A01029,Eveready Industries India Ltd,EVRIN,"Machinery, Equipment & Components",equity,isin,EVRIN,1999-06-30,2026-09-15,6710,True
+MANINDS,INE993A01026,Man Industries India Ltd,MAN,Metals & Mining,equity,isin,MAN,1999-06-30,2026-09-15,6696,True
+MOREPENLAB,INE083A01026,Morepen Laboratories Ltd,MORE,Pharmaceuticals,equity,isin,MORE,1999-06-30,2026-09-15,6740,True
+ARTEMISMED,INE025R01021,Artemis Medicare Services Ltd,ARTMSL,Healthcare Providers & Services,equity,isin,ARTMSL,2020-01-23,2026-09-15,1646,True
+DISHTV,INE836F01026,Dish TV India Ltd,DITV,Media & Publishing,equity,isin,DITV,2007-04-18,2026-09-15,4794,True
+NOVARTIND,INE234A01025,Novartis India Ltd,HCBA,Pharmaceuticals,equity,isin,HCBA,1999-06-30,2026-09-15,6580,True
+ADFFOODS,INE982B01027,ADF Foods Ltd,ADFL,Food & Tobacco,equity,isin,ADFL,1999-06-30,2026-09-15,6694,True
+LUMAXIND,INE162B01018,Lumax Industries Ltd,LUMX,Automobiles & Auto Parts,equity,isin,LUMX,2015-09-01,2026-09-15,2726,True
+EIHAHOTELS,INE276C01014,EIH Associated Hotels,OAH,Hotels & Entertainment Services,equity,isin,OAH,1999-07-01,2026-09-15,6454,True
+ACCELYA,INE793A01012,Accelya Solutions India Ltd,ACCELYA,Computers - Software & Consulting,equity,isin,ACCELYA,2015-09-01,2026-09-15,2726,True
+PFS,INE560K01014,PTC India Financial Services Ltd,PTCIF,Banking Services,equity,isin,PTCIF,2011-03-29,2026-09-15,3818,True
+AJMERA,INE298G01035,Ajmera Realty & Infra India Ltd,AREAL,Real Estate Operations,equity,isin,AREAL,1999-07-01,2026-09-15,6352,True
+E2E,INE255Z01027,E2E Networks Ltd,E2E,Software & IT Services,equity,isin,E2E,2018-05-14,2026-09-15,2062,True
+DREAMFOLKS,INE0JS101016,Dreamfolks Services Ltd,DREAMFOL,Transport Infrastructure,equity,isin,DREAMFOL,2022-09-05,2026-09-15,998,True
+NIFTYETF,INF769K01EG9,Mirae Asset NIFTY 50 ETF,NIFTYETF,Others,etf,isin-bhavcopy,NIFTYETF,2025-02-28,2026-08-31,248,False
+ORIENTHOT,INE750A01020,Oriental Hotels Ltd,OTH,Hotels & Entertainment Services,equity,isin,OTH,1999-06-30,2026-09-15,6483,True
+UNIVCABLES,INE279A01012,Universal Cables Ltd,UVC,"Machinery, Equipment & Components",equity,isin,UVC,1999-06-30,2026-09-15,6486,True
+RPGLIFE,INE105J01010,RPG Life Sciences Ltd,RPGL,Pharmaceuticals,equity,isin,RPGL,2008-06-10,2026-09-15,4507,True
+DOLATALGO,INE966A01022,Dolat Algotech Ltd,DOLATALG,Others,equity,isin,DOLATALG,1999-07-26,2026-09-15,6548,True
+VAKRANGEE,INE051B01021,Vakrangee Ltd,VKI,Software & IT Services,equity,isin,VKI,1999-06-30,2026-09-15,6735,True
+INDIAGLYCO,INE560A01023,India Glycols Ltd,IGLY,Chemicals,equity,isin,IGLY,1999-06-30,2026-09-15,6716,True
+DCAL,INE385W01011,Dishman Carbogen Amcis Ltd,DCAL,Pharmaceuticals,equity,isin,DCAL,2015-09-01,2026-09-15,2727,True
+CONFIPET,INE552D01024,Confidence Petroleum India Ltd,CONF,Oil & Gas,equity,isin,CONF,1999-07-07,2026-09-15,6332,True
+VENKEYS,INE398A01010,Venky's India Ltd,WH,Food & Tobacco,equity,isin,WH,1999-06-30,2026-09-15,6730,True
+GOLDIETF,INF109KC1NT3,ICICI Prudential Gold ETF Fund,GOLDIETF,Others,etf,isin-bhavcopy,GOLDIETF,2025-02-28,2026-08-31,199,False
+WEBELSOLAR,INE855C01023,Websol Energy System Ltd,WESL,Renewable Energy,equity,isin,WESL,1999-07-21,2026-09-15,6150,True
+UGROCAP,INE583D01011,Ugro Capital Ltd,UGRO,Investment Banking & Investment Services,equity,isin,UGRO,1999-07-21,2026-09-15,6026,True
+CUPID,INE509F01029,Cupid Ltd,CUPD,Personal & Household Products & Services,equity,isin,CUPD,1999-07-15,2026-09-15,6009,True
+ALEMBICLTD,INE426A01027,Alembic Ltd,ALBC,Real Estate Operations,equity,isin,ALBC,1999-06-30,2026-09-15,6704,True
+SATIN,INE836B01017,Satin Creditcare Network Ltd,SATIN,Banking Services,equity,isin,SATIN,2015-08-27,2026-09-15,2728,True
+MAYURUNIQ,INE040D01038,Mayur Uniquoters Ltd,MUNI,Textiles & Apparel,equity,isin,MUNI,1999-07-19,2026-09-15,6013,True
+HONDAPOWER,INE634A01018,Honda India Power Products Ltd,HONDAPWR,Others,equity,isin,HONDAPWR,1999-06-30,2026-09-15,6563,True
+POLYPLEX,INE633B01018,Polyplex Corp Ltd,PPC,Chemicals,equity,isin,PPC,1999-07-01,2026-09-15,6656,True
+IMAGICAA,INE172N01012,Imagicaaworld Entertainment Ltd,IMAGICAA,Hotels & Entertainment Services,equity,isin,IMAGICAA,2015-04-01,2026-09-15,2832,True
+PCJEWELLER,INE785M01021,PC Jeweller Ltd,PCJL,Textiles & Apparel,equity,isin,PCJL,2015-09-01,2026-09-15,2727,True
+HDFCNIFBAN,INF179KC1HY0,HDFC NIFTY Bank ETF,HNBANK,Others,etf,isin-bhavcopy,HNBANK,2025-02-28,2026-08-31,248,False
+BHAGCHEM,INE414D01027,Bhagiradha Chemicals & Industries Ltd,BCHI,Chemicals,equity,isin,BCHI,2000-03-09,2026-09-15,5966,True
+PSPPROJECT,INE488V01015,PSP Projects Ltd,PSPPL,Construction & Engineering,equity,isin,PSPPL,2017-05-26,2026-09-15,2301,True
+DREDGECORP,INE506A01018,Dredging Corp of India Ltd,DCIL,Transport Infrastructure,equity,isin,DCIL,1999-07-02,2026-09-15,6536,True
+JSLL,INE0J5801029,Jeena Sikho Lifecare Ltd,JSLL,Pharmaceuticals,equity,isin,JSLL,2022-05-04,2026-09-15,1082,True
+GOODYEAR,INE533A01012,Goodyear India Ltd,GDYR,Automobiles & Auto Parts,equity,isin,GDYR,1999-06-30,2026-09-15,6436,True
+CAPACITE,INE264T01014,Capacit'e Infraprojects Ltd,CAPACITE,Others,equity,isin,CAPACITE,2017-09-22,2026-09-15,2220,True
+UNITECH,INE694A01020,Unitech Ltd,UT,Real Estate Operations,equity,isin,UT,1999-06-30,2026-09-15,6546,True
+SEAMECLTD,INE497B01018,SEAMEC Ltd,SEAM,Oil & Gas Related Equipment and Services,equity,isin,SEAM,1999-06-30,2026-09-15,6553,True
+KALAMANDIR,INE438K01021,Sai Silks Kalamandir Ltd,SSKL,Specialty Retailers,equity,isin,SSKL,2023-09-26,2026-09-15,735,True
+VINDHYATEL,INE707A01012,Vindhya Telelinks Ltd,VT,Communications & Networking,equity,isin,VT,1999-06-30,2026-09-15,6670,True
+ESAFSFB,INE818W01011,ESAF Small Finance Bank Ltd,ESAFSFB,Banking Services,equity,isin,ESAFSFB,2011-01-04,2026-09-15,708,True
+APOLLOPIPE,INE126J01016,Apollo Pipes Ltd,APOLP,Homebuilding & Construction Supplies,equity,isin,APOLP,2002-07-30,2026-09-15,5922,True
+TASTYBITE,INE488B01017,Tasty Bite Eatables Ltd,TSTY,Food & Tobacco,equity,isin,TSTY,1999-06-30,2026-09-15,6430,True
+STYLAMIND,INE239C01020,Stylam Industries Ltd,SYIL,Homebuilding & Construction Supplies,equity,isin,SYIL,1999-06-30,2026-09-15,6221,True
+JASH,INE039O01029,Jash Engineering Ltd,JASH,"Machinery, Equipment & Components",equity,isin,JASH,2017-10-10,2026-09-15,2207,True
+MOLDTKPAC,INE893J01029,Mold-Tek Packaging Ltd,MTEP,Containers & Packaging,equity,isin,MTEP,2009-06-10,2026-09-15,4265,True
+IPL,INE0D6701023,India Pesticides Ltd,IPL,Chemicals,equity,isin,IPL,2021-07-02,2026-09-15,1289,True
+GOODLUCK,INE127I01024,Goodluck India Ltd,GLIN,Metals & Mining,equity,isin,GLIN,2002-07-30,2026-09-15,5800,True
+SAKSOFT,INE667G01023,Saksoft Ltd,SAK,Software & IT Services,equity,isin,SAK,2005-05-06,2026-09-15,5191,True
+HINDWAREAP,INE05AN01011,Hindware Home Innovation Ltd,HINDWARE,Homebuilding & Construction Supplies,equity,isin,HINDWARE,2019-12-26,2026-09-15,1667,True
+SHK,INE500L01026,SH Kelkar & Co Ltd,SHKL,Chemicals,equity,isin,SHKL,2015-11-13,2026-09-15,2679,True
+HPL,INE495S01016,HPL Electric & Power Ltd,HPLE,"Machinery, Equipment & Components",equity,isin,HPLE,2016-10-03,2026-09-15,2461,True
+INNOVACAP,INE0DUT01020,Innova Captab Ltd,INNOVACA,Pharmaceuticals,equity,isin,INNOVACA,2023-12-28,2026-09-15,674,True
+DPABHUSHAN,INE266Y01019,D P Abhushan Ltd,DPAL,Specialty Retailers,equity,isin,DPAL,2017-10-23,2026-09-15,2200,True
+SPECTRUM,INE01EO01010,Spectrum Electrical Industries Ltd,SPECTRUM,Others,equity,isin,SPECTRUM,2018-10-16,2026-09-15,1953,True
+NILKAMAL,INE310A01015,Nilkamal Ltd,NILK,Chemicals,equity,isin,NILK,1999-06-30,2026-09-15,6711,True
+PGIL,INE940H01022,Pearl Global Industries Ltd,PGIL,Textiles & Apparel,equity,isin,PGIL,2007-02-14,2026-09-15,4836,True
+LANDMARK,INE559R01029,Landmark Cars Ltd,LANDMARK,Specialty Retailers,equity,isin,LANDMARK,2022-12-22,2026-09-15,922,True
+RAJRATAN,INE451D01029,Rajratan Global Wire Ltd,RGW,Metals & Mining,equity,isin,RGW,1999-06-30,2026-09-15,6240,True
+HMAAGRO,INE0ECP01024,HMA Agro Industries Ltd,HMAAGRO,Food & Drug Retailing,equity,isin,HMAAGRO,2023-07-03,2026-09-15,794,True
+HATHWAY,INE982F01036,Hathway Cable & Datacom Ltd,HATH,Media & Publishing,equity,isin,HATH,2010-02-24,2026-09-15,4094,True
+PERSISTENT,INE262H01021,Persistent Systems Ltd,PSYS,Software & IT Services,equity,isin,PSYS,2010-04-05,2026-09-15,4069,True
+IDEAFORGE,INE349Y01013,ideaForge Technology Ltd,IDEAFORG,Aerospace & Defense,equity,isin,IDEAFORG,2023-07-06,2026-09-15,791,True
+HDFCNIFTY,INF179KC1965,HDFC Nifty 50 ETF,HNIFTY,Others,etf,isin-bhavcopy,HNIFTY,2025-02-28,2026-08-31,248,False
+SSWL,INE802C01033,Steel Strips Wheels Ltd,SSW,Automobiles & Auto Parts,equity,isin,SSW,1999-06-30,2026-09-15,6515,True
+STYRENIX,INE189B01011,Styrenix Performance Materials Ltd,STYRENIX,Chemicals,equity,isin,STYRENIX,1999-06-30,2026-09-15,6678,True
+FIEMIND,INE737H01014,FIEM Industries Ltd,FIEM,Automobiles & Auto Parts,equity,isin,FIEM,2006-10-19,2026-09-15,4913,True
+NUCLEUS,INE096B01018,Nucleus Software Exports Ltd,NCS,Software & IT Services,equity,isin,NCS,1999-06-30,2026-09-15,6738,True
+DALMIASUG,INE495A01022,Dalmia Bharat Sugar & Industries Ltd,DCB,Food & Tobacco,equity,isin,DCB,1999-07-01,2026-09-15,6535,True
+GANECOS,INE845D01014,Ganesha Ecosphere Ltd,GNPL,Textiles & Apparel,equity,isin,GNPL,1999-06-30,2026-09-15,6087,True
+DOLPHIN,INE920A01037,Dolphin Offshore Enterprises India Ltd,DOLPHINO,Oil & Gas Related Equipment and Services,equity,isin,DOLPHINO DOEI,1999-06-30,2026-09-15,6517,True
+MMFL,INE227C01017,MM Forgings Ltd,MMFG,Metals & Mining,equity,isin,MMFG,1999-06-30,2026-09-15,6365,True
+INDOSTAR,INE896L01010,IndoStar Capital Finance Ltd,INDOSTAR,Banking Services,equity,isin,INDOSTAR,2018-05-18,2026-09-15,2059,True
+EMSLIMITED,INE0OV601013,EMS Ltd,EMSLIMIT,Construction & Engineering,equity,isin,EMSLIMIT,2023-09-20,2026-09-15,739,True
+SUPRIYA,INE07RO01027,Supriya Lifescience Ltd,SUPRIYA,Pharmaceuticals,equity,isin,SUPRIYA,2021-12-27,2026-09-15,1168,True
+SHAILY,INE151G01028,Shaily Engineering Plastics Ltd,SHEP,Chemicals,equity,isin,SHEP,2002-07-30,2026-09-15,5952,True
+GREAVESCOT,INE224A01026,Greaves Cotton Ltd,GRV,"Machinery, Equipment & Components",equity,isin,GRV,1999-09-30,2026-09-15,6629,True
+UTIBANKETF,INF789F1AUV1,UTI Nifty Bank ETF,UTBANETF,Others,etf,isin-bhavcopy,UTBANETF,2025-02-28,2026-08-31,248,False
+NIFTYIETF,INF109K012R6,ICICI Prudential Nifty 50 ETF,NIFTYIET,Others,etf,isin-bhavcopy,NIFTYIET,2025-02-28,2026-08-31,199,False
+INDOCO,INE873D01024,Indoco Remedies Ltd,INDR,Pharmaceuticals,equity,isin,INDR,2005-01-14,2026-09-15,5352,True
+SOMANYCERA,INE355A01028,Somany Ceramics Ltd,SOMC,Homebuilding & Construction Supplies,equity,isin,SOMC,1999-07-02,2026-09-15,6387,True
+BANARISUG,INE459A01010,Bannari Amman Sugars Ltd,BNRI,Food & Tobacco,equity,isin,BNRI,1999-06-30,2026-09-15,6622,True
+HLEGLAS,INE461D01028,Hle Glascoat Ltd,HLEGLAS,"Machinery, Equipment & Components",equity,isin,HLEGLAS,2002-07-30,2026-09-15,5957,True
+SCILAL,INE0PB301013,Shipping Corp of India Land And Assets Ltd,SCILAL,Others,equity,isin,SCILAL,2024-03-19,2026-09-15,617,True
+BALUFORGE,INE011E01029,Balu Forge Industries Ltd,BALUFORG,"Machinery, Equipment & Components",equity,isin,BALUFORG,2002-07-30,2026-09-15,4336,True
+AUTOAXLES,INE449A01011,Automotive Axles Ltd,ATXL,Automobiles & Auto Parts,equity,isin,ATXL,1999-06-30,2026-09-15,6593,True
+THEJO,INE121N01019,Thejo Engineering Ltd,THEL,Professional & Commercial Services,equity,isin,THEL,2016-07-13,2026-09-15,2514,True
+SHALBY,INE597J01018,Shalby Ltd,SHALBY,Healthcare Providers & Services,equity,isin,SHALBY,2017-12-14,2026-09-15,2163,True
+PITTIENG,INE450D01021,Pitti Engineering Ltd,PITTIENG,"Machinery, Equipment & Components",equity,isin,PITTIENG,1999-07-12,2026-09-15,6030,True
+BAJEL,INE0KQN01018,Bajel Projects Ltd,BAJEL,Electrical Utilities & IPPs,equity,isin,BAJEL,2023-12-19,2026-09-15,680,True
+AWFIS,INE108V01019,Awfis Space Solutions Ltd,AWFIS,Real Estate Operations,equity,isin,AWFIS,2024-05-29,2026-09-15,574,True
+THYROCARE,INE594H01019,Thyrocare Technologies Ltd,THYROCAR,Healthcare Providers & Services,equity,isin,THYROCAR,2016-05-06,2026-09-15,2563,True
+UFLEX,INE516A01017,Uflex Ltd,UFLX,Containers & Packaging,equity,isin,UFLX,1999-06-30,2026-09-15,6723,True
+BOROLTD,INE02PY01013,Borosil Ltd,BOROLTD,Household Goods,equity,isin,BOROLTD,2020-07-22,2026-09-15,1526,True
+SEPC,INE964H01014,SEPC Ltd,SEPC,Construction & Engineering,equity,isin,SEPC,2008-02-19,2026-09-15,4580,True
+ASTRAL,INE006I01046,Astral Ltd,ASTRA,Homebuilding & Construction Supplies,equity,isin,ASTRA,2007-03-19,2026-09-15,4814,True
+POLICYBZR,INE417T01026,PB Fintech Ltd,POLICYBZ,Financial Technology (Fintech) & Infrastructure,equity,isin,POLICYBZ,2021-11-12,2026-09-15,1199,True
+ABBOTINDIA,INE358A01014,Abbott India Ltd,BOOT,Pharmaceuticals,equity,isin,BOOT,2000-02-29,2026-09-15,6570,True
+PHOENIXLTD,INE211B01039,Phoenix Mills Ltd/The,PHNX,Real Estate Operations,equity,isin,PHNX,2000-05-05,2026-09-15,6115,True
+JSWINFRA,INE880J01026,JSW Infrastructure Ltd,JSWINFRA,Transport Infrastructure,equity,isin,JSWINFRA,2023-10-03,2026-09-15,732,True
+THOMASCOOK,INE332A01027,Thomas Cook India Ltd,TC,Hotels & Entertainment Services,equity,isin,TC,1999-06-30,2026-09-15,6737,True
+MOIL,INE490G01020,MOIL Ltd,MOIL,Metals & Mining,equity,isin,MOIL,2010-12-14,2026-09-15,3890,True
+ELECTCAST,INE086A01029,Electrosteel Castings Ltd,ELSC,Metals & Mining,equity,isin,ELSC,1999-06-30,2026-09-15,6727,True
+NPST,INE0FFK01017,Network People Services Technologies Ltd,NPST,Financial Technology (Fintech) & Infrastructure,equity,isin,NPST,2021-08-09,2026-09-15,1261,True
+APOLLO,INE713T01028,Apollo Micro Systems Ltd,APOLLO,Aerospace & Defense,equity,isin,APOLLO,2018-01-22,2026-09-15,2138,True
+SWARAJENG,INE277A01016,Swaraj Engines Ltd,SWE,Automobiles & Auto Parts,equity,isin,SWE,1999-06-30,2026-09-15,6657,True
+CARERATING,INE752H01013,Care Ratings Ltd,CARE,Professional & Commercial Services,equity,isin,CARE,2012-12-24,2026-09-15,3387,True
+WENDT,INE274C01019,Wendt India Ltd,WNDT,"Machinery, Equipment & Components",equity,isin,WNDT,1999-07-01,2026-09-15,6290,True
+DOLLAR,INE325C01035,Dollar Industries Ltd,DOLLAR,Textiles & Apparel,equity,isin,DOLLAR,2017-04-21,2026-09-15,2325,True
+SANDHAR,INE278H01035,Sandhar Technologies Ltd,SANDHAR,Automobiles & Auto Parts,equity,isin,SANDHAR,2018-04-02,2026-09-15,2092,True
+AVALON,INE0LCL01028,Avalon Technologies Ltd,AVALON,Electronic Equipment & Parts,equity,isin,AVALON,2023-04-18,2026-09-15,846,True
+DELTACORP,INE124G01033,Delta Corp Ltd,DELTA,Hotels & Entertainment Services,equity,isin,DELTA,2007-05-28,2026-09-15,4769,True
+PREMEXPLN,INE863B01029,Premier Explosives Ltd,PRE,Chemicals,equity,isin,PRE,1999-07-06,2026-09-15,6378,True
+TVSSRICHAK,INE421C01016,TVS Srichakra Ltd,SRTY,Automobiles & Auto Parts,equity,isin,SRTY,1999-06-30,2026-09-15,6623,True
+GIPCL,INE162A01010,Gujarat Industries Power Co Ltd,GIP,Electrical Utilities & IPPs,equity,isin,GIP,1999-06-30,2026-09-15,6739,True
+KCP,INE805C01028,KCP Ltd/The,KCPL,Others,equity,isin,KCPL,2005-01-03,2026-09-15,5359,True
+SEITINVI,INE0R8O23017,Sustainable Energy Infra Trust,SEITINVI,Others,invit,unresolved,SEITINVI,2025-05-30,2026-08-31,145,False
+KDDL,INE291D01011,KDDL Ltd,KDDL,Textiles & Apparel,equity,isin,KDDL,2001-12-31,2026-09-15,6078,True
+DCXINDIA,INE0KL801015,Dcx Systems Ltd,DCXINDIA,Aerospace & Defense,equity,isin,DCXINDIA,2022-11-10,2026-09-15,953,True
+VADILALIND,INE694D01016,Vadilal Industries Ltd,VDI,Food & Tobacco,equity,isin,VDI,1999-06-30,2026-09-15,6461,True
+ASHAPURMIN,INE348A01023,Ashapura Minechem Ltd,ASMN,Metals & Mining,equity,isin,ASMN,1999-06-30,2026-09-15,6617,True
+BFUTILITIE,INE243D01012,BF Utilities Ltd,BFUT,Construction & Engineering,equity,isin,BFUT,2001-08-20,2026-09-15,6191,True
+VSTTILLERS,INE764D01017,VST Tillers Tractors Ltd,VSTT,"Machinery, Equipment & Components",equity,isin,VSTT,1999-06-30,2026-09-15,6549,True
+FLAIR,INE00Y201027,Flair Writing Industries Ltd,FLAIR,Professional & Commercial Services,equity,isin,FLAIR,2023-11-30,2026-09-15,692,True
+SBCL,INE386D01027,Shivalik Bimetal Controls Ltd,SBC,"Machinery, Equipment & Components",equity,isin,SBC,1999-06-30,2026-09-15,6405,True
+ARVSMART,INE034S01021,Arvind SmartSpaces Ltd,ARVSMART,Real Estate Operations,equity,isin,ARVSMART,2015-08-26,2026-09-15,2730,True
+MPSLTD,INE943D01017,MPS Ltd,MPS,Media & Publishing,equity,isin,MPS,2001-12-10,2026-09-15,6105,True
+PILANIINVS,INE417C01014,Pilani Investment & Industries Corp Ltd,PIICL,Holding Companies,equity,isin,PIICL,2011-10-26,2026-09-15,3613,True
+SUNFLAG,INE947A01014,Sunflag Iron & Steel Co Ltd,SUNF,Metals & Mining,equity,isin,SUNF,1999-06-30,2026-09-15,6705,True
+GUFICBIO,INE742B01025,Gufic Biosciences Ltd,CF,Pharmaceuticals,equity,isin,CF,2000-03-07,2026-09-15,6401,True
+SALASAR,INE170V01027,Salasar Techno Engineering Ltd,SALASAR,Metals & Mining,equity,isin,SALASAR,2017-07-24,2026-09-15,2263,True
+LAOPALA,INE059D01020,LA Opala RG Ltd,LOG,Household Goods,equity,isin,LOG,2002-01-14,2026-09-15,6019,True
+BOMDYEING,INE032A01023,Bombay Dyeing & Manufacturing Co Ltd,BD,Textiles & Apparel,equity,isin,BD,1999-06-30,2026-09-15,6740,True
+LUMAXTECH,INE872H01027,Lumax Auto Technologies Ltd,LMAX,Automobiles & Auto Parts,equity,isin,LMAX,2007-01-15,2026-09-15,4853,True
+KOLTEPATIL,INE094I01018,Kolte-Patil Developers Ltd,KPDL,Real Estate Operations,equity,isin,KPDL,2007-12-12,2026-09-15,4627,True
+PARAS,INE045601023,Paras Defence & Space Technologies Ltd,PARAS,Aerospace & Defense,equity,isin,PARAS,2021-09-30,2026-09-15,1228,True
+ZAGGLE,INE07K301024,Zaggle Prepaid Ocean Services Ltd,ZAGGLE,Financial Technology (Fintech) & Infrastructure,equity,isin,ZAGGLE,2023-09-21,2026-09-15,738,True
+GREENPLY,INE461C01038,Greenply Industries Ltd,MTLM,Paper & Forest Products,equity,isin,MTLM,2000-01-20,2026-09-15,6072,True
+JNKINDIA,INE0OAF01028,JNK India Ltd,JNKINDIA,"Machinery, Equipment & Components",equity,isin,JNKINDIA,2024-04-29,2026-09-15,593,True
+MAITHANALL,INE683C01011,Maithan Alloys Ltd,MAIT,Metals & Mining,equity,isin,MAIT,2008-05-14,2026-09-15,4506,True
+SAGCEM,INE229C01021,Sagar Cements Ltd,SGC,Construction Materials,equity,isin,SGC,1999-06-30,2026-09-15,6621,True
+PRAKASH,INE603A01013,Prakash Industries Ltd,PKI,Metals & Mining,equity,isin,PKI,1999-06-30,2026-09-15,6283,True
+SKIPPER,INE439E01022,Skipper Ltd,SKIPPER,Construction & Engineering,equity,isin,SKIPPER,2015-09-01,2026-09-15,2727,True
+RAMKY,INE874I01013,Ramky Infrastructure Ltd,RMKY,Construction & Engineering,equity,isin,RMKY,2010-10-07,2026-09-15,3936,True
+YATHARTH,INE0JO301016,Yatharth Hospital & Trauma Care Services Ltd,YATHARTH,Healthcare Providers & Services,equity,isin,YATHARTH,2023-08-04,2026-09-15,770,True
+GRAUWEIL,INE266D01021,Grauer & Weil India Ltd,GW,Chemicals,equity,isin,GW,1999-07-01,2026-09-15,6350,True
+SOTL,INE035D01020,Savita Oil Technologies Ltd,STEC,Oil & Gas,equity,isin,STEC,1999-06-30,2026-09-15,6628,True
+ANUP,INE294Z01018,Anup Engineering Limited/The,ANUP,"Machinery, Equipment & Components",equity,isin,ANUP,2019-03-01,2026-09-15,1864,True
+KSL,INE907A01026,Kalyani Steels Ltd,KS,Metals & Mining,equity,isin,KS,1999-06-30,2026-09-15,6700,True
+HIKAL,INE475B01022,Hikal Ltd,HKCI,Pharmaceuticals,equity,isin,HKCI,1999-06-30,2026-09-15,6715,True
+GENSOL,INE06H201014,Gensol Engineering Ltd,GENSOL,Construction & Engineering,equity,isin,GENSOL,2019-10-14,2026-09-15,1716,True
+PARKHOTELS,INE988S01028,Apeejay Surrendra Park Hotels Ltd,PARKHOTE,Hotels & Entertainment Services,equity,isin,PARKHOTE,2024-02-09,2026-09-15,645,True
+BAJAJCON,INE933K01021,Bajaj Consumer Care Ltd,BAJAJCON,Personal & Household Products & Services,equity,isin,BAJAJCON,2010-08-17,2026-09-15,3973,True
+SINDHUTRAD,INE325D01025,Sindhu Trade Links Ltd,SINDHUTR,Freight & Logistics Services,equity,isin,SINDHUTR,2007-05-11,2026-09-15,4764,True
+THANGAMAYL,INE085J01014,Thanga Mayil Jewellery Ltd,TJL,Specialty Retailers,equity,isin,TJL,2010-02-18,2026-09-15,4098,True
+DCBBANK,INE503A01015,DCB Bank Ltd,DCBB,Banking Services,equity,isin,DCBB,2006-10-26,2026-09-15,4912,True
+SHANTIGEAR,INE631A01022,Shanthi Gears Ltd,SG,"Machinery, Equipment & Components",equity,isin,SG,2015-09-01,2026-09-15,2727,True
+WSTCSTPAPR,INE976A01021,West Coast Paper Mills Ltd,WCPM,Paper & Forest Products,equity,isin,WCPM,1999-06-30,2026-09-15,6730,True
+SUBROS,INE287B01021,Subros Ltd,SUBR,Automobiles & Auto Parts,equity,isin,SUBR,1999-06-30,2026-09-15,6620,True
+SUNCLAY,INE0Q3R01026,Sundaram-Clayton Ltd,SUNCLAY,Automobiles & Auto Parts,equity,isin,SUNCLAY,2023-12-29,2026-09-15,672,True
+NAVNETEDUL,INE060A01024,Navneet Education Ltd,NELI,Media & Publishing,equity,isin,NELI,1999-06-30,2026-09-15,6726,True
+REPCOHOME,INE612J01015,Repco Home Finance Ltd,REPCO,Banking Services,equity,isin,REPCO,2013-03-28,2026-09-15,3323,True
+MAHLOG,INE766P01016,Mahindra Logistics Ltd,MAHLOG,Freight & Logistics Services,equity,isin,MAHLOG,2017-11-09,2026-09-15,2188,True
+MANORAMA,INE00VM01036,Manorama Industries Ltd,MANORAMA,Food & Tobacco,equity,isin,MANORAMA,2018-10-03,2026-09-15,1966,True
+JTLIND,INE391J01032,JTL Industries Ltd,JTLIND,Metals & Mining,equity,isin,JTLIND,2021-12-23,2026-09-15,1171,True
+MUTHOOTMF,INE046W01019,Muthoot Microfin Ltd,MUTHOOTM,Banking Services,equity,isin,MUTHOOTM,2023-12-26,2026-09-15,676,True
+MEDIASSIST,INE456Z01021,Medi Assist Healthcare Services Ltd,MEDIASSI,Healthcare Providers & Services,equity,isin,MEDIASSI,2024-01-19,2026-09-15,658,True
+HGS,INE170I01016,Hinduja Global Solutions Ltd,HGSL,Software & IT Services,equity,isin,HGSL,2007-06-19,2026-09-15,4752,True
+IRBINVIT,INE183W23014,IRB InvIT Fund,IRBINVIT,Others,invit,isin-bhavcopy,IRBINVIT,2017-05-17,2026-08-31,2190,False
+SHARDACROP,INE221J01015,Sharda Cropchem Ltd,SHCR,Chemicals,equity,isin,SHCR,2014-09-22,2026-09-15,2958,True
+CARTRADE,INE290S01011,Cartrade Tech Ltd,CARTRADE,Software & IT Services,equity,isin,CARTRADE,2021-08-20,2026-09-15,1256,True
+GREENPANEL,INE08ZM01014,Greenpanel Industries Ltd,GREENP,Paper & Forest Products,equity,isin,GREENP,2019-10-23,2026-09-15,1711,True
+ORISSAMINE,INE725E01024,Orissa Minerals Development Co Ltd/The,OMDC,Metals & Mining,equity,isin,OMDC,2010-08-04,2026-09-15,3982,True
+INOXGREEN,INE510W01014,Inox Green Energy Services Ltd,INOXGREE,Construction & Engineering,equity,isin,INOXGREE,2022-11-22,2026-09-15,945,True
+UNICHEMLAB,INE351A01035,Unichem Laboratories Ltd,UL,Pharmaceuticals,equity,isin,UL,1999-06-30,2026-09-15,6732,True
+LGBBROSLTD,INE337A01034,LG Balakrishnan & Bros Ltd,LGBB,"Machinery, Equipment & Components",equity,isin,LGBB,1999-07-07,2026-09-15,6344,True
+ROSSARI,INE02A801020,Rossari Biotech Ltd,ROSSARI,Chemicals,equity,isin,ROSSARI,2020-07-22,2026-09-15,1526,True
+ASHIANA,INE365D01021,Ashiana Housing Ltd,ASFI,Real Estate Operations,equity,isin,ASFI,1999-08-16,2026-09-15,5983,True
+EXICOM,INE777F01014,Exicom Tele-Systems Ltd,EXICOM,"Machinery, Equipment & Components",equity,isin,EXICOM,2024-03-04,2026-09-15,629,True
+NDRINVIT,INE0Q7Q23015,NDR InvIT Trust,NDRINVIT,Others,invit,unresolved,NDRINVIT,2025-03-13,2026-08-31,168,False
+GOPAL,INE0L9R01028,Gopal Snacks Ltd,GOPAL,Food & Tobacco,equity,isin,GOPAL,2024-03-13,2026-09-15,622,True
+ADVENZYMES,INE837H01020,Advanced Enzyme Technologies Ltd,ADVENZY,Chemicals,equity,isin,ADVENZY,2016-07-29,2026-09-15,2504,True
+IMFA,INE919H01018,Indian Metals & Ferro Alloys Ltd,IMFA,Metals & Mining,equity,isin,IMFA,2009-01-28,2026-09-15,4353,True
+FCL,INE045J01034,Fineotex Chemical Ltd,FTXC,Chemicals,equity,isin,FTXC,2011-03-10,2026-09-15,3832,True
+SAMHI,INE08U801020,SAMHI Hotels Ltd,SAMHI,Hotels & Entertainment Services,equity,isin,SAMHI,2023-09-21,2026-09-15,738,True
+NEOGEN,INE136S01016,Neogen Chemicals Ltd,NEOGEN,Chemicals,equity,isin,NEOGEN,2019-05-07,2026-09-15,1824,True
+TCIEXP,INE586V01016,TCI Express Ltd,TCIEXP,Freight & Logistics Services,equity,isin,TCIEXP,2016-12-15,2026-09-15,2411,True
+BAJAJHIND,INE306A01021,Bajaj Hindusthan Sugar Ltd,BJH,Food & Tobacco,equity,isin,BJH,1999-06-30,2026-09-15,6581,True
+KKCL,INE401H01017,Kewal Kiran Clothing Ltd,KEKC,Textiles & Apparel,equity,isin,KEKC,2006-04-12,2026-09-15,5044,True
+DIACABS,INE989C01038,Diamond Power Infrastructure Ltd,DIACABS,"Machinery, Equipment & Components",equity,isin,DIACABS,1999-06-30,2026-09-15,6590,True
+FEDFINA,INE007N01010,Fedbank Financial Services Ltd,FEDFINA,Banking Services,equity,isin,FEDFINA,2023-11-29,2026-09-15,694,True
+ENTERO,INE010601016,Entero Healthcare Solutions Ltd,ENTERO,Healthcare Equipment & Supplies,equity,isin,ENTERO,2024-02-15,2026-09-15,641,True
+PRIVISCL,INE959A01019,Privi Speciality Chemicals Ltd,PRIVISCL,Chemicals,equity,isin,PRIVISCL,1999-06-30,2026-09-15,6467,True
+SANGHVIMOV,INE989A01032,Sanghvi Movers Ltd,SGM,Professional & Commercial Services,equity,isin,SGM,2015-09-01,2026-09-15,2727,True
+GRWRHITECH,INE291A01017,Garware Hi-Tech Films Ltd,GRWRHITE,Chemicals,equity,isin,GRWRHITE,1999-06-30,2026-09-15,6710,True
+ORIENTCEM,INE876N01018,Orient Cement Ltd,ORCMNT,Construction Materials,equity,isin,ORCMNT,2013-07-12,2026-09-15,3251,True
+ORIANA,INE0OUT01019,Oriana Power Ltd,ORIANA,Construction & Engineering,equity,unresolved,ORIANA,2025-02-28,2026-08-31,248,False
+AGI,INE415A01038,AGI Greenpac Ltd,AGIG,Containers & Packaging,equity,isin,AGIG,1999-06-30,2026-09-15,6584,True
+JAYNECOIND,INE854B01010,Jayaswal NECO Industries Ltd,NGE,Metals & Mining,equity,isin,NGE,1999-07-02,2026-09-15,6618,True
+FUSION,INE139R01012,Fusion Finance Ltd,FUSION,Banking Services,equity,isin,FUSION,2022-11-14,2026-09-15,950,True
+AARTIDRUGS,INE767A01016,Aarti Drugs Ltd,ARTD,Chemicals,equity,isin,ARTD,1999-06-30,2026-09-15,6678,True
+KOVAI,INE177F01017,Kovai Medical Center and Hospital LTD,KMC,Healthcare Providers & Services,equity,isin,KMC,2000-11-09,2026-09-15,5787,True
+GULFOILLUB,INE635Q01029,Gulf Oil Lubricants India Ltd,GOLI,Oil & Gas,equity,isin,GOLI,2014-07-31,2026-09-15,2993,True
+HDFCGOLD,INF179KC1981,Hdfc Mutual Fund-Hdfc Gold Exchange Traded Fund,HDFGOLD,Others,etf,isin-bhavcopy,HDFGOLD,2025-02-28,2026-08-31,248,False
+BALMLAWRIE,INE164A01016,Balmer Lawrie & Co Ltd,BLCL,Consumer Goods Conglomerates,equity,isin,BLCL,1999-06-30,2026-09-15,6633,True
+KSCL,INE455I01029,Kaveri Seed Co Ltd,KSCL,Food & Tobacco,equity,isin,KSCL,2007-10-03,2026-09-15,4678,True
+SUDARSCHEM,INE659A01023,Sudarshan Chemical Industries Ltd,SCHI,Chemicals,equity,isin,SCHI,1999-07-05,2026-09-15,6220,True
+SPANDANA,INE572J01011,Spandana Sphoorty Financial Ltd,SPANDANA,Banking Services,equity,isin,SPANDANA,2019-08-19,2026-09-15,1753,True
+BORORENEW,INE666D01022,Borosil Renewables Ltd,BORORENE,Renewable Energy,equity,isin,BORORENE,1999-06-30,2026-09-15,6307,True
+NAZARA,INE418L01047,Nazara Technologies Ltd,NAZARA,Software & IT Services,equity,isin,NAZARA,2021-03-30,2026-09-15,1353,True
+ASHOKA,INE442H01029,Ashoka Buildcon Ltd,ASBL,Construction & Engineering,equity,isin,ASBL,2010-10-13,2026-09-15,3933,True
+KESORAMIND,INE087A01019,Kesoram Industries Ltd,KSI,Construction Materials,equity,isin,KSI,1999-06-30,2026-09-15,6739,True
+ASKAUTOLTD,INE491J01022,ASK Automotive Ltd,ASKAUTOL,Automobiles & Auto Parts,equity,isin,ASKAUTOL,2023-11-15,2026-09-15,703,True
+SIS,INE285J01028,SIS Ltd,SECIS,Professional & Commercial Services,equity,isin,SECIS,2017-08-09,2026-09-15,2250,True
+ETHOSLTD,INE04TZ01018,Ethos Ltd,ETHOSLTD,Specialty Retailers,equity,isin,ETHOSLTD,2022-05-27,2026-09-15,1066,True
+NESCO,INE317F01035,NESCO Ltd,NSE,Real Estate Operations,equity,isin,NSE,1999-06-30,2026-09-15,6339,True
+ARVINDFASN,INE955V01021,Arvind Fashions Ltd,ARVINDFA,Others,equity,isin,ARVINDFA,2019-03-08,2026-09-15,1860,True
+TIIL,INE545H01011,Technocraft Industries India Ltd,TIIL,"Machinery, Equipment & Components",equity,isin,TIIL,2007-02-09,2026-09-15,4830,True
+JTEKTINDIA,INE643A01035,JTEKT India Ltd,JTEKT,Automobiles & Auto Parts,equity,isin,JTEKT,1999-06-30,2026-09-15,6518,True
+NOCIL,INE163A01018,NOCIL Ltd,NOCIL,Chemicals,equity,isin,NOCIL,1999-06-30,2026-09-15,6740,True
+JMFINANCIL,INE780C01023,JM Financial Ltd,JM,Investment Banking & Investment Services,equity,isin,JM,1999-06-30,2026-09-15,6415,True
+ORCHPHARMA,INE191A01027,Orchid Pharma Ltd,ORCP,Pharmaceuticals,equity,isin,ORCP,1999-06-30,2026-09-15,6738,True
+PATELENG,INE244B01030,Patel Engineering Ltd,PEC,Construction & Engineering,equity,isin,PEC,1999-08-03,2026-09-15,6378,True
+JAMNAAUTO,INE039C01032,Jamna Auto Industries Ltd,JMNA,Automobiles & Auto Parts,equity,isin,JMNA,1999-06-30,2026-09-15,6407,True
+ORIENTELEC,INE142Z01019,Orient Electric Ltd,ORIENTEL,Household Goods,equity,isin,ORIENTEL,2018-05-14,2026-09-15,2063,True
+TDPOWERSYS,INE419M01035,TD Power Systems Ltd,TDPS,"Machinery, Equipment & Components",equity,isin-bhavcopy,TDPS,2011-09-07,2026-09-15,3708,True
+TEAMLEASE,INE985S01024,TeamLease Services Ltd,TEAM,Professional & Commercial Services,equity,isin,TEAM,2016-02-11,2026-09-15,2617,True
+TI,INE133E01013,Tilaknagar Industries Ltd,TLNGR,Beverages,equity,isin,TLNGR,1999-06-30,2026-09-15,6279,True
+ICRA,INE725G01011,ICRA Ltd,ICRA,Professional & Commercial Services,equity,isin,ICRA,2007-04-12,2026-09-15,4797,True
+MTARTECH,INE864I01014,MTAR Technologies Ltd,MTARTECH,"Machinery, Equipment & Components",equity,isin,MTARTECH,2021-03-12,2026-09-15,1364,True
+VRLLOG,INE366I01010,VRL Logistics Ltd,VRLL,Freight & Logistics Services,equity,isin,VRLL,2015-04-29,2026-09-15,2814,True
+JUNIORBEES,INF732E01045,Nippon India ETF Nifty Next 50 Junior BEES,JBEES,Others,etf,isin-bhavcopy,JBEES,2025-02-28,2026-08-31,248,False
+SHILPAMED,INE790G01031,Shilpa Medicare Ltd,SLPA,Pharmaceuticals,equity,isin,SLPA,1999-08-13,2026-09-15,6072,True
+VAIBHAVGBL,INE884A01027,Vaibhav Global Ltd,VGM,Textiles & Apparel,equity,isin,VGM,2000-06-13,2026-09-15,6096,True
+DYNAMATECH,INE221B01012,Dynamatic Technologies Ltd,DYTC,Automobiles & Auto Parts,equity,isin,DYTC,1999-06-30,2026-09-15,6602,True
+VMART,INE665J01013,V-Mart Retail Ltd,VMART,Diversified Retail,equity,isin,VMART,2013-02-19,2026-09-15,3348,True
+LUXIND,INE150G01020,LUX Industries Ltd,LUX,Textiles & Apparel,equity,isin,LUX,2015-12-01,2026-09-15,2668,True
+MAXESTATES,INE03EI01018,Max Estates Ltd,MAXESTAT,Real Estate Operations,equity,isin,MAXESTAT,2023-10-30,2026-09-15,713,True
+HEMIPROP,INE0AJG01018,Hemisphere Properties India Ltd,HEMIPROP,Real Estate Operations,equity,isin,HEMIPROP,2020-10-22,2026-09-15,1461,True
+AARTIPHARM,INE0LRU01027,Aarti Pharmalabs Ltd,AARTIPHA,Pharmaceuticals,equity,isin,AARTIPHA,2023-01-30,2026-09-15,897,True
+GHCL,INE539A01019,GHCL Ltd,GHCL,Chemicals,equity,isin,GHCL,1999-06-30,2026-09-15,6720,True
+MASFIN,INE348L01012,MAS Financial Services Ltd,MASFIN,Banking Services,equity,isin,MASFIN,2017-10-17,2026-09-15,2204,True
+DBCORP,INE950I01011,DB Corp Ltd,DBCL,Media & Publishing,equity,isin,DBCL,2010-01-05,2026-09-15,4127,True
+BBOX,INE676A01027,Black Box Ltd,BBOX,Software & IT Services,equity,isin,BBOX,1999-06-30,2026-09-15,6740,True
+GMRP&UI,INE0CU601026,GMR Power and Urban Infra Ltd,GMRPUI,Electrical Utilities & IPPs,equity,isin,GMRPUI,2022-03-23,2026-09-15,1110,True
+BHARATRAS,INE838B01021,Bharat Rasayan Ltd,BRSN,Chemicals,equity,isin,BRSN,2004-10-08,2026-09-15,5274,True
+VENUSPIPES,INE0JA001018,Venus Pipes & Tubes Ltd,VENUSPIP,Metals & Mining,equity,isin,VENUSPIP,2022-05-23,2026-09-15,1070,True
+BANCOINDIA,INE213C01025,Banco Products India Ltd,BNCO,Automobiles & Auto Parts,equity,isin,BNCO,1999-06-30,2026-09-15,6638,True
+SULA,INE142Q01026,Sula Vineyards Ltd,SULA,Beverages,equity,isin,SULA,2022-12-21,2026-09-15,924,True
+SPICEJET,INE285B01017,SpiceJet Ltd,SJET,Passenger Transportation Services,equity,isin-bhavcopy,SJET,1999-06-30,2026-08-31,6564,False
+WELENT,INE625G01013,Welspun Enterprises Ltd,WELENT,Construction & Engineering,equity,isin,WELENT,2004-11-04,2026-09-15,5400,True
+AURIONPRO,INE132H01018,AurionPro Solutions Ltd,AUPS,Software & IT Services,equity,isin,AUPS,2005-10-24,2026-09-15,5129,True
+ALLCARGO,INE418H01029,Allcargo Logistics Ltd,AGLL,Freight & Logistics Services,equity,isin,AGLL,2006-06-22,2026-09-15,4998,True
+MSTCLTD,INE255X01014,MSTC Ltd,MSTCLTD,Software & IT Services,equity,isin,MSTCLTD,2019-03-28,2026-09-15,1848,True
+SANSERA,INE953O01021,Sansera Engineering Ltd,SANSERA,Automobiles & Auto Parts,equity,isin,SANSERA,2021-09-23,2026-09-15,1233,True
+PTC,INE877F01012,PTC India Ltd,PTCIN,Electrical Utilities & IPPs,equity,isin,PTCIN,2004-04-07,2026-09-15,5548,True
+HNDFDS,INE254N01026,Hindustan Foods Ltd,HNDFDS,Food & Tobacco,equity,isin,HNDFDS,2002-07-30,2026-09-15,4790,True
+PAISALO,INE420C01059,Paisalo Digital Ltd,PAISALO,Banking Services,equity,isin,PAISALO,2007-10-11,2026-09-15,4665,True
+GOKEX,INE887G01027,Gokaldas Exports Ltd,GEXP,Textiles & Apparel,equity,isin,GEXP,2005-04-26,2026-09-15,5283,True
+SHAREINDIA,INE932X01026,Share India Securities Ltd,SISLTD,Investment Banking & Investment Services,equity,isin,SISLTD,2017-10-04,2026-09-15,2213,True
+DODLA,INE021O01019,Dodla Dairy Ltd,DODLA,Food & Tobacco,equity,isin,DODLA,2021-06-25,2026-09-15,1293,True
+IFBIND,INE559A01017,IFB Industries Ltd,IFBI,Household Goods,equity,isin,IFBI,1999-06-30,2026-09-15,6413,True
+JKIL,INE576I01022,J Kumar Infraprojects Ltd,JKIL,Construction & Engineering,equity,isin,JKIL,2008-02-11,2026-09-15,4587,True
+EPL,INE255A01020,EPL Ltd,EPLL,Containers & Packaging,equity,isin,EPLL,1999-06-30,2026-09-15,6739,True
+NIITMTS,INE342G01023,NIIT Learning Systems Ltd,NIITMTS,Education,equity,isin,NIITMTS,2023-08-08,2026-09-15,767,True
+CSBBANK,INE679A01013,CSB Bank Ltd,CSBBANK,Banking Services,equity,isin,CSBBANK,2019-12-03,2026-09-15,1683,True
+PDSL,INE111Q01021,PDS Ltd,PDSL,Textiles & Apparel,equity,isin,PDSL,2014-10-21,2026-09-15,2939,True
+TSFINV,INE202Z01029,TSF Investments Ltd,SFHL,Others,equity,isin,SFHL TSFINV,2018-03-27,2026-09-15,2094,True
+SURYAROSNI,INE335A01020,Surya Roshni Ltd,SYR,Metals & Mining,equity,isin,SYR,1999-07-01,2026-09-15,6664,True
+ANDHRAPAP,INE435A01051,Andhra Paper Ltd,ANHPR,Paper & Forest Products,equity,isin,ANHPR,2015-09-01,2026-09-15,2727,True
+RUPA,INE895B01021,Rupa & Co Ltd,RUPA,Textiles & Apparel,equity,isin,RUPA,2011-09-09,2026-09-15,3668,True
+VIDHIING,INE632C01026,Vidhi Specialty Food Ingredients Ltd,VSFI,Food & Tobacco,equity,isin,VSFI,1999-07-07,2026-09-15,6619,True
+MUFIN,INE08KJ01020,Mufin Green Finance Ltd,MUFIN,Banking Services,equity,isin,MUFIN,2019-09-24,2026-09-15,1730,True
+BSHSL,INE032Z01020,Bombay Super Hybrid Seeds Ltd,BSHSL,Food & Tobacco,equity,isin,BSHSL,2018-04-24,2026-09-15,2075,True
+BCG,INE425B01027,Brightcom Group Ltd,BCG,Media & Publishing,equity,isin,BCG,2000-10-03,2026-09-15,6306,True
+MBAPL,INE900L01028,Madhya Bharat Agro Products Ltd,MBAP,Chemicals,equity,isin,MBAP,2016-09-09,2026-09-15,2477,True
+YASHO,INE616Z01012,Yasho Industries Ltd,YASHO,Chemicals,equity,isin,YASHO,2018-04-02,2026-09-15,2088,True
+GOCLCORP,INE077F01035,GOCL Corp Ltd,GOCL,Chemicals,equity,isin,GOCL,1999-07-01,2026-09-15,6349,True
+YATRA,INE0JR601024,Yatra Online Ltd,YATRA,Hotels & Entertainment Services,equity,isin,YATRA,2023-09-27,2026-09-15,734,True
+V2RETAIL,INE945H01021,V2 Retail Ltd,VREL,Specialty Retailers,equity,isin,VREL,2007-07-03,2026-09-15,4741,True
+SIYSIL,INE076B01028,Siyaram Silk Mills Ltd,SIYA,Textiles & Apparel,equity,isin,SIYA,1999-06-30,2026-09-15,6645,True
+POKARNA,INE637C01025,Pokarna Ltd,POKR,Construction Materials,equity,isin,POKR,2003-01-17,2026-09-15,5850,True
+UTKARSHBNK,INE735W01017,Utkarsh Small Finance Bank Ltd,UTKARSHB,Banking Services,equity,isin,UTKARSHB,2023-07-20,2026-09-15,781,True
+ITDC,INE353K01014,India Tourism Development Corp Ltd,ITDC,Hotels & Entertainment Services,equity,isin,ITDC,2000-01-27,2026-09-15,5961,True
+GMMPFAUDLR,INE541A01023,GMM Pfaudler Ltd,GMM,"Machinery, Equipment & Components",equity,isin,GMM,1999-07-01,2026-09-15,6208,True
+JAICORPLTD,INE070D01027,Jai Corp Ltd,JFI,Containers & Packaging,equity,isin,JFI,1999-07-01,2026-09-15,6558,True
+STLTECH,INE089C01029,Sterlite Technologies Ltd,SOTL,Communications & Networking,equity,isin,SOTL,2000-10-26,2026-09-15,6409,True
+RALLIS,INE613A01020,Rallis India Ltd,RALI,Chemicals,equity,isin,RALI,1999-06-30,2026-09-15,6689,True
+TIMETECHNO,INE508G01029,Time Technoplast Ltd,TIME,Containers & Packaging,equity,isin,TIME,2007-06-12,2026-09-15,4758,True
+HERITGFOOD,INE978A01027,Heritage Foods Ltd,HTFL,Food & Tobacco,equity,isin,HTFL,1999-06-30,2026-09-15,6647,True
+KRBL,INE001B01026,KRBL Ltd,KRB,Food & Tobacco,equity,isin,KRB,1999-07-14,2026-09-15,6221,True
+INDIGOPNTS,INE09VQ01012,Indigo Paints Ltd,INDIGOPN,Chemicals,equity,isin,INDIGOPN,2021-02-01,2026-09-15,1392,True
+INDIASHLTR,INE922K01024,India Shelter Finance Corp Ltd,INDIASHL,Banking Services,equity,isin,INDIASHL,2023-12-19,2026-09-15,679,True
+BANKBEES,INF204KB15I9,Nippon India ETF Nifty Bank BEES,BBEES,Others,etf,isin-bhavcopy,BBEES,2025-02-28,2026-08-31,248,False
+EMUDHRA,INE01QM01018,eMudhra Ltd,EMUDHRA,Software & IT Services,equity,isin,EMUDHRA,2022-05-31,2026-09-15,1064,True
+ROLEXRINGS,INE645S01024,Rolex Rings Ltd,ROLEXRIN,"Machinery, Equipment & Components",equity,isin,ROLEXRIN,2021-08-06,2026-09-15,1265,True
+SUPRAJIT,INE399C01030,Suprajit Engineering Ltd,SEL,Automobiles & Auto Parts,equity,isin,SEL,2003-03-25,2026-09-15,5801,True
+DBL,INE917M01012,Dilip Buildcon Ltd,DBL,Construction & Engineering,equity,isin,DBL,2016-08-10,2026-09-15,2495,True
+BLUEJET,INE0KBH01020,Blue Jet Healthcare Ltd,BLUEJET,Pharmaceuticals,equity,isin,BLUEJET,2023-11-01,2026-09-15,712,True
+HCC,INE549A01026,Hindustan Construction Co Ltd,HCC,Construction & Engineering,equity,isin,HCC,1999-06-30,2026-09-15,6717,True
+VSTIND,INE710A01016,VST Industries Ltd,VST,Food & Tobacco,equity,isin,VST,1999-06-30,2026-09-15,6650,True
+PARADEEP,INE088F01024,Paradeep Phosphates Ltd,PARADEEP,Chemicals,equity,isin,PARADEEP,2022-05-26,2026-09-15,1067,True
+KIRLOSIND,INE250A01039,Kirloskar Industries Ltd,KKIL,Metals & Mining,equity,isin,KKIL,1999-06-30,2026-09-15,6665,True
+GABRIEL,INE524A01029,Gabriel India Ltd,GABR,Automobiles & Auto Parts,equity,isin,GABR,1999-07-01,2026-09-15,6521,True
+CYIENTDLM,INE055S01018,Cyient DLM Ltd,CYIENTDL,Software & IT Services,equity,isin,CYIENTDL,2023-07-07,2026-09-15,790,True
+PRICOLLTD,INE726V01018,Pricol Ltd,PRICOL,Automobiles & Auto Parts,equity,isin,PRICOL,1999-06-30,2026-09-15,6460,True
+EPIGRAL,INE071N01016,Epigral Ltd,EPIGRAL,Chemicals,equity,isin,EPIGRAL,2021-08-18,2026-09-15,1257,True
+GUJALKALI,INE186A01019,Gujarat Alkalies & Chemicals Ltd,GALK,Chemicals,equity,isin,GALK,1999-06-30,2026-09-15,6725,True
+RAIN,INE855B01025,Rain Industries Ltd,RINDL,Chemicals,equity,isin,RINDL,1999-06-30,2026-09-15,6673,True
+RSYSTEMS,INE411H01032,R Systems International Ltd,RSYS,Software & IT Services,equity,isin,RSYS,2006-04-25,2026-09-15,5034,True
+RBA,INE07T201019,Restaurant Brands Asia Ltd,RBA,Hotels & Entertainment Services,equity,isin,RBA,2020-12-11,2026-09-15,1426,True
+GOCOLORS,INE0BJS01011,Go Fashion India Ltd,GOCOLORS,Specialty Retailers,equity,isin,GOCOLORS,2021-11-29,2026-09-15,1189,True
+NFL,INE870D01012,National Fertilizers Ltd,NFL,Chemicals,equity,isin,NFL,1999-08-02,2026-09-15,6263,True
+TARC,INE0EK901012,TARC Ltd,TARC,Real Estate Operations,equity,isin,TARC,2020-12-18,2026-09-15,1421,True
+SHAKTIPUMP,INE908D01010,Shakti Pumps India Ltd,SKPI,"Machinery, Equipment & Components",equity,isin,SKPI,1999-07-26,2026-09-15,6133,True
+WONDERLA,INE066O01014,Wonderla Holidays Ltd,WONH,Hotels & Entertainment Services,equity,isin,WONH,2014-05-08,2026-09-15,3050,True
+PRINCEPIPE,INE689W01016,Prince Pipes & Fittings Ltd,PRINCPIP,Homebuilding & Construction Supplies,equity,isin,PRINCPIP,2019-12-27,2026-09-15,1666,True
+JINDWORLD,INE247D01039,Jindal Worldwide Ltd,JINW,Textiles & Apparel,equity,isin,JINW,1999-12-13,2026-09-15,6077,True
+LXCHEM,INE576O01020,Laxmi Organic Industries Ltd,LXCHEM,Chemicals,equity,isin,LXCHEM,2021-03-24,2026-09-15,1356,True
+HMT,INE262A01018,HMT Ltd,HMT,"Machinery, Equipment & Components",equity,isin,HMT,1999-06-30,2026-09-15,6615,True
+DHANUKA,INE435G01025,Dhanuka Agritech Ltd,DAGRI,Chemicals,equity,isin,DAGRI,1999-06-30,2026-09-15,6338,True
+VIPIND,INE054A01027,VIP Industries Ltd,VIP,Textiles & Apparel,equity,"isin,name",VIP,2015-09-01,2026-09-15,2726,True
+GALLANTT,INE297H01019,Gallantt Ispat Ltd,GALL,Metals & Mining,equity,isin,GALL,2006-04-03,2026-09-15,5050,True
+GAEL,INE036B01030,Gujarat Ambuja Exports Ltd,GAEX,Food & Tobacco,equity,isin,GAEX,1999-06-30,2026-09-15,6725,True
+ICIL,INE483B01026,Indo Count Industries Ltd,ICNT,Textiles & Apparel,equity,isin,ICNT,1999-06-30,2026-09-15,6596,True
+BALAMINES,INE050E01027,Balaji Amines Ltd,BLA,Chemicals,equity,isin,BLA,1999-08-25,2026-09-15,6111,True
+SPARC,INE232I01014,Sun Pharma Advanced Research Co Ltd,SPADV,Pharmaceuticals,equity,isin,SPADV,2007-07-18,2026-09-15,4732,True
+TCI,INE688A01022,Transport Corp of India Ltd,TRPC,Freight & Logistics Services,equity,isin,TRPC,2000-08-08,2026-09-15,6228,True
+JKPAPER,INE789E01012,JK Paper Ltd,JKPAPER,Paper & Forest Products,equity,isin,JKPAPER,2000-01-20,2026-09-15,6007,True
+PRUDENT,INE00F201020,Prudent Corporate Advisory Services Ltd,PRUDENT,Investment Banking & Investment Services,equity,isin,PRUDENT,2022-05-19,2026-09-15,1072,True
+TRIVENI,INE256C01024,Triveni Engineering & Industries Ltd,TRE,Others,equity,isin,TRE,2015-09-01,2026-09-15,2726,True
+ESABINDIA,INE284A01012,ESAB India Ltd,ESAB,"Machinery, Equipment & Components",equity,isin,ESAB,1999-06-30,2026-09-15,6736,True
+WABAG,INE956G01038,VA Tech Wabag Ltd,VATW,Water Utilities,equity,isin,VATW,2010-10-12,2026-09-15,3935,True
+CHOICEIN,INE102B01014,Choice International Ltd,CFIS,Investment Banking & Investment Services,equity,isin,CFIS,1999-08-17,2026-09-15,6121,True
+RELIGARE,INE621H01010,Religare Enterprises Ltd,RELG,Insurance,equity,isin,RELG,2007-11-20,2026-09-15,4643,True
+SOUTHBANK,INE683A01023,South Indian Bank Ltd/The,SIB,Banking Services,equity,isin,SIB,1999-07-01,2026-09-15,6593,True
+LLOYDSENGG,INE093R01011,Lloyds Engineering Works Ltd,LLOYDSEN,Metals & Mining,equity,isin,LLOYDSEN,2016-07-18,2026-09-15,2513,True
+JSFB,INE953L01027,Jana Small Finance Bank Ltd,JSFB,Banking Services,equity,isin,JSFB,2024-02-13,2026-09-15,643,True
+SENCO,INE602W01027,Senco Gold Ltd,SENCO,Textiles & Apparel,equity,isin,SENCO,2023-07-14,2026-09-15,785,True
+FDC,INE258B01022,FDC Ltd/India,FDCLT,Pharmaceuticals,equity,isin,FDCLT,1999-06-30,2026-09-15,6670,True
+RELINFRA,INE036A01016,Reliance Infrastructure Ltd,RELI,Electrical Utilities & IPPs,equity,isin,RELI,1999-06-30,2026-09-15,6739,True
+EASEMYTRIP,INE07O001026,Easy Trip Planners Ltd,EASEMYTR,Hotels & Entertainment Services,equity,isin,EASEMYTR,2021-03-18,2026-09-15,1360,True
+SHOPERSTOP,INE498B01024,Shoppers Stop Ltd,SHOP,Diversified Retail,equity,isin,SHOP,2005-05-20,2026-09-15,5267,True
+KTKBANK,INE614B01018,Karnataka Bank Ltd/The,KBL,Banking Services,equity,isin,KBL,2002-04-22,2026-09-15,6039,True
+PRSMJOHNSN,INE010A01011,Prism Johnson Ltd,PRSMJ,Construction Materials,equity,isin,PRSMJ,1999-06-30,2026-09-15,6739,True
+MARKSANS,INE750C01026,Marksans Pharma Ltd,MRKS,Pharmaceuticals,equity,isin,MRKS,1999-06-30,2026-09-15,6662,True
+TVSSCS,INE395N01027,TVS Supply Chain Solutions Ltd/India,TVSSCS,Freight & Logistics Services,equity,isin,TVSSCS,2023-08-22,2026-09-15,759,True
+JSWHL,INE824G01012,JSW Holdings Ltd/India,SWH,Investment Banking & Investment Services,equity,isin,SWH,2005-06-21,2026-09-15,5244,True
+MANINFRA,INE949H01023,Man Infraconstruction Ltd,MINF,Construction & Engineering,equity,isin,MINF,2010-03-10,2026-09-15,4084,True
+TMB,INE668A01016,Tamilnad Mercantile Bank Ltd,TMB,Banking Services,equity,isin,TMB,2022-09-14,2026-09-15,990,True
+ACI,INE128X01021,Archean Chemical Industries Ltd,ACI,Chemicals,equity,isin,ACI,2022-11-18,2026-09-15,946,True
+PGEL,INE457L01029,PG Electroplast Ltd,PGEL,Electronic Equipment & Parts,equity,isin,PGEL,2011-09-23,2026-09-15,3695,True
+DEEPAKFERT,INE501A01019,Deepak Fertilisers & Petrochemicals Corp Ltd,DFPC,Chemicals,equity,isin,DFPC,1999-06-30,2026-09-15,6738,True
+KENNAMET,INE717A01029,Kennametal India Ltd,KNM,"Machinery, Equipment & Components",equity,isin,KNM,1999-09-30,2026-09-15,6452,True
+HOMEFIRST,INE481N01025,Home First Finance Co India Ltd,HOMEFIRS,Banking Services,equity,isin,HOMEFIRS,2021-02-02,2026-09-15,1391,True
+SUNTECK,INE805D01034,Sunteck Realty Ltd,SRIN,Real Estate Operations,equity,isin,SRIN,2001-11-21,2026-09-15,5980,True
+GREENLAM,INE544R01021,Greenlam Industries Ltd,GRLM,Paper & Forest Products,equity,isin,GRLM,2015-03-02,2026-09-15,2851,True
+CMSINFO,INE925R01014,CMS Info Systems Ltd,CMSINFO,Professional & Commercial Services,equity,isin,CMSINFO,2021-12-30,2026-09-15,1166,True
+IONEXCHANG,INE570A01022,ION Exchange India Ltd,ION,Professional & Commercial Services,equity,isin,ION,1999-06-30,2026-09-15,6703,True
+TEXRAIL,INE621L01012,Texmaco Rail & Engineering Ltd,TXMRE,"Machinery, Equipment & Components",equity,isin,TXMRE,2011-03-03,2026-09-15,3837,True
+GRAVITA,INE024L01027,Gravita India Ltd,GRAV,Metals & Mining,equity,isin,GRAV,2010-11-15,2026-09-15,3911,True
+MIDHANI,INE099Z01011,Mishra Dhatu Nigam Ltd,MIDHANI,Metals & Mining,equity,isin,MIDHANI,2018-04-03,2026-09-15,2091,True
+POWERMECH,INE211R01019,Power Mech Projects Ltd,POWM,Construction & Engineering,equity,isin,POWM,2015-08-25,2026-09-15,2730,True
+KIRLPNU,INE811A01038,Kirloskar Pneumatic Co Ltd,KKPC,"Machinery, Equipment & Components",equity,isin-bhavcopy,KKPC,1999-06-30,2026-09-15,6380,True
+ASTRAMICRO,INE386C01029,Astra Microwave Products Ltd,ASTM,Pharmaceuticals,equity,isin,ASTM,2003-04-08,2026-09-15,5799,True
+CCL,INE421D01022,CCL Products India Ltd,CCLP,Food & Tobacco,equity,isin,CCLP,1999-11-03,2026-09-15,6330,True
+BALRAMCHIN,INE119A01028,Balrampur Chini Mills Ltd,BRCM,Food & Tobacco,equity,isin,BRCM,1999-06-30,2026-09-15,6704,True
+SYMPHONY,INE225D01027,Symphony Ltd,SYML,Household Goods,equity,isin,SYML,1999-07-01,2026-09-15,6516,True
+SARDAEN,INE385C01021,Sarda Energy & Minerals Ltd,SEML,Metals & Mining,equity,isin,SEML,1999-07-02,2026-09-15,6341,True
+AHLUCONT,INE758C01029,Ahluwalia Contracts India Ltd,AHLU,Construction & Engineering,equity,isin,AHLU,2007-02-22,2026-09-15,4830,True
+JLHL,INE682M01020,Jupiter Life Line Hospitals Ltd,JLHL,Healthcare Providers & Services,equity,isin-bhavcopy,JLHL,2023-09-15,2026-09-15,741,True
+NEULANDLAB,INE794A01010,Neuland Laboratories Ltd,NLL,Pharmaceuticals,equity,isin,NLL,1999-06-30,2026-09-15,6711,True
+MHRIL,INE998I01010,Mahindra Holidays & Resorts India Ltd,MHRL,Hotels & Entertainment Services,equity,isin,MHRL,2009-07-15,2026-09-15,4243,True
+JUBLINGREA,INE0BY001018,Jubilant Ingrevia Ltd,JUBLINGR,Chemicals,equity,isin,JUBLINGR,2021-03-19,2026-09-15,1360,True
+SYRMA,INE0DYJ01015,Syrma SGS Technology Ltd,SYRMA,Electronic Equipment & Parts,equity,isin,SYRMA,2022-08-25,2026-09-15,1004,True
+GARFIBRES,INE276A01018,Garware Technical Fibres Ltd,GTFL,Textiles & Apparel,equity,isin,GTFL,1999-06-30,2026-09-15,6648,True
+CRAFTSMAN,INE00LO01017,Craftsman Automation Ltd,CRAFTSMA,"Machinery, Equipment & Components",equity,isin,CRAFTSMA,2021-03-24,2026-09-15,1355,True
+STARCEMENT,INE460H01021,Star Cement Ltd,STRCEM,Construction Materials,equity,isin,STRCEM,2017-06-16,2026-09-15,2286,True
+GATEWAY,INE079J01017,Gateway Distriparks Ltd,GRFL,Freight & Logistics Services,equity,isin,GRFL,2022-03-22,2026-09-15,1111,True
+NAVA,INE725A01030,Nava Ltd,NAVA,Consumer Goods Conglomerates,equity,isin,NAVA,2015-09-01,2026-09-15,2726,True
+ZENTEC,INE251B01027,Zen Technologies Ltd,ZEN,Aerospace & Defense,equity,isin,ZEN,2004-10-25,2026-09-15,5409,True
+EMIL,INE02YR01019,Electronics Mart India Ltd,EMIL,Specialty Retailers,equity,isin,EMIL,2022-10-14,2026-09-15,970,True
+MEDPLUS,INE804L01022,Medplus Health Services Ltd,MEDPLUS,Food & Drug Retailing,equity,isin,MEDPLUS,2021-12-22,2026-09-15,1171,True
+BECTORFOOD,INE495P01020,Mrs Bectors Food Specialities Ltd,BECTORS,Food & Tobacco,equity,isin,BECTORS,2020-12-23,2026-09-15,1418,True
+HEG,INE545A01024,HEG Ltd,HEG,"Machinery, Equipment & Components",equity,isin,HEG,2015-09-01,2026-09-15,2727,True
+ISGEC,INE858B01029,ISGEC Heavy Engineering Ltd,IGSEC,"Machinery, Equipment & Components",equity,isin,IGSEC,2008-12-05,2026-09-15,4387,True
+ANURAS,INE930P01018,Anupam Rasayan India Ltd,ANURAS,Chemicals,equity,isin,ANURAS,2021-03-23,2026-09-15,1358,True
+MASTEK,INE759A01021,Mastek Ltd,MAST,Software & IT Services,equity,isin,MAST,1999-06-30,2026-09-15,6734,True
+SHRIPISTON,INE526E01018,SPR Auto Technologies Ltd,SPRL,Automobiles & Auto Parts,equity,isin,SPRL,2016-06-09,2026-09-15,2539,True
+CHEMPLASTS,INE488A01050,Chemplast Sanmar Ltd,CHEMPLAS,Chemicals,equity,isin,CHEMPLAS,2021-08-23,2026-09-15,1255,True
+LTFOODS,INE818H01020,LT Foods Ltd,LTFOODS,Food & Tobacco,equity,isin,LTFOODS,2006-12-15,2026-09-15,4876,True
+AVANTIFEED,INE871C01038,Avanti Feeds Ltd,AVNT,Food & Tobacco,equity,isin,AVNT,1999-06-30,2026-09-15,6688,True
+RATEGAIN,INE0CLI01024,Rategain Travel Technologies Ltd,RATEGAIN,Software & IT Services,equity,isin,RATEGAIN,2021-12-16,2026-09-15,1175,True
+PGINVIT,INE0GGX23010,PowerGrid Infrastructure Investment Trust,PGINVIT,Others,invit,isin-bhavcopy,PGINVIT,2021-05-14,2026-08-31,1205,False
+QUESS,INE615P01015,Quess Corp Ltd,QUESS,Professional & Commercial Services,equity,isin,QUESS,2016-07-11,2026-09-15,2519,True
+RESPONIND,INE688D01026,Responsive Industries Ltd,RESP,"Furniture, Home Furnishing",equity,isin,RESP,2015-09-01,2026-09-15,2726,True
+RUSTOMJEE,INE263M01029,Keystone Realtors Ltd,RUSTOMJE,Real Estate Operations,equity,isin,RUSTOMJE,2022-11-23,2026-09-15,943,True
+EBBETF0431,INF754K01LE1,BHARAT Bond ETF - April 2031,BETF0431,Others,etf,isin-bhavcopy,BETF0431,2025-02-28,2026-08-31,248,False
+WOCKPHARMA,INE049B01025,Wockhardt Ltd,WPL,Pharmaceuticals,equity,isin,WPL,2000-02-21,2026-09-15,6579,True
+SANDUMA,INE149K01016,Sandur Manganese & Iron Ores Ltd/The,SANDUMA,Metals & Mining,equity,isin,SANDUMA,1999-08-16,2026-09-15,5978,True
+INDIACEM,INE383A01012,India Cements Ltd/The,ICEM,Software & IT Services,equity,isin,ICEM,1999-06-30,2026-09-15,6739,True
+EDELWEISS,INE532F01054,Edelweiss Financial Services Ltd,EDEL,Investment Banking & Investment Services,equity,isin,EDEL,2007-12-11,2026-09-15,4630,True
+HCG,INE075I01017,HealthCare Global Enterprises Ltd,HCG,Healthcare Providers & Services,equity,isin,HCG,2016-03-29,2026-09-15,2588,True
+SHARDAMOTR,INE597I01028,Sharda Motor Industries Ltd,SHMO,Automobiles & Auto Parts,equity,isin,SHMO,2013-05-22,2026-09-15,3286,True
+BBL,INE464A01036,Bharat Bijlee Ltd,BIJL,"Machinery, Equipment & Components",equity,isin,BIJL,1999-06-30,2026-09-15,6659,True
+HARSHA,INE0JUS01029,Harsha Engineers International Ltd,HARSHA,"Machinery, Equipment & Components",equity,isin,HARSHA,2022-09-23,2026-09-15,983,True
+HEIDELBERG,INE578A01017,HeidelbergCement India Ltd,HEIM,Construction Materials,equity,isin,HEIM,1999-06-30,2026-09-15,6705,True
+JISLJALEQS,INE175A01038,Jain Irrigation Systems Ltd,JI,"Machinery, Equipment & Components",equity,isin,JI,1999-06-30,2026-09-15,6666,True
+PGHL,INE199A01012,Procter & Gamble Health Ltd,PGHL,Pharmaceuticals,equity,isin,PGHL,2000-03-31,2026-09-15,6548,True
+NETWORK18,INE870H01013,Network18 Media & Investments Ltd,NETM,Media & Publishing,equity,isin,NETM,2007-02-02,2026-09-15,4845,True
+RAJESHEXPO,INE343B01030,Rajesh Exports Ltd,RJEX,Textiles & Apparel,equity,isin,RJEX,2000-07-25,2026-09-15,6199,True
+VIJAYA,INE043W01024,Vijaya Diagnostic Centre Ltd,VIJAYA,Healthcare Providers & Services,equity,isin,VIJAYA,2021-09-13,2026-09-15,1241,True
+RENUKA,INE087H01022,Shree Renuka Sugars Ltd,SHRS,Food & Tobacco,equity,isin,SHRS,2005-10-28,2026-09-15,5156,True
+SBFC,INE423Y01016,SBFC Finance Ltd,SBFC,Banking Services,equity,isin,SBFC,2023-08-16,2026-09-15,763,True
+RTNPOWER,INE399K01017,RattanIndia Power Ltd,RTPOW,Electrical Utilities & IPPs,equity,isin,RTPOW,2009-10-29,2026-09-15,4172,True
+PCBL,INE602A01031,PCBL CHEMICAL Ltd,PCBL,Chemicals,equity,isin,PCBL,1999-07-01,2026-09-15,6522,True
+MAHSEAMLES,INE271B01025,Maharashtra Seamless Ltd,MHS,Metals & Mining,equity,isin,MHS,1999-06-30,2026-09-15,6717,True
+RCF,INE027A01015,Rashtriya Chemicals & Fertilizers Ltd,RCF,Chemicals,equity,isin,RCF,1999-06-30,2026-09-15,6737,True
+INDIGRID,INE219X23014,IndiGrid Infrastructure Trust,INDIGRID,Others,invit,isin-bhavcopy,INDIGRID,2017-06-05,2026-08-31,2176,False
+GALAXYSURF,INE600K01018,Galaxy Surfactants Ltd,GALSURF,Chemicals,equity,isin,GALSURF,2018-02-07,2026-09-15,2125,True
+GPPL,INE517F01014,Gujarat Pipavav Port Ltd,GPPV,Transport Infrastructure,equity,isin,GPPV,2010-09-08,2026-09-15,3957,True
+GENUSPOWER,INE955D01029,Genus Power Infrastructures Ltd,GPIN,"Machinery, Equipment & Components",equity,isin,GPIN,1999-06-30,2026-09-15,6622,True
+GSFC,INE026A01025,Gujarat State Fertilizers & Chemicals Ltd,GSFC,Chemicals,equity,isin,GSFC,1999-06-30,2026-09-15,6740,True
+VARROC,INE665L01035,Varroc Engineering Ltd,VARROC,Automobiles & Auto Parts,equity,isin,VARROC,2018-07-06,2026-09-15,2024,True
+AZAD,INE02IJ01035,Azad Engineering Ltd,AZAD,"Machinery, Equipment & Components",equity,isin,AZAD,2023-12-27,2026-09-15,675,True
+SAPPHIRE,INE806T01020,Sapphire Foods India Ltd,SAPPHIRE,Hotels & Entertainment Services,equity,isin,SAPPHIRE,2021-11-18,2026-09-15,1195,True
+CERA,INE739E01017,Cera Sanitaryware Ltd,CRS,Homebuilding & Construction Supplies,equity,isin,CRS,2002-05-17,2026-09-15,5985,True
+ARVIND,INE034A01011,Arvind Ltd,ARVND,Garments & Apparels,equity,isin,ARVND,2015-09-01,2026-09-15,2727,True
+JUNIPER,INE696F01016,Juniper Hotels Ltd,JUNIPER,Hotels & Entertainment Services,equity,isin,JUNIPER,2024-02-27,2026-09-15,633,True
+JKLAKSHMI,INE786A01032,JK Lakshmi Cement Ltd,JKLC,Construction Materials,equity,isin,JKLC,1999-06-30,2026-09-15,6697,True
+UJJIVANSFB,INE551W01018,Ujjivan Small Finance Bank Ltd,UJJIVANS,Banking Services,equity,isin,UJJIVANS,2019-12-11,2026-09-15,1677,True
+KIRLFER,INE884B01025,Kirloskar Ferrous Industries Ltd,KKF,Metals & Mining,equity,isin,KKF,1999-06-30,2026-09-15,6486,True
+GNFC,INE113A01013,Gujarat Narmada Valley Fertilizers & Chemicals Ltd,GNFC,Chemicals,equity,isin,GNFC,1999-06-30,2026-09-15,6740,True
+SAFARI,INE429E01023,Safari Industries India Ltd,SII,Textiles & Apparel,equity,isin,SII,1999-06-30,2026-09-15,6497,True
+GOLDBEES,INF204KB17I5,Nippon India ETF Gold BeES,GBEES,Others,etf,isin-bhavcopy,GBEES,2025-02-28,2026-08-31,248,False
+CAMPUS,INE278Y01022,Campus Activewear Ltd,CAMPUS,Textiles & Apparel,equity,isin,CAMPUS,2022-05-06,2026-09-15,1081,True
+MAHSCOOTER,INE288A01013,Maharashtra Scooters Ltd,MHSC,Holding Companies,equity,isin,MHSC,1999-06-30,2026-09-15,6695,True
+JUSTDIAL,INE599M01018,Just Dial Ltd,JUST,Software & IT Services,equity,isin,JUST,2013-06-04,2026-09-15,3278,True
+STAR,INE939A01011,Strides Pharma Science Ltd,STR,Pharmaceuticals,equity,isin,STR,2004-06-08,2026-09-15,5507,True
+IDFCFIRSTB,INE092T01019,IDFC First Bank Ltd,IDFCFB,Banking Services,equity,isin,IDFCFB,2015-11-06,2026-09-15,2683,True
+NRBBEARING,INE349A01021,NRB Bearings Ltd,NRBBR,"Machinery, Equipment & Components",equity,isin,NRBBR,1999-06-30,2026-09-15,6663,True
+BERGEPAINT,INE463A01038,Berger Paints India Ltd,BRGR,Chemicals,equity,isin,BRGR,1999-06-30,2026-09-15,6720,True
+MINDACORP,INE842C01021,Minda Corp Ltd,MDA,Automobiles & Auto Parts,equity,isin,MDA,2015-02-23,2026-09-15,2857,True
+CEATLTD,INE482A01020,Ceat Ltd,CEAT,Automobiles & Auto Parts,equity,isin,CEAT,1999-06-30,2026-09-15,6713,True
+METROPOLIS,INE112L01020,Metropolis Healthcare Ltd,METROHL,Healthcare Providers & Services,equity,isin,METROHL,2019-04-12,2026-09-15,1837,True
+CANFINHOME,INE477A01020,Can Fin Homes Ltd,CANF,Banking Services,equity,isin,CANF,1999-06-30,2026-09-15,6611,True
+RTNINDIA,INE834M01019,RattanIndia Enterprises Ltd,RATI,Software & IT Services,equity,isin,RATI,2012-07-30,2026-09-15,3487,True
+DBREALTY,INE879I01012,Valor Estate Ltd,DBREALTY,Others,equity,isin,DBREALTY,2010-02-23,2026-09-15,4095,True
+BANKNIFTY1,INF174K01F59,Kotak Nifty Bank ETF,BANKNIFT,Others,etf,isin-bhavcopy,BANKNIFT,2025-02-28,2026-08-31,199,False
+RPOWER,INE614G01033,Reliance Power Ltd,RPWR,Electrical Utilities & IPPs,equity,isin,RPWR,2008-02-08,2026-09-15,4589,True
+KNRCON,INE634I01029,KNR Constructions Ltd,KNRC,Construction & Engineering,equity,isin,KNRC,2008-02-15,2026-09-15,4566,True
+AETHER,INE0BWX01014,Aether Industries Ltd,AETHER,Chemicals,equity,isin,AETHER,2022-06-02,2026-09-15,1062,True
+JKTYRE,INE573A01042,JK Tyre & Industries Ltd,JKI,Automobiles & Auto Parts,equity,isin,JKI,2000-01-03,2026-09-15,6573,True
+MAPMYINDIA,INE0BV301023,CE Info Systems Ltd,MAPMYIND,Software & IT Services,equity,isin,MAPMYIND,2021-12-20,2026-09-15,1174,True
+MMTC,INE123F01029,MMTC Ltd,MMTC,Metals & Mining,equity,isin,MMTC,1999-12-23,2026-09-15,5959,True
+REDTAPE,INE0LXT01019,Redtape Ltd/India,REDTAPE,Specialty Retailers,equity,isin,REDTAPE,2023-08-11,2026-09-15,765,True
+SBINIFT,INF200KA1FS1,SBI-ETF Nifty 50,SBINIFT,,etf,unresolved,SBINIFT,2025-02-28,2026-08-31,248,False
+HGINFRA,INE926X01010,HG Infra Engineering Ltd,HGINFRA,Construction & Engineering,equity,isin,HGINFRA,2018-03-08,2026-09-15,2107,True
+HAPPYFORGE,INE330T01021,Happy Forgings Ltd,HAPPYFOR,Automobiles & Auto Parts,equity,isin,HAPPYFOR,2023-12-26,2026-09-15,676,True
+KPIGREEN,INE542W01025,KPI Green Energy Ltd,KPIG,Electrical Utilities & IPPs,equity,isin,KPIG,2019-01-21,2026-09-15,1890,True
+VESUVIUS,INE386A01023,Vesuvius India Ltd,VI,"Machinery, Equipment & Components",equity,isin,VI,2000-03-31,2026-09-15,6534,True
+SAREGAMA,INE979A01025,Saregama India Ltd,SARE,Media & Publishing,equity,isin,SARE,1999-06-30,2026-09-15,6733,True
+VOLTAMP,INE540H01012,Voltamp Transformers Ltd,VAMP,"Machinery, Equipment & Components",equity,isin,VAMP,2006-09-19,2026-09-15,4935,True
+CUB,INE491A01021,City Union Bank Ltd,CUBK,Banking Services,equity,isin,CUBK,1999-07-05,2026-09-15,6509,True
+WESTLIFE,INE274F01020,Westlife Foodworld Ltd,WESTLIFE,Hotels & Entertainment Services,equity,isin,WESTLIFE,1999-08-11,2026-09-15,5949,True
+AMBER,INE371P01015,Amber Enterprises India Ltd,AMBER,"Machinery, Equipment & Components",equity,isin,AMBER,2018-01-29,2026-09-15,2133,True
+CUBEINVI,INE0NR623014,Cube Highways Trust,CUBEINVI,Others,invit,unresolved,CUBEINVI,2023-04-19,2026-08-31,357,False
+DCMSHRIRAM,INE499A01024,DCM Shriram Ltd,DCMS,Chemicals,equity,isin,DCMS,1999-06-30,2026-09-15,6514,True
+TTML,INE517B01013,Tata Teleservices Maharashtra Ltd,TTLS,Telecommunications Services,equity,isin,TTLS,2000-10-26,2026-09-15,6409,True
+ASAHIINDIA,INE439A01020,Asahi India Glass Ltd,AISG,Automobiles & Auto Parts,equity,isin,AISG,1999-06-30,2026-09-15,6412,True
+IEX,INE022Q01020,Indian Energy Exchange Ltd,IEX,Investment Banking & Investment Services,equity,isin,IEX,2017-10-23,2026-09-15,2202,True
+SFL,INE916U01025,Sheela Foam Ltd,SFL,Household Goods,equity,isin,SFL,2016-12-08,2026-09-15,2417,True
+TTKPRESTIG,INE690A01028,TTK Prestige Ltd,TTKPT,Household Goods,equity,isin,TTKPT,1999-06-30,2026-09-15,6537,True
+HONASA,INE0J5401028,Honasa Consumer Ltd,HONASA,Specialty Retailers,equity,isin,HONASA,2023-11-06,2026-09-15,708,True
+GMDCLTD,INE131A01031,Gujarat Mineral Development Corp Ltd,GMDC,Coal,equity,isin,GMDC,1999-06-30,2026-09-15,6731,True
+BAJAJELEC,INE193E01025,Bajaj Electricals Ltd,BJE,Others,equity,isin,BJE,2015-09-01,2026-09-15,2727,True
+USHAMART,INE228A01035,Usha Martin Ltd,USM,Metals & Mining,equity,isin,USM,1999-06-30,2026-09-15,6735,True
+SCI,INE109A01011,Shipping Corp of India Ltd,SCI,Freight & Logistics Services,equity,isin,SCI,1999-06-30,2026-09-15,6740,True
+BIRET,INE0FDU25010,Brookfield India Real Estate Trust,BIRET,Residential & Commercial REIT,reit,isin-bhavcopy,BIRET,2021-02-15,2026-08-31,1263,False
+LEMONTREE,INE970X01018,Lemon Tree Hotels Ltd,LEMONTRE,Hotels & Entertainment Services,equity,isin,LEMONTRE,2018-04-06,2026-09-15,2088,True
+DOMS,INE321T01012,Doms Industries Ltd,DOMS,Professional & Commercial Services,equity,isin,DOMS,2023-12-19,2026-09-15,680,True
+GRANULES,INE101D01020,Granules India Ltd,GRAN,Pharmaceuticals,equity,isin,GRAN,2002-12-19,2026-09-15,5871,True
+INOXINDIA,INE616N01034,INOX India Ltd,INOXINDI,"Machinery, Equipment & Components",equity,isin,INOXINDI,2023-12-20,2026-09-15,678,True
+BIRLACORPN,INE340A01012,Birla Corp Ltd,BCORP,Construction Materials,equity,isin,BCORP,1999-06-30,2026-09-15,6712,True
+LIQUIDBEES,INF732E01037,Nippon India ETF Nifty 1D Rate Liquid BEES,LBEES,Others,etf,isin-bhavcopy,LBEES,2025-02-28,2026-08-31,248,False
+ECLERX,INE738I01010,eClerx Services Ltd,ECLX,Professional & Commercial Services,equity,isin,ECLX,2007-12-28,2026-09-15,4617,True
+JUBLPHARMA,INE700A01033,Jubilant Pharmova Ltd,JUBLPHAR,Others,equity,isin,JUBLPHAR,1999-06-30,2026-09-15,6707,True
+ZYDUSWELL,INE768C01028,Zydus Wellness Ltd,ZYWL,Food & Tobacco,equity,isin,ZYWL,1999-07-14,2026-09-15,5986,True
+KFINTECH,INE138Y01010,Kfin Technologies Ltd,KFINTECH,Financial Technology (Fintech) & Infrastructure,equity,isin,KFINTECH,2022-12-28,2026-09-15,920,True
+ALKYLAMINE,INE150B01039,Alkyl Amines Chemicals,AACL,Chemicals,equity,isin,AACL,1999-06-30,2026-09-15,6610,True
+NUVOCO,INE118D01016,Nuvoco Vistas Corp Ltd,NUVOCO,Construction Materials,equity,isin,NUVOCO,2021-08-20,2026-09-15,1257,True
+JPPOWER,INE351F01018,Jaiprakash Power Ventures Ltd,JPVL,Electrical Utilities & IPPs,equity,isin,JPVL,2005-04-18,2026-09-15,5291,True
+TANLA,INE483C01032,Tanla Platforms Ltd,TANLA,Software & IT Services,equity,isin,TANLA,2007-01-04,2026-09-15,4864,True
+RAILTEL,INE0DD101019,Railtel Corp of India Ltd,RAILTEL,Telecommunications Services,equity,isin,RAILTEL,2021-02-25,2026-09-15,1374,True
+UTIAMC,INE094J01016,UTI Asset Management Co Ltd,UTIAM,Investment Banking & Investment Services,equity,isin,UTIAM,2020-10-09,2026-09-15,1471,True
+RKFORGE,INE399G01023,Ramkrishna Forgings Ltd,RMKF,Metals & Mining,equity,isin,RMKF,2004-05-05,2026-09-15,5520,True
+EIDPARRY,INE126A01031,EID Parry India Ltd,EID,Chemicals,equity,isin,EID,1999-06-30,2026-09-15,6733,True
+EBBETF0430,INF754K01KO2,Bharat Bond ETF - April 2030,BETF430,Others,etf,isin-bhavcopy,BETF430,2025-02-28,2026-08-31,248,False
+EQUITASBNK,INE063P01018,Equitas Small Finance Bank Ltd,EQUITASB,Banking Services,equity,isin,EQUITASB,2020-10-30,2026-09-15,1455,True
+BBTC,INE050A01025,Bombay Burmah Trading Co,BBTC,Food & Tobacco,equity,isin,BBTC,1999-06-30,2026-09-15,6557,True
+PRAJIND,INE074A01025,Praj Industries Ltd,PRJ,Construction & Engineering,equity,isin,PRJ,1999-06-30,2026-09-15,6528,True
+LATENTVIEW,INE0I7C01011,Latent View Analytics Ltd,LATENTVI,Software & IT Services,equity,isin,LATENTVI,2021-11-22,2026-09-15,1194,True
+PURVA,INE323I01011,Puravankara Ltd,PURVA,Real Estate Operations,equity,isin,PURVA,2007-08-29,2026-09-15,4702,True
+JAIBALAJI,INE091G01026,Jai Balaji Industries Ltd,JBIL,Metals & Mining,equity,isin,JBIL,2015-09-01,2026-09-15,2726,True
+DATAPATTNS,INE0IX101010,Data Patterns India Ltd,DATAPATT,Aerospace & Defense,equity,isin,DATAPATT,2021-12-23,2026-09-15,1171,True
+FORCEMOT,INE451A01017,Force Motors Ltd,FML,Automobiles & Auto Parts,equity,isin,FML,1999-06-30,2026-09-15,6288,True
+NETWEB,INE0NT901020,Netweb Technologies India Ltd,NETWEB,Software & IT Services,equity,isin,NETWEB,2023-07-26,2026-09-15,777,True
+PNCINFRA,INE195J01029,PNC Infratech Ltd,PNCL,Construction & Engineering,equity,isin,PNCL,2015-05-25,2026-09-15,2797,True
+NEWGEN,INE619B01017,Newgen Software Technologies Ltd,NEWGEN,Software & IT Services,equity,isin,NEWGEN,2018-01-29,2026-09-15,2133,True
+J&KBANK,INE168A01041,Jammu & Kashmir Bank Ltd/The,JKBK,Banking Services,equity,isin,JKBK,1999-06-30,2026-09-15,6731,True
+VTL,INE825A01020,Vardhman Textiles Ltd,VTEX,Textiles & Apparel,equity,isin,VTEX,1999-06-30,2026-09-15,6611,True
+WELSPUNLIV,INE192B01031,Welspun Living Ltd,WELSPUNL,Textiles & Apparel,equity,isin,WELSPUNL,1999-07-01,2026-09-15,6653,True
+AAVAS,INE216P01012,Aavas Financiers Ltd,AAVAS,Banking Services,equity,isin,AAVAS,2018-10-05,2026-09-15,1964,True
+CHENNPETRO,INE178A01016,Chennai Petroleum Corp Ltd,MRL,Oil & Gas,equity,isin,MRL,1999-06-30,2026-09-15,6740,True
+TECHNOE,INE285K01026,Techno Electric & Engineering Co Ltd,TECHNOE,Construction & Engineering,equity,isin,TECHNOE,2015-09-01,2026-09-15,2726,True
+INTELLECT,INE306R01017,Intellect Design Arena Ltd,INDA,Financial Technology (Fintech) & Infrastructure,equity,"isin,name",INDA,2015-09-01,2026-09-15,2727,True
+FSL,INE684F01012,Firstsource Solutions Ltd,FSOL,Professional & Commercial Services,equity,isin,FSOL,2007-02-21,2026-09-15,4833,True
+ERIS,INE406M01024,Eris Lifesciences Ltd,ERIS,Pharmaceuticals,equity,isin,ERIS,2017-06-28,2026-09-15,2280,True
+WELCORP,INE191B01025,Welspun Corp Ltd,WLCO,Metals & Mining,equity,isin,WLCO,1999-06-30,2026-09-15,6661,True
+HAPPSTMNDS,INE419U01012,Happiest Minds Technologies Ltd,HAPPSTMN,Software & IT Services,equity,isin,HAPPSTMN,2020-09-16,2026-09-15,1487,True
+MGL,INE002S01010,Mahanagar Gas Ltd,MAHGL,Natural Gas Utilities,equity,isin,MAHGL,2016-06-30,2026-09-15,2524,True
+BLS,INE153T01027,BLS International Services Ltd,BLSIN,Professional & Commercial Services,equity,isin,BLSIN,2016-06-15,2026-09-15,2536,True
+RHIM,INE743M01012,Rhi Magnesita India Ltd,RHIM,Construction Materials,equity,isin,RHIM,2012-03-09,2026-09-15,3584,True
+CLEAN,INE227W01023,Clean Science & Technology Ltd,CLEAN,Chemicals,equity,isin,CLEAN,2021-07-16,2026-09-15,1279,True
+KIRLOSBROS,INE732A01036,Kirloskar Brothers Ltd,KKB,"Machinery, Equipment & Components",equity,isin,KKB,1999-06-30,2026-09-15,6612,True
+FINEORG,INE686Y01026,Fine Organic Industries Ltd,FINEORG,Chemicals,equity,isin,FINEORG,2018-06-29,2026-09-15,2029,True
+HFCL,INE548A01028,HFCL Ltd,HMFC,Communications & Networking,equity,isin,HMFC,1999-06-30,2026-09-15,6721,True
+GLAND,INE068V01023,Gland Pharma Ltd,GLAND,Pharmaceuticals,equity,isin,GLAND,2020-11-19,2026-09-15,1442,True
+GODIGIT,INE03JT01014,Go Digit General Insurance Ltd,GODIGIT,Insurance,equity,isin,GODIGIT,2024-05-22,2026-09-15,579,True
+VBL,INE200M01039,Varun Beverages Ltd,VBL,Beverages,equity,isin,VBL,2016-11-07,2026-09-15,2440,True
+MAXHEALTH,INE027H01010,Max Healthcare Institute Ltd,MAXHEALT,Healthcare Providers & Services,equity,isin,MAXHEALT,2020-08-21,2026-09-15,1504,True
+MOTHERSON,INE775A01035,Samvardhana Motherson International Ltd,MOTHERSO,Automobiles & Auto Parts,equity,isin,MOTHERSO,1999-06-30,2026-09-15,6545,True
+UNIONBANK,INE692A01016,Union Bank of India Ltd,UNBK,Banking Services,equity,isin,UNBK,2002-09-23,2026-09-15,5932,True
+CHOLAFIN,INE121A01024,Cholamandalam Investment and Finance Co Ltd,CIFC,Others,equity,isin,CIFC,2015-09-01,2026-09-15,2726,True
+HEROMOTOCO,INE158A01026,Hero MotoCorp Ltd,HMCL,Automobiles & Auto Parts,equity,isin,HMCL,1999-06-30,2026-09-15,6740,True
+SPLPETRO,INE663A01033,Supreme Petrochem Ltd,SPPT,Chemicals,equity,isin,SPPT,1999-06-30,2026-09-15,6737,True
+PVRINOX,INE191H01014,PVR Inox Ltd,PVRINOX,Hotels & Entertainment Services,equity,isin,PVRINOX,2006-01-03,2026-09-15,5112,True
+KIMS,INE967H01025,Krishna Institute of Medical Sciences Ltd,KIMS,Healthcare Providers & Services,equity,isin,KIMS,2021-06-28,2026-09-15,1293,True
+GRINFRA,INE201P01022,G R Infraprojects Ltd,GRINFRA,Construction & Engineering,equity,isin,GRINFRA,2021-07-16,2026-09-15,1279,True
+MANAPPURAM,INE522D01027,Manappuram Finance Ltd,MGFL,Banking Services,equity,isin,MGFL,2002-06-19,2026-09-15,5972,True
+CONCORDBIO,INE338H01029,Concord Biotech Ltd,CONCORDB,Pharmaceuticals,equity,isin,CONCORDB,2023-08-17,2026-09-15,762,True
+GRSE,INE382Z01011,Garden Reach Shipbuilders & Engineers Ltd,GRSE,Aerospace & Defense,equity,isin,GRSE,2018-10-09,2026-09-15,1962,True
+RBLBANK,INE976G01028,RBL Bank Ltd,RBK,Banking Services,equity,isin,RBK,2016-08-30,2026-09-15,2483,True
+INDIAMART,INE933S01016,IndiaMart InterMesh Ltd,INMART,Others,equity,isin,INMART,2019-07-04,2026-09-15,1783,True
+CENTURYPLY,INE348B01021,Century Plyboards India Ltd,CPBI,Paper & Forest Products,equity,isin,CPBI,2004-10-27,2026-09-15,5406,True
+ASTRAZEN,INE203A01020,AstraZeneca Pharma India Ltd,ASTR,Others,equity,isin,ASTR,2015-09-01,2026-09-15,2725,True
+OLECTRA,INE260D01016,Olectra Greentech Ltd,OLECTRA,Automobiles & Auto Parts,equity,isin,OLECTRA,2001-11-12,2026-09-15,6144,True
+ZENSARTECH,INE520A01027,Zensar Technologies Ltd,ZENT,Software & IT Services,equity,isin,ZENT,1999-06-30,2026-09-15,6739,True
+RITES,INE320J01015,RITES Ltd,RITE,Professional & Commercial Services,equity,isin,RITE,2018-06-29,2026-09-15,2029,True
+ZEEL,INE256A01028,Zee Entertainment Enterprises Ltd,Z,Media & Publishing,equity,isin,Z,1999-06-30,2026-09-15,6741,True
+APTUS,INE852O01025,Aptus Value Housing Finance India Ltd,APTUS,Banking Services,equity,isin,APTUS,2021-08-23,2026-09-15,1255,True
+IFCI,INE039A01010,IFCI Ltd,IFCI,Banking Services,equity,isin,IFCI,1999-06-30,2026-09-15,6740,True
+PTCIL,INE596F01018,PTC Industries Ltd,PTCIL,Metals & Mining,equity,isin,PTCIL,2015-03-12,2026-09-15,2844,True
+ALOKINDS,INE270A01029,Alok Industries Ltd,ALOK,Textiles & Apparel,equity,isin,ALOK,2000-06-30,2026-09-15,6489,True
+KSB,INE999A01023,KSB Ltd,KSB,"Machinery, Equipment & Components",equity,isin,KSB,2000-03-31,2026-09-15,6496,True
+ANANDRATHI,INE463V01026,Anand Rathi Wealth Ltd,ANANDRAT,Investment Banking & Investment Services,equity,isin,ANANDRAT,2021-12-13,2026-09-15,1179,True
+BEML,INE258A01024,BEML Ltd,BEML,"Machinery, Equipment & Components",equity,isin,BEML,1999-06-30,2026-09-15,6740,True
+SONATSOFTW,INE269A01021,Sonata Software Ltd,SSOF,Software & IT Services,equity,isin,SSOF,1999-06-30,2026-09-15,6740,True
+AADHARHFC,INE883F01010,Aadhar Housing Finance Ltd,AADHARHF,Banking Services,equity,isin,AADHARHF,2024-05-14,2026-09-15,584,True
+NHIT,INE0H7R23014,National Highways Infra Trust,NHIT,Others,invit,unresolved,NHIT,2021-11-10,2026-08-31,335,False
+INGERRAND,INE177A01018,Ingersoll Rand India Ltd,INGR,"Machinery, Equipment & Components",equity,isin,INGR,1999-06-30,2026-09-15,6740,True
+GPIL,INE177H01039,Godawari Power and Ispat Ltd,GODPI,Metals & Mining,equity,isin,GODPI,2015-09-01,2026-09-15,2727,True
+UBL,INE686F01025,United Breweries Ltd,UBBL,Beverages,equity,isin,UBBL,2002-10-23,2026-09-15,5910,True
+ANANTRAJ,INE242C01024,Anant Raj Ltd,ARCP,Real Estate Operations,equity,isin,ARCP,1999-11-24,2026-09-15,6034,True
+ELECON,INE205B01031,Elecon Engineering Co Ltd,ELCN,"Machinery, Equipment & Components",equity,isin,ELCN,1999-07-01,2026-09-15,6574,True
+INDGN,INE065X01017,Indegene Ltd,INDGN,Professional & Commercial Services,equity,isin,INDGN,2024-05-10,2026-09-15,586,True
+RAINBOW,INE961O01016,Rainbow Children's Medicare Ltd,RAINBOW,Healthcare Providers & Services,equity,isin,RAINBOW,2022-05-09,2026-09-15,1079,True
+CAPLIPOINT,INE475E01026,Caplin Point Laboratories Ltd,CLPL,Pharmaceuticals,equity,isin,CLPL,1999-07-01,2026-09-15,6299,True
+TEGA,INE011K01018,Tega Industries Ltd,TEGA,"Machinery, Equipment & Components",equity,isin,TEGA,2021-12-10,2026-09-15,1180,True
+INDUSINDBK,INE095A01012,IndusInd Bank Ltd,IIB,Banking Services,equity,isin,IIB,1999-06-30,2026-09-15,6739,True
+AIIL,INE206F01022,Authum Investment & Infrastructure Ltd,AIIL,Investment Banking & Investment Services,equity,isin,AIIL,2015-06-10,2026-09-15,2784,True
+GESHIP,INE017A01032,Great Eastern Shipping Co Ltd/The,GESCO,Oil & Gas Related Equipment and Services,equity,isin,GESCO,1999-06-30,2026-09-15,6708,True
+CAMS,INE596I01020,Computer Age Management Services Ltd,CAMS,Professional & Commercial Services,equity,isin,CAMS,2020-09-30,2026-09-15,1476,True
+RAYMOND,INE301A01014,Raymond Ltd,RW,Textiles & Apparel,equity,isin,RW,1999-06-30,2026-09-15,6739,True
+REDINGTON,INE891D01026,Redington Ltd,REDI,"Computers, Phones & Household Electronics",equity,isin,REDI,2007-02-14,2026-09-15,4837,True
+NAVINFLUOR,INE048G01026,Navin Fluorine International Ltd,NFIL,Chemicals,equity,isin,NFIL,2003-09-30,2026-09-15,5676,True
+CHAMBLFERT,INE085A01013,Chambal Fertilisers and Chemicals Ltd,CHMB,Chemicals,equity,isin,CHMB,1999-06-30,2026-09-15,6738,True
+VGUARD,INE951I01027,V-Guard Industries Ltd,VGRD,"Machinery, Equipment & Components",equity,isin,VGRD,2008-03-12,2026-09-15,4565,True
+KARURVYSYA,INE036D01028,Karur Vysya Bank Ltd/The,KVB,Banking Services,equity,isin,KVB,2002-04-22,2026-09-15,6039,True
+ABSLAMC,INE404A01024,Aditya Birla Sun Life Asset Management Co Ltd,ABSLAMC,Investment Banking & Investment Services,equity,isin,ABSLAMC,2021-10-08,2026-09-15,1222,True
+NSLNISP,INE0NNS01018,NMDC Steel Ltd,NSLNISP,Metals & Mining,equity,isin,NSLNISP,2023-02-20,2026-09-15,882,True
+ACE,INE731H01025,Action Construction Equipment Ltd,ACCE,"Machinery, Equipment & Components",equity,isin,ACCE,2006-09-25,2026-09-15,4931,True
+SIGNATURE,INE903U01023,SignatureGlobal India Ltd,SIGNATUR,Real Estate Operations,equity,isin,SIGNATUR,2023-09-26,2026-09-15,734,True
+ATUL,INE100A01010,Atul Ltd,ATLP,Chemicals,equity,isin,ATLP,1999-06-30,2026-09-15,6715,True
+SWSOLAR,INE00M201021,Sterling and Wilson Renewable,SWSOLAR,Construction & Engineering,equity,isin,SWSOLAR,2019-08-19,2026-09-15,1753,True
+LMW,INE269B01029,LMW Ltd,LMW,"Machinery, Equipment & Components",equity,isin,LMW,1999-07-02,2026-09-15,6507,True
+TRITURBINE,INE152M01016,Triveni Turbine Ltd,TRIV,"Machinery, Equipment & Components",equity,isin,TRIV,2011-10-28,2026-09-15,3673,True
+HSCL,INE019C01026,Himadri Speciality Chemical Ltd,HSCH,Chemicals,equity,isin,HSCH,1999-06-30,2026-09-15,6541,True
+CGCL,INE180C01042,Capri Global Capital Ltd,CGCL,Banking Services,equity,isin,CGCL,1999-12-23,2026-09-15,5957,True
+POLYMED,INE205C01021,Poly Medicure Ltd,PLM,Healthcare Equipment & Supplies,equity,isin,PLM,1999-10-20,2026-09-15,5967,True
+APLLTD,INE901L01018,Alembic Pharmaceuticals Ltd,ALPM,Pharmaceuticals,equity,isin,ALPM,2011-09-20,2026-09-15,3699,True
+KIRLOSENG,INE146L01010,Kirloskar Oil Engines Ltd,KOEL,"Machinery, Equipment & Components",equity,isin,KOEL,2010-12-24,2026-09-15,3882,True
+NUVAMA,INE531F01023,Nuvama Wealth Management Ltd,NUVAMA,Investment Banking & Investment Services,equity,isin,NUVAMA,2023-09-26,2026-09-15,735,True
+JINDALSAW,INE324A01032,Jindal Saw Ltd,JSAW,Metals & Mining,equity,isin,JSAW,2015-09-01,2026-09-15,2727,True
+ASTERDM,INE914M01019,Aster DM Quality Care Ltd,ASTERDM,Healthcare Providers & Services,equity,isin,ASTERDM,2018-02-23,2026-09-15,2115,True
+TITAGARH,INE615H01020,Titagarh Rail System Ltd,TITAGARH,"Machinery, Equipment & Components",equity,isin,TITAGARH,2008-04-17,2026-09-15,4544,True
+ICICIB22,INF109KB15Y7,Bharat 22 ETF,ICICIB22,Others,etf,unresolved,ICICIB22,2025-02-28,2026-08-31,248,False
+CYIENT,INE136B01020,Cyient Ltd,CYL,Others,equity,isin,CYL,2015-09-01,2026-09-15,2727,True
+NIFTYBEES,INF204KB14I2,Nippon India ETF Nifty 50 BEES,NBEES,Others,etf,isin-bhavcopy,NBEES,2025-02-28,2026-08-31,248,False
+BIKAJI,INE00E101023,Bikaji Foods International Ltd,BIKAJI,Food & Tobacco,equity,isin,BIKAJI,2022-11-15,2026-09-15,950,True
+SHYAMMETL,INE810G01011,Shyam Metalics & Energy Ltd,SHYAMMET,Others,equity,isin,SHYAMMET,2021-06-23,2026-09-15,1297,True
+SUNDRMFAST,INE387A01021,Sundram Fasteners Ltd,SF,Auto Components & Equipments,equity,isin,SF,2015-09-01,2026-09-15,2726,True
+KAJARIACER,INE217B01036,Kajaria Ceramics Ltd,KJC,Homebuilding & Construction Supplies,equity,isin,KJC,1999-07-02,2026-09-15,6721,True
+CELLO,INE0LMW01024,Cello World Ltd,CELLO,Household Goods,equity,isin,CELLO,2023-11-03,2026-09-15,710,True
+VINATIORGA,INE410B01037,Vinati Organics Ltd,VO,Chemicals,equity,isin,VO,1999-06-30,2026-09-15,6601,True
+MCX,INE745G01043,Multi Commodity Exchange of India Ltd,MCX,Investment Banking & Investment Services,equity,isin,MCX,2012-03-09,2026-09-15,3585,True
+SCHNEIDER,INE839M01018,Schneider Electric Infrastructure Ltd,SCHN,"Machinery, Equipment & Components",equity,isin,SCHN,2012-03-20,2026-09-15,3577,True
+BSOFT,INE836A01035,Birlasoft Ltd,BSOFT,Software & IT Services,equity,isin,BSOFT,2001-01-08,2026-09-15,6339,True
+TRIDENT,INE064C01022,Trident Ltd/India,TRID,Textiles & Apparel,equity,isin,TRID,1999-06-30,2026-09-15,6521,True
+BATAINDIA,INE176A01028,Bata India Ltd,BATA,Textiles & Apparel,equity,isin,BATA,2000-03-31,2026-09-15,6553,True
+ELGIEQUIP,INE285A01027,Elgi Equipments Ltd,ELEQ,"Machinery, Equipment & Components",equity,isin,ELEQ,1999-06-30,2026-09-15,6703,True
+CESC,INE486A01021,CESC Ltd,CESC,Electrical Utilities & IPPs,equity,isin,CESC,1999-06-30,2026-09-15,6689,True
+INOXWIND,INE066P01011,Inox Wind Ltd,INXW,Others,equity,isin,INXW,2015-09-01,2026-09-15,2727,True
+SOBHA,INE671H01015,Sobha Ltd,SOBHA,Real Estate Operations,equity,isin,SOBHA,2015-09-01,2026-09-15,2727,True
+NATCOPHARM,INE987B01026,Natco Pharma Ltd,NTCPH,Pharmaceuticals,equity,isin,NTCPH,1999-06-30,2026-09-15,6663,True
+NXST,INE0NDH25011,Nexus Select Trust,NXST,Residential & Commercial REIT,reit,isin-bhavcopy,NXST,2023-05-18,2026-08-31,706,False
+BASF,INE373A01013,BASF India Ltd,BASF,Chemicals,equity,isin,BASF,1999-06-30,2026-09-15,6739,True
+BLUEDART,INE233B01017,Blue Dart Express Ltd,BDE,Freight & Logistics Services,equity,isin,BDE,1999-07-01,2026-09-15,6729,True
+RRKABEL,INE777K01022,RR Kabel Ltd,RRKABEL,"Machinery, Equipment & Components",equity,isin,RRKABEL,2023-09-20,2026-09-15,739,True
+PNBHOUSING,INE572E01012,PNB Housing Finance Ltd,PNBHOUSI,Banking Services,equity,isin,PNBHOUSI,2016-11-04,2026-09-15,2440,True
+MINDSPACE,INE0CCU25019,Mindspace Business Parks REIT,MINDSPCE,Others,reit,isin-bhavcopy,MINDSPCE,2020-08-06,2026-08-31,1396,False
+CASTROLIND,INE172A01027,Castrol India Ltd,CSTRL,Oil & Gas,equity,isin,CSTRL,2000-03-31,2026-09-15,6543,True
+GODFRYPHLP,INE260B01028,Godfrey Phillips India Ltd,GP,Food & Tobacco,equity,isin,GP,1999-06-30,2026-09-15,6595,True
+RAMCOCEM,INE331A01037,Ramco Cements Ltd/The,TRCL,Construction Materials,equity,isin,TRCL,1999-06-30,2026-09-15,6727,True
+RELAXO,INE131B01039,Relaxo Footwears Ltd,RLXF,Textiles & Apparel,equity,isin,RLXF,2000-05-24,2026-09-15,6251,True
+KPIL,INE220B01022,Kalpataru Projects International Ltd,KPIL,Construction & Engineering,equity,isin,KPIL,1999-06-30,2026-09-15,6545,True
+IIFL,INE530B01024,IIFL Finance Ltd,IIFL,Banking Services,equity,isin,IIFL,2005-05-16,2026-09-15,5271,True
+KEC,INE389H01022,KEC International Ltd,KECI,Construction & Engineering,equity,isin,KECI,2006-03-10,2026-09-15,5067,True
+PPLPHARMA,INE0DK501011,Piramal Pharma Ltd,PIRPHARM,Pharmaceuticals,equity,isin,PIRPHARM,2022-10-19,2026-09-15,967,True
+NCC,INE868B01028,NCC Ltd/India,NJCC,Construction & Engineering,equity,isin,NJCC,1999-06-30,2026-09-15,6600,True
+CHALET,INE427F01016,Chalet Hotels Ltd,CHALET,Hotels & Entertainment Services,equity,isin,CHALET,2019-02-06,2026-09-15,1880,True
+360ONE,INE466L01038,360 ONE WAM Ltd,360ONE,Investment Banking & Investment Services,equity,isin,360ONE,2019-09-19,2026-09-15,1732,True
+CROMPTON,INE299U01018,Crompton Greaves Consumer Electricals Ltd,CROMPTON,"Computers, Phones & Household Electronics",equity,isin,CROMPTON,2016-05-13,2026-09-15,2558,True
+GODREJAGRO,INE850D01014,Godrej Agrovet Ltd,GOAGRO,Real Estate Operations,equity,isin,GOAGRO,2017-10-16,2026-09-15,2205,True
+FINCABLES,INE235A01022,Finolex Cables Ltd,FNXC,"Machinery, Equipment & Components",equity,isin,FNXC,1999-06-30,2026-09-15,6740,True
+WHIRLPOOL,INE716A01013,Whirlpool of India Ltd,WHIRL,Household Goods,equity,isin,WHIRL,1999-06-30,2026-09-15,6739,True
+TEJASNET,INE010J01012,Tejas Networks Ltd,TEJASNET,Communications & Networking,equity,isin,TEJASNET,2017-06-23,2026-09-15,2283,True
+PFIZER,INE182A01018,Pfizer Ltd,PFIZ,Pharmaceuticals,equity,isin,PFIZ,1999-06-30,2026-09-15,6739,True
+RADICO,INE944F01028,Radico Khaitan Ltd,RDCK,Beverages,equity,isin,RDCK,2003-06-18,2026-09-15,5751,True
+SANOFI,INE058A01010,Sanofi India Ltd,SANL,Pharmaceuticals,equity,isin,SANL,2000-03-31,2026-09-15,6549,True
+KANSAINER,INE531A01024,Kansai Nerolac Paints Ltd,KNPL,Chemicals,equity,isin,KNPL,1999-06-30,2026-09-15,6692,True
+CHOLAHLDNG,INE149A01033,Cholamandalam Financial Holdings Ltd,CHOLAHLD,Banking Services,equity,isin,CHOLAHLD,1999-07-01,2026-09-15,6724,True
+LALPATHLAB,INE600L01024,Dr Lal PathLabs Ltd,DLPL,Healthcare Providers & Services,equity,isin,DLPL,2015-12-22,2026-09-15,2653,True
+HATSUN,INE473B01035,Hatsun Agro Product Ltd,HTSMF,Food & Tobacco,equity,isin,HTSMF,2000-06-21,2026-09-15,6351,True
+JWL,INE209L01016,Jupiter Wagons Ltd,JWL,"Machinery, Equipment & Components",equity,isin,JWL,2010-10-18,2026-09-15,3931,True
+ANGELONE,INE732I01021,Angel One Ltd,ANGELONE,Investment Banking & Investment Services,equity,"isin,name",ANGELONE,2020-10-05,2026-09-15,1474,True
+IRCON,INE962Y01021,IRCON International Ltd,IRCON,Construction & Engineering,equity,isin,IRCON,2018-09-27,2026-09-15,1970,True
+FIVESTAR,INE128S01021,Five-Star Business Finance Ltd,FIVESTAR,Banking Services,equity,isin,FIVESTAR,2022-11-18,2026-09-15,947,True
+LAURUSLABS,INE947Q01028,Laurus Labs Ltd,LAURUS,Pharmaceuticals,equity,isin,LAURUS,2016-12-16,2026-09-15,2411,True
+KAYNES,INE918Z01012,Kaynes Technology India Ltd,KAYNES,Electronic Equipment & Parts,equity,isin,KAYNES,2022-11-21,2026-09-15,946,True
+CREDITACC,INE741K01010,CreditAccess Grameen Ltd,CREDAG,Banking Services,equity,isin,CREDAG,2018-08-23,2026-09-15,1992,True
+AARTIIND,INE769A01020,Aarti Industries Ltd,ARTO,Others,equity,isin,ARTO,2015-09-01,2026-09-15,2726,True
+JBMA,INE927D01051,JBM Auto Ltd,JBMA,Automobiles & Auto Parts,equity,isin,JBMA,2015-09-01,2026-09-15,2727,True
+RATNAMANI,INE703B01027,Ratnamani Metals & Tubes Ltd,RMT,Metals & Mining,equity,isin,RMT,1999-07-02,2026-09-15,6393,True
+TVSHLTD,INE105A01035,TVS Holdings Ltd,TVSHLTD,Automobiles & Auto Parts,equity,isin,TVSHLTD,1999-07-01,2026-09-15,6541,True
+SUMICHEM,INE258G01013,Sumitomo Chemical India Ltd,SUMICHEM,Chemicals,equity,isin,SUMICHEM,2020-01-27,2026-09-15,1645,True
+PAYTM,INE982J01020,One 97 Communications Ltd,PAYTM,Professional & Commercial Services,equity,isin,PAYTM,2021-11-17,2026-09-15,1196,True
+GILLETTE,INE322A01010,Gillette India Ltd,GILL,Personal & Household Products & Services,equity,isin,GILL,2000-03-31,2026-09-15,6552,True
+AFFLE,INE00WC01027,Affle 3i Ltd,AFFLE,Media & Publishing,equity,isin,AFFLE,2019-08-07,2026-09-15,1759,True
+TBOTEK,INE673O01025,Tbo Tek Ltd,TBOTEK,Hotels & Entertainment Services,equity,isin,TBOTEK,2024-05-14,2026-09-15,584,True
+DEEPAKNTR,INE288B01029,Deepak Nitrite Ltd,DN,Chemicals,equity,isin,DN,1999-06-30,2026-09-15,6634,True
+JYOTHYLAB,INE668F01031,Jyothy Labs Ltd,JYL,Personal & Household Products & Services,equity,isin,JYL,2007-12-18,2026-09-15,4625,True
+GRAPHITE,INE371A01025,Graphite India Ltd,GRIL,"Machinery, Equipment & Components",equity,isin,GRIL,1999-06-30,2026-09-15,6676,True
+CDSL,INE736A01011,Central Depository Services India Ltd,CDSL,Investment Banking & Investment Services,equity,isin,CDSL,2017-06-29,2026-09-15,2279,True
+FINPIPE,INE183A01024,Finolex Industries Ltd,FNXP,Homebuilding & Construction Supplies,equity,isin,FNXP,1999-06-30,2026-09-15,6739,True
+JYOTICNC,INE980O01024,Jyoti CNC Automation Ltd,JYOTICNC,"Machinery, Equipment & Components",equity,isin,JYOTICNC,2024-01-15,2026-09-15,662,True
+JBCHEPHARM,INE572A01036,JB Chemicals & Pharmaceuticals Ltd,JBCP,Pharmaceuticals,equity,isin-bhavcopy,JBCP,1999-06-30,2026-08-31,6005,False
+BAYERCROP,INE462A01022,Bayer CropScience Ltd/India,BYRCS,Chemicals,equity,isin,BYRCS,2000-03-31,2026-09-15,6530,True
+NH,INE410P01011,Narayana Hrudayalaya Ltd,NARH,Healthcare Providers & Services,equity,isin,NARH,2016-01-05,2026-09-15,2644,True
+AEGISLOG,INE208C01025,Aegis Logistics Ltd,AEGISLOG,Oil & Gas Related Equipment and Services,equity,isin,AEGISLOG,1999-06-30,2026-09-15,6662,True
+MANYAVAR,INE825V01034,Vedant Fashions Ltd,MANYAVAR,Specialty Retailers,equity,isin,MANYAVAR,2022-02-15,2026-09-15,1134,True
+GODREJIND,INE233A01035,Godrej Industries Ltd,GDSP,Others,equity,isin,GDSP,2015-09-01,2026-09-15,2726,True
+EIHOTEL,INE230A01023,EIH Ltd,EIH,Hotels & Entertainment Services,equity,isin,EIH,1999-06-30,2026-09-15,6740,True
+ITI,INE248A01017,ITI Ltd,ITI,Communications & Networking,equity,isin,ITI,1999-06-30,2026-09-15,6738,True
+TATACHEM,INE092A01019,Tata Chemicals Ltd,TTCH,Chemicals,equity,isin,TTCH,1999-06-30,2026-09-15,6740,True
+SUNTV,INE424H01027,Sun TV Network Ltd,SUNTV,Media & Publishing,equity,isin,SUNTV,2006-04-21,2026-09-15,5040,True
+SYNGENE,INE398R01022,Syngene International Ltd,SYNG,Biotechnology & Medical Research,equity,isin,SYNG,2015-08-10,2026-09-15,2743,True
+DELHIVERY,INE148O01028,Delhivery Ltd,DELHIVER,Freight & Logistics Services,equity,isin,DELHIVER,2022-05-23,2026-09-15,1070,True
+NBCC,INE095N01031,NBCC India Ltd,NBCC,Construction & Engineering,equity,isin,NBCC,2012-04-11,2026-09-15,3564,True
+KPRMILL,INE930H01031,KPR Mill Ltd,KPR,Textiles & Apparel,equity,isin,KPR,2007-08-27,2026-09-15,4704,True
+GRINDWELL,INE536A01023,Grindwell Norton Ltd,GWN,"Machinery, Equipment & Components",equity,isin,GWN,1999-06-30,2026-09-15,6561,True
+CIEINDIA,INE536H01010,CIE Automotive India Ltd,CIEINDIA,Others,equity,isin,CIEINDIA,2006-08-29,2026-09-15,4948,True
+STARHEALTH,INE575P01011,Star Health & Allied Insurance Co Ltd,STARHEAL,Others,equity,isin,STARHEAL,2021-12-09,2026-09-15,1181,True
+IPCALAB,INE571A01038,Ipca Laboratories Ltd,IPCA,Pharmaceuticals,equity,isin,IPCA,1999-06-30,2026-09-15,6740,True
+CRISIL,INE007A01025,CRISIL Ltd,CRISIL,Professional & Commercial Services,equity,isin,CRISIL,2000-03-31,2026-09-15,6542,True
+MSUMI,INE0FS801015,Motherson Sumi Wiring India Ltd,MSUMI,Automobiles & Auto Parts,equity,isin,MSUMI,2022-03-28,2026-09-15,1107,True
+AJANTPHARM,INE031B01049,Ajanta Pharma Ltd,AJP,Pharmaceuticals,equity,isin,AJP,2000-06-05,2026-09-15,6508,True
+SKFINDIA,INE640A01023,SKF India Ltd,SKF,"Machinery, Equipment & Components",equity,isin,SKF,2000-03-31,2026-09-15,6541,True
+TIMKEN,INE325A01013,Timken India Ltd,TMKN,"Machinery, Equipment & Components",equity,isin,TMKN,1999-06-30,2026-09-15,6726,True
+APOLLOTYRE,INE438A01022,Apollo Tyres Ltd,APTY,Automobiles & Auto Parts,equity,isin,APTY,1999-06-30,2026-09-15,6740,True
+CARBORUNIV,INE120A01034,Carborundum Universal Ltd,CU,Chemicals,equity,isin,CU,1999-06-30,2026-09-15,6572,True
+METROBRAND,INE317I01021,Metro Brands Ltd,METROBRA,Specialty Retailers,equity,isin,METROBRA,2021-12-21,2026-09-15,1173,True
+KIOCL,INE880L01014,Kiocl Ltd,KIOCL,Metals & Mining,equity,isin,KIOCL,2016-11-30,2026-09-15,2424,True
+ARE&M,INE885A01032,Amara Raja Energy & Mobility Ltd,ARENM,"Machinery, Equipment & Components",equity,isin,ARENM,1999-06-30,2026-09-15,6740,True
+DEVYANI,INE872J01023,Devyani International Ltd,DEVYANI,Hotels & Entertainment Services,equity,isin,DEVYANI,2021-08-13,2026-09-15,1260,True
+ADANIENSOL,INE931S01010,Adani Energy Solutions Ltd,ADANIENS,Electrical Utilities & IPPs,equity,isin,ADANIENS,2015-07-31,2026-09-15,2749,True
+ENGINERSIN,INE510A01028,Engineers India Ltd,ENGR,Construction & Engineering,equity,isin,ENGR,1999-07-07,2026-09-15,6699,True
+TVSMOTOR,INE494B01023,TVS Motor Co Ltd,TVSL,Automobiles & Auto Parts,equity,isin,TVSL,2000-07-10,2026-09-15,6483,True
+HINDCOPPER,INE531E01026,Hindustan Copper Ltd,HCP,Metals & Mining,equity,isin,HCP,1999-08-02,2026-09-15,6034,True
+ESCORTS,INE042A01014,Escorts Kubota Ltd,ESCORTS,"Machinery, Equipment & Components",equity,isin,ESCORTS,2000-01-03,2026-09-15,6612,True
+APLAPOLLO,INE702C01027,APL Apollo Tubes Ltd,APAT,Metals & Mining,equity,isin,APAT,2006-09-25,2026-09-15,4930,True
+MPHASIS,INE356A01018,Mphasis Ltd,MPHL,Software & IT Services,equity,isin,MPHL,1999-06-30,2026-09-15,6724,True
+PETRONET,INE347G01014,Petronet LNG Ltd,PLNG,Oil & Gas Related Equipment and Services,equity,isin,PLNG,2004-03-26,2026-09-15,5555,True
+MAHABANK,INE457A01014,Bank of Maharashtra,BOMH,Banking Services,equity,isin,BOMH,2004-04-12,2026-09-15,5546,True
+HONAUT,INE671A01010,Honeywell Automation India Ltd,HWA,Electronic Equipment & Parts,equity,isin,HWA,1999-06-30,2026-09-15,6663,True
+3MINDIA,INE470A01017,3M India Ltd,3M,Consumer Goods Conglomerates,equity,isin,3M,1999-06-30,2026-09-15,6718,True
+NAM-INDIA,INE298J01013,Nippon Life India Asset Management Ltd,NAM,Investment Banking & Investment Services,equity,isin,NAM,2017-11-03,2026-09-15,2193,True
+LICHSGFIN,INE115A01026,LIC Housing Finance Ltd,LICHF,Banking Services,equity,isin,LICHF,1999-06-30,2026-09-15,6739,True
+APARINDS,INE372A01015,Apar Industries Ltd,APR,"Machinery, Equipment & Components",equity,isin,APR,1999-12-27,2026-09-15,6606,True
+BRIGADE,INE791I01019,Brigade Enterprises Ltd,BRGD,Real Estate Operations,equity,isin,BRGD,2007-12-28,2026-09-15,4618,True
+BANDHANBNK,INE545U01014,Bandhan Bank Ltd,BANDHAN,Banking Services,equity,isin,BANDHAN,2018-03-26,2026-09-15,2096,True
+EMAMILTD,INE548C01032,Emami Ltd,HMN,Personal & Household Products & Services,equity,isin,HMN,2002-04-12,2026-09-15,5986,True
+MEDANTA,INE474Q01031,Global Health Ltd/India,MEDANTA,Healthcare Providers & Services,equity,isin,MEDANTA,2022-11-15,2026-09-15,950,True
+TATAELXSI,INE670A01012,Tata Elxsi Ltd,TELX,Software & IT Services,equity,isin,TELX,1999-06-30,2026-09-15,6740,True
+JKCEMENT,INE823G01014,JK Cement Ltd,JKCE,Construction Materials,equity,isin,JKCE,2005-06-30,2026-09-15,5237,True
+TICL,INE388G01026,Twamev Construction and Infrastructure Ltd,TICL,Construction & Engineering,equity,isin,TICL,2006-04-27,2026-09-15,5035,True
+ZFCVINDIA,INE342J01019,ZF Commercial Vehicle Control Systems India Ltd,ZCVCS,Others,equity,isin,ZCVCS,2008-10-01,2026-09-15,4428,True
+BLUESTARCO,INE472A01039,Blue Star Ltd,BLSTR,"Machinery, Equipment & Components",equity,isin,BLSTR,1999-06-30,2026-09-15,6697,True
+ABFRL,INE647O01011,Aditya Birla Fashion and Retail Ltd,ABFRL,Specialty Retailers,equity,isin,ABFRL,2013-07-17,2026-09-15,3248,True
+IGL,INE203G01027,Indraprastha Gas Ltd,IGL,Natural Gas Utilities,equity,isin,IGL,2003-12-26,2026-09-15,5617,True
+MFSL,INE180A01020,Max Financial Services Ltd,MAXF,Insurance,equity,isin,MAXF,1999-06-30,2026-09-15,6739,True
+POONAWALLA,INE511C01022,Poonawalla Fincorp Ltd,POONAWAL,Banking Services,equity,isin,POONAWAL,2002-05-24,2026-09-15,5982,True
+EMBASSY,INE041025011,Embassy Office Parks REIT,EMBASSY,Others,reit,isin-bhavcopy,EMBASSY,2019-04-01,2026-08-31,1727,False
+LLOYDSME,INE281B01032,Lloyds Metals & Energy Ltd,LLOYDSME,Others,equity,isin,LLOYDSME,2023-07-17,2026-09-15,785,True
+NATIONALUM,INE139A01034,National Aluminium Co Ltd,NACL,Metals & Mining,equity,isin,NACL,1999-06-30,2026-09-15,6740,True
+FLUOROCHEM,INE09N301011,Gujarat Fluorochemicals Ltd,FLUOROCH,Chemicals,equity,isin,FLUOROCH,2019-10-16,2026-09-15,1715,True
+GLENMARK,INE935A01035,Glenmark Pharmaceuticals Ltd,GNP,Pharmaceuticals,equity,isin,GNP,2000-02-10,2026-09-15,6584,True
+EXIDEIND,INE302A01020,Exide Industries Ltd,EXID,Automobiles & Auto Parts,equity,isin,EXID,1999-06-30,2026-09-15,6739,True
+HAVELLS,INE176B01034,Havells India Ltd,HAVL,"Machinery, Equipment & Components",equity,isin,HAVL,1999-06-30,2026-09-15,6594,True
+ADANIENT,INE423A01024,Adani Enterprises Ltd,ADE,Diversified Industrial Goods Wholesale,equity,isin,ADE,1999-06-30,2026-09-15,6740,True
+NIACL,INE470Y01017,New India Assurance Co Ltd/The,NIACL,Insurance,equity,isin,NIACL,2017-11-10,2026-09-15,2188,True
+NTPC,INE733E01010,NTPC Ltd,NTPC,Electrical Utilities & IPPs,equity,isin,NTPC,2004-11-04,2026-09-15,5402,True
+M&M,INE101A01026,Mahindra & Mahindra Ltd,MM,Automobiles & Auto Parts,equity,isin,MM,1999-06-30,2026-09-15,6741,True
+KOTAKBANK,INE237A01036,Kotak Mahindra Bank Ltd,KMB,Banking Services,equity,isin,KMB,1999-06-30,2026-09-15,6740,True
+ONGC,INE213A01029,Oil & Natural Gas Corp Ltd,ONGC,Oil & Gas,equity,isin,ONGC,1999-06-30,2026-09-15,6740,True
+HAL,INE066F01020,Hindustan Aeronautics Ltd,HNAL,Aerospace & Defense,equity,isin,HNAL,2018-03-27,2026-09-15,2094,True
+ULTRACEMCO,INE481G01011,UltraTech Cement Ltd,UTCEM,Construction Materials,equity,isin,UTCEM,2004-08-24,2026-09-15,5452,True
+DMART,INE192R01011,Avenue Supermarts Ltd,DMART,Food & Drug Retailing,equity,isin,DMART,2017-03-20,2026-09-15,2349,True
+GODREJPROP,INE484J01027,Godrej Properties Ltd,GPL,Others,equity,isin,GPL,2015-09-01,2026-09-15,2727,True
+IRCTC,INE335Y01020,Indian Railway Catering & Tourism Corp Ltd,IRCTC,Passenger Transportation Services,equity,isin,IRCTC,2019-10-11,2026-09-15,1718,True
+NLCINDIA,INE589A01014,NLC India Ltd,NLC,Electrical Utilities & IPPs,equity,isin,NLC,1999-06-30,2026-09-15,6734,True
+RVNL,INE415G01027,Rail Vikas Nigam Ltd,RVNL,Construction & Engineering,equity,isin,RVNL,2019-04-10,2026-09-15,1839,True
+SONACOMS,INE073K01018,Sona Blw Precision Forgings Ltd,SONACOMS,Automobiles & Auto Parts,equity,isin,SONACOMS,2021-06-23,2026-09-15,1297,True
+MOTILALOFS,INE338I01027,Motilal Oswal Financial Services Ltd,MOFS,Investment Banking & Investment Services,equity,isin,MOFS,2007-09-10,2026-09-15,4695,True
+FEDERALBNK,INE171A01029,Federal Bank Ltd,FB,Banking Services,equity,isin,FB,1999-06-30,2026-09-15,6736,True
+GLAXO,INE159A01016,GlaxoSmithKline Pharmaceuticals Ltd,GLXO,Pharmaceuticals,equity,isin,GLXO,2000-03-31,2026-09-15,6551,True
+KPITTECH,INE04I401011,KPIT Technologies Ltd,KPITTECH,Software & IT Services,equity,isin,KPITTECH,2019-04-22,2026-09-15,1834,True
+BIOCON,INE376G01013,Biocon Ltd,BIOS,Biotechnology & Medical Research,equity,isin,BIOS,2004-04-06,2026-09-15,5549,True
+CPSEETF,INF457M01133,CPSE ETF,CPSEBE,Others,etf,isin-bhavcopy,CPSEBE,2025-02-28,2026-08-31,248,False
+LTF,INE498L01015,L&T Finance Ltd,LTF,Banking Services,equity,isin,LTF,2011-08-11,2026-09-15,3725,True
+KEI,INE878B01027,KEI Industries Ltd,KEII,"Machinery, Equipment & Components",equity,isin,KEII,1999-10-28,2026-09-15,6056,True
+UPL,INE628A01036,UPL Ltd,UPLL,Chemicals,equity,isin,UPLL,1999-07-01,2026-09-15,6589,True
+PSB,INE608A01012,Punjab & Sind Bank,PJSB,Banking Services,equity,isin,PJSB,2010-12-29,2026-09-15,3881,True
+UTISENSETF,INF789FB1X58,UTI BSE Sensex ETF,UTISENX,Others,etf,isin-bhavcopy,UTISENX,2025-02-28,2026-08-31,248,False
+KALYANKJIL,INE303R01014,Kalyan Jewellers India Ltd,KALYANKJ,"Gems, Jewellery And Watches",equity,isin,KALYANKJ,2021-03-26,2026-09-15,1354,True
+IRB,INE821I01022,IRB Infrastructure Developers Ltd,IRB,Construction & Engineering,equity,isin,IRB,2008-02-22,2026-09-15,4579,True
+COROMANDEL,INE169A01031,Coromandel International Ltd,CRIN,Chemicals,equity,isin,CRIN,1999-07-01,2026-09-15,6540,True
+TATATECH,INE142M01025,Tata Technologies Ltd,TATATECH,Integrated Hardware & Software,equity,isin,TATATECH,2023-11-29,2026-09-15,694,True
+PAGEIND,INE761H01022,Page Industries Ltd,PAG,Textiles & Apparel,equity,isin,PAG,2007-03-15,2026-09-15,4810,True
+ENDURANCE,INE913H01037,Endurance Technologies Ltd,ENDU,Automobiles & Auto Parts,equity,isin,ENDU,2016-10-18,2026-09-15,2452,True
+JUBLFOOD,INE797F01020,Jubilant Foodworks Ltd,JUBI,Hotels & Entertainment Services,equity,isin,JUBI,2010-02-05,2026-09-15,4106,True
+FORTIS,INE061F01013,Fortis Healthcare Ltd,FORH,Healthcare Providers & Services,equity,isin,FORH,2007-05-08,2026-09-15,4782,True
+SUNDARMFIN,INE660A01013,Sundaram Finance Ltd,SUF,Banking Services,equity,isin,SUF,1999-06-30,2026-09-15,6719,True
+HINDPETRO,INE094A01015,Hindustan Petroleum Corp Ltd,HPCL,Oil & Gas,equity,isin,HPCL,1999-06-30,2026-09-15,6740,True
+LUPIN,INE326A01037,Lupin Ltd,LPC,Pharmaceuticals,equity,isin,LPC,1999-06-30,2026-09-15,6700,True
+NMDC,INE584A01023,NMDC Ltd,NMDC,Metals & Mining,equity,isin,NMDC,2001-01-31,2026-09-15,6117,True
+YESBANK,INE528G01035,Yes Bank Ltd,YES,Banking Services,equity,isin,YES,2005-07-11,2026-09-15,5231,True
+SUPREMEIND,INE195A01028,Supreme Industries Ltd,SI,Chemicals,equity,isin,SI,1999-09-30,2026-09-15,6673,True
+TIINDIA,INE974X01010,Tube Investments of India Ltd,TIINDIA,Automobiles & Auto Parts,equity,isin,TIINDIA,2017-11-02,2026-09-15,2193,True
+THERMAX,INE152A01029,Thermax Ltd,TMX,"Machinery, Equipment & Components",equity,isin,TMX,1999-06-30,2026-09-15,6740,True
+DIXON,INE935N01020,Dixon Technologies India Ltd,DIXON,"Computers, Phones & Household Electronics",equity,isin,DIXON,2017-09-15,2026-09-15,2226,True
+VOLTAS,INE226A01021,Voltas Ltd,VOLT,"Machinery, Equipment & Components",equity,isin,VOLT,1999-06-30,2026-09-15,6740,True
+UNOMINDA,INE405E01023,UNO Minda Ltd,UNOMINDA,Automobiles & Auto Parts,equity,isin,UNOMINDA,2004-08-24,2026-09-15,5447,True
+AUBANK,INE949L01017,AU Small Finance Bank Ltd,AUBANK,Banking Services,equity,isin,AUBANK,2017-07-07,2026-09-15,2273,True
+COCHINSHIP,INE704P01025,Cochin Shipyard Ltd,COCHIN,"Machinery, Equipment & Components",equity,isin,COCHIN,2017-08-10,2026-09-15,2250,True
+LTTS,INE010V01017,L&T Technology Services Ltd,LTTS,Construction & Engineering,equity,isin,LTTS,2016-09-22,2026-09-15,2468,True
+FACT,INE188A01015,Fertilisers & Chemicals Travancore Ltd,FCT,Chemicals,equity,isin,FCT,1999-07-12,2026-09-15,6040,True
+COFORGE,INE591G01025,Coforge Ltd,COFORGE,Software & IT Services,equity,isin,COFORGE,2004-08-30,2026-09-15,5448,True
+BDL,INE171Z01026,Bharat Dynamics Ltd,BDL,Aerospace & Defense,equity,isin,BDL,2018-03-22,2026-09-15,2097,True
+SJVN,INE002L01015,SJVN Ltd,SJVN,Electrical Utilities & IPPs,equity,isin,SJVN,2010-05-19,2026-09-15,4037,True
+TATACOMM,INE151A01013,Tata Communications Ltd,TCOM,Telecommunications Services,equity,isin,TCOM,1999-06-30,2026-09-15,6738,True
+PATANJALI,INE619A01035,Patanjali Foods Ltd,PATANJAL,Others,equity,isin,PATANJAL,1999-06-30,2026-09-15,6694,True
+HUDCO,INE031A01017,Housing & Urban Development Corp Ltd,HUDCO,Banking Services,equity,isin,HUDCO,2017-05-18,2026-09-15,2309,True
+UTINIFTETF,INF789F1AZC0,UTI Nifty 50 ETF,UTNIFTY,Others,etf,isin-bhavcopy,UTNIFTY,2025-02-28,2026-08-31,248,False
+MRF,INE883A01011,MRF Ltd,MRF,Automobiles & Auto Parts,equity,isin,MRF,1999-06-30,2026-09-15,6740,True
+BHARTIHEXA,INE343G01021,Bharti Hexacom Ltd,BHARTIHE,Telecommunications Services,equity,isin,BHARTIHE,2024-04-12,2026-09-15,604,True
+ALKEM,INE540L01014,Alkem Laboratories Ltd,ALKEM,Pharmaceuticals,equity,isin,ALKEM,2015-12-22,2026-09-15,2653,True
+PGHH,INE179A01014,Procter & Gamble Hygiene & Health Care Ltd,PG,Others,equity,isin,PG,2015-09-01,2026-09-15,2727,True
+PIIND,INE603J01030,PI Industries Ltd,PI,Chemicals,equity,isin,PI,1999-07-22,2026-09-15,6045,True
+CENTRALBK,INE483A01010,Central Bank of India Ltd,CBOI,Banking Services,equity,isin,CBOI,2007-08-20,2026-09-15,4710,True
+BANKINDIA,INE084A01016,Bank of India,BOI,Banking Services,equity,isin,BOI,1999-06-30,2026-09-15,6740,True
+PRESTIGE,INE811K01011,Prestige Estates Projects Ltd,PEPL,Real Estate Operations,equity,isin,PEPL,2010-10-26,2026-09-15,3925,True
+TORNTPOWER,INE813H01021,Torrent Power Ltd,TPW,Electrical Utilities & IPPs,equity,isin,TPW,2006-11-28,2026-09-15,4888,True
+BHARATFORG,INE465A01025,Bharat Forge Ltd,BHFC,Metals & Mining,equity,isin,BHFC,1999-06-30,2026-09-15,6739,True
+AUROPHARMA,INE406A01037,Aurobindo Pharma Ltd,ARBP,Pharmaceuticals,equity,isin,ARBP,1999-06-30,2026-09-15,6739,True
+M&MFIN,INE774D01024,Mahindra & Mahindra Financial Services Ltd,MMFS,Banking Services,equity,isin,MMFS,2006-03-16,2026-09-15,5064,True
+DALBHARAT,INE00R701025,Dalmia Bharat Ltd,DALBHARA,Construction Materials,equity,isin,DALBHARA,2018-12-21,2026-09-15,1912,True
+AIAENG,INE212H01026,AIA Engineering Ltd,AIAE,"Machinery, Equipment & Components",equity,isin,AIAE,2005-12-13,2026-09-15,5126,True
+MRPL,INE103A01014,Mangalore Refinery & Petrochemicals Ltd,MRPL,Oil & Gas,equity,isin,MRPL,1999-06-30,2026-09-15,6740,True
+BSE,INE118H01025,BSE Ltd,BSE,Investment Banking & Investment Services,equity,isin,BSE,2017-02-02,2026-09-15,2378,True
+ACC,INE012A01025,ACC Ltd,ACC,Construction Materials,equity,isin,ACC,2000-03-31,2026-09-15,6552,True
+IREDA,INE202E01016,Indian Renewable Energy Development Agency Ltd,IREDA,Banking Services,equity,isin,IREDA,2023-11-28,2026-09-15,695,True
+NYKAA,INE388Y01029,FSN E-Commerce Ventures Ltd,NYKAA,Diversified Retail,equity,isin,NYKAA,2021-11-09,2026-09-15,1202,True
+SRF,INE647A01010,SRF Ltd,SRF,Chemicals,equity,isin,SRF,1999-06-30,2026-09-15,6721,True
+SAIL,INE114A01011,Steel Authority of India Ltd,SAIL,Metals & Mining,equity,isin,SAIL,1999-06-30,2026-09-15,6740,True
+BALKRISIND,INE787D01026,Balkrishna Industries Ltd,BIL,Automobiles & Auto Parts,equity,isin,BIL,1999-06-30,2026-09-15,6527,True
+MAZDOCK,INE249Z01020,Mazagon Dock Shipbuilders Ltd,MAZDOCKS,Aerospace & Defense,equity,isin,MAZDOCKS,2020-10-09,2026-09-15,1470,True
+CONCOR,INE111A01025,Container Corp Of India Ltd,CCRI,Freight & Logistics Services,equity,isin,CCRI,1999-07-01,2026-09-15,6652,True
+SCHAEFFLER,INE513A01022,Schaeffler India Ltd,SCHFL,"Machinery, Equipment & Components",equity,isin,SCHFL,2000-03-31,2026-09-15,6522,True
+OIL,INE274J01014,Oil India Ltd,OINL,Oil & Gas,equity,isin,OINL,2009-09-29,2026-09-15,4191,True
+GICRE,INE481Y01014,General Insurance Corp of India,GICRE,Insurance,equity,isin,GICRE,2017-10-24,2026-09-15,2200,True
+SUZLON,INE040H01021,Suzlon Energy Ltd,SUEL,Renewable Energy,equity,isin,SUEL,2005-10-18,2026-09-15,5164,True
+JSL,INE220G01021,Jindal Stainless Ltd,JDSL,Metals & Mining,equity,isin,JDSL,2003-11-14,2026-09-15,5645,True
+UCOBANK,INE691A01018,UCO Bank,UCO,Banking Services,equity,isin,UCO,2003-10-08,2026-09-15,5672,True
+ASHOKLEY,INE208A01029,Ashok Leyland Ltd,AL,"Machinery, Equipment & Components",equity,isin,AL,1999-06-30,2026-09-15,6740,True
+SBICARD,INE018E01016,SBI Cards & Payment Services Ltd,SBICARD,Banking Services,equity,isin,SBICARD,2020-03-13,2026-09-15,1613,True
+OBEROIRLTY,INE093I01010,Oberoi Realty Ltd,OBER,Real Estate Operations,equity,isin,OBER,2010-10-19,2026-09-15,3930,True
+MUTHOOTFIN,INE414G01012,Muthoot Finance Ltd,MUTH,Banking Services,equity,isin,MUTH,2011-05-05,2026-09-15,3795,True
+ABCAPITAL,INE674K01013,Aditya Birla Capital Ltd,ABCAP,Insurance,equity,isin,ABCAP,2017-09-01,2026-09-15,2235,True
+INDIANB,INE562A01011,Indian Bank,INBK,Banking Services,equity,isin,INBK,2007-02-28,2026-09-15,4827,True
+LINDEINDIA,INE473A01011,Linde India Ltd,LIIL,Chemicals,equity,isin,LIIL,2000-03-31,2026-09-15,6531,True
+OFSS,INE881D01027,Oracle Financial Services Software Ltd,OFSS,Software & IT Services,equity,isin,OFSS,2002-06-27,2026-09-15,5992,True
+SUNPHARMA,INE044A01036,Sun Pharmaceutical Industries Ltd,SUNP,Pharmaceuticals,equity,isin,SUNP,1999-06-30,2026-09-15,6740,True
+POWERINDIA,INE07Y701011,Hitachi Energy India Ltd,POWERIND,"Machinery, Equipment & Components",equity,isin,POWERIND,2020-03-30,2026-09-15,1602,True
+IDBI,INE008A01015,IDBI Bank Ltd,IDBI,Banking Services,equity,isin,IDBI,1999-06-30,2026-09-15,6741,True
+ATGL,INE399L01023,Adani Total Gas Ltd,ATGL,Natural Gas Utilities,equity,isin,ATGL,2018-11-05,2026-09-15,1944,True
+BAJAJHLDNG,INE118A01012,Bajaj Holdings & Investment Ltd,BJHI,Holding Companies,equity,isin,BJHI,1999-06-30,2026-09-15,6740,True
+SHRIRAMFIN,INE721A01047,Shriram Finance Ltd,SHFL,Banking Services,equity,isin,SHFL,1999-06-30,2026-09-15,6622,True
+ZYDUSLIFE,INE010B01027,Zydus Lifesciences Ltd,ZYDUSLIF,Pharmaceuticals,equity,isin,ZYDUSLIF,2000-04-27,2026-09-15,6535,True
+UNITDSPR,INE854D01024,United Spirits Ltd,UNITDSPR,Beverages,equity,isin,UNITDSPR,2001-09-27,2026-09-15,6178,True
+TORNTPHARM,INE685A01028,Torrent Pharmaceuticals Ltd,TRP,Pharmaceuticals,equity,isin,TRP,1999-06-30,2026-09-15,6678,True
+CUMMINSIND,INE298A01020,Cummins India Ltd,KKC,Automobiles & Auto Parts,equity,isin,KKC,1999-06-30,2026-09-15,6739,True
+SHREECEM,INE070A01015,Shree Cement Ltd,SRCM,Construction Materials,equity,isin,SRCM,1999-06-30,2026-09-15,6692,True
+BHEL,INE257A01026,Bharat Heavy Electricals Ltd,BHEL,"Machinery, Equipment & Components",equity,isin,BHEL,1999-06-30,2026-09-15,6740,True
+CGPOWER,INE067A01029,CG Power & Industrial Solutions Ltd,CGPOWER,"Machinery, Equipment & Components",equity,isin,CGPOWER,1999-06-30,2026-09-15,6740,True
+DRREDDY,INE089A01031,Dr Reddy's Laboratories Ltd,DRRD,Pharmaceuticals,equity,isin,DRRD,1999-06-30,2026-09-15,6741,True
+POLYCAB,INE455K01017,Polycab India Ltd,POLYCAB,"Machinery, Equipment & Components",equity,isin,POLYCAB,2019-04-15,2026-09-15,1837,True
+NHPC,INE848E01016,NHPC Ltd,NHPC,Electrical Utilities & IPPs,equity,isin,NHPC,2009-08-31,2026-09-15,4210,True
+IDEA,INE669E01016,Vodafone Idea Ltd,IDEA,Telecommunications Services,equity,isin,IDEA,2007-03-08,2026-09-15,4822,True
+TATACONSUM,INE192A01025,Tata Consumer Products Ltd,TATACONS,Food & Tobacco,equity,isin,TATACONS,1999-06-30,2026-09-15,6740,True
+APOLLOHOSP,INE437A01024,Apollo Hospitals Enterprise Ltd,APHS,Healthcare Providers & Services,equity,isin,APHS,1999-06-30,2026-09-15,6739,True
+PIDILITIND,INE318A01026,Pidilite Industries Ltd,PIDI,Chemicals,equity,isin,PIDI,1999-06-30,2026-09-15,6732,True
+GRASIM,INE047A01021,Grasim Industries Ltd,GRASIM,Construction Materials,equity,isin,GRASIM,2015-09-01,2026-09-15,2726,True
+VEDL,INE205A01025,Vedanta Ltd,VEDL,Metals & Mining,equity,isin,VEDL,1999-06-30,2026-09-15,6740,True
+JIOFIN,INE758E01017,Jio Financial Services Ltd,JIOFIN,Banking Services,equity,isin,JIOFIN,2023-08-21,2026-09-15,760,True
+HDFCLIFE,INE795G01014,HDFC Life Insurance Co Ltd,HDFCLIFE,Others,equity,isin,HDFCLIFE,2017-11-16,2026-09-15,2184,True
+POWERGRID,INE752E01010,Power Grid Corp of India Ltd,PWGR,Electrical Utilities & IPPs,equity,isin,PWGR,2007-10-04,2026-09-15,4677,True
+HINDZINC,INE267A01025,Hindustan Zinc Ltd,HZ,Metals & Mining,equity,isin,HZ,1999-06-30,2026-09-15,6740,True
+ASIANPAINT,INE021A01026,Asian Paints Ltd,APNT,Chemicals,equity,isin,APNT,1999-06-30,2026-09-15,6740,True
+BAJAJ-AUTO,INE917I01010,Bajaj Auto Ltd,BJAUT,Automobiles & Auto Parts,equity,isin,BJAUT,2008-05-26,2026-09-15,4520,True
+BAJAJFINSV,INE918I01026,Bajaj Finserv Ltd,BJFIN,Banking Services,equity,isin,BJFIN,2008-05-26,2026-09-15,4519,True
+WIPRO,INE075A01022,Wipro Ltd,WPRO,Software & IT Services,equity,isin,WPRO,1999-06-30,2026-09-15,6741,True
+NESTLEIND,INE239A01024,Nestle India Ltd,NEST,Food & Tobacco,equity,isin,NEST,2000-03-31,2026-09-15,6552,True
+SIEMENS,INE003A01024,Siemens Ltd,SIEM,"Machinery, Equipment & Components",equity,isin,SIEM,2000-01-03,2026-09-15,6613,True
+BOSCHLTD,INE323A01026,Bosch Ltd,BOS,Automobiles & Auto Parts,equity,isin,BOS,2000-03-31,2026-09-15,6519,True
+MANKIND,INE634S01028,Mankind Pharma Ltd,MANKIND,Pharmaceuticals,equity,isin,MANKIND,2023-05-08,2026-09-15,833,True
+IRFC,INE053F01010,Indian Railway Finance Corp Ltd,IRFC,Banking Services,equity,isin,IRFC,2021-01-28,2026-09-15,1394,True
+LODHA,INE670K01029,Lodha Developers Ltd,LODHA,Real Estate Operations,equity,isin,LODHA,2021-04-16,2026-09-15,1342,True
+CIPLA,INE059A01026,Cipla Ltd/India,CIPLA,Pharmaceuticals,equity,isin,CIPLA,1999-06-30,2026-09-15,6739,True
+IOB,INE565A01014,Indian Overseas Bank,IOB,Banking Services,equity,isin,IOB,2000-12-11,2026-09-15,6371,True
+BPCL,INE029A01011,Bharat Petroleum Corp Ltd,BPCL,Oil & Gas,equity,isin,BPCL,1999-06-30,2026-09-15,6740,True
+TECHM,INE669C01036,Tech Mahindra Ltd,TECHM,Software & IT Services,equity,isin,TECHM,2006-08-28,2026-09-15,4952,True
+EICHERMOT,INE066A01021,Eicher Motors Ltd,EIM,Automobiles & Auto Parts,equity,isin,EIM,1999-06-30,2026-09-15,6726,True
+BRITANNIA,INE216A01030,Britannia Industries Ltd,BRIT,Food & Tobacco,equity,isin,BRIT,1999-06-30,2026-09-15,6739,True
+RECLTD,INE020B01018,REC Ltd,RECL,Banking Services,equity,isin,RECL,2008-03-11,2026-09-15,4568,True
+GAIL,INE129A01019,GAIL India Ltd,GAIL,Natural Gas Utilities,equity,isin,GAIL,1999-06-30,2026-09-15,6739,True
+PNB,INE160A01022,Punjab National Bank,PNB,Banking Services,equity,isin,PNB,2002-04-26,2026-09-15,6035,True
+BANKBARODA,INE028A01039,Bank of Baroda,BOB,Banking Services,equity,isin,BOB,1999-06-30,2026-09-15,6740,True
+TATAPOWER,INE245A01021,Tata Power Co Ltd/The,TPWR,Electrical Utilities & IPPs,equity,isin,TPWR,1999-06-30,2026-09-15,6741,True
+SBILIFE,INE123W01016,SBI Life Insurance Co Ltd,SBILIFE,Insurance,equity,isin,SBILIFE,2017-09-29,2026-09-15,2216,True
+GODREJCP,INE102D01028,Godrej Consumer Products Ltd,GCPL,Personal & Household Products & Services,equity,isin,GCPL,2001-06-18,2026-09-15,6248,True
+HINDALCO,INE038A01020,Hindalco Industries Ltd,HNDL,Metals & Mining,equity,isin,HNDL,1999-06-30,2026-09-15,6739,True
+SOLARINDS,INE343H01029,Solar Industries India Ltd,SOIL,Chemicals,equity,isin,SOIL,2006-03-31,2026-09-15,5052,True
+AMBUJACEM,INE079A01024,Ambuja Cements Ltd,ACEM,Construction Materials,equity,isin,ACEM,1999-09-30,2026-09-15,6675,True
+PFC,INE134E01011,Power Finance Corp Ltd,POWF,Banking Services,equity,isin,POWF,2007-02-22,2026-09-15,4832,True
+JSWENERGY,INE121E01018,JSW Energy Ltd,JSW,Electrical Utilities & IPPs,equity,isin,JSW,2009-12-31,2026-09-15,4130,True
+DABUR,INE016A01026,Dabur India Ltd,DABUR,Personal & Household Products & Services,equity,isin,DABUR,1999-06-30,2026-09-15,6740,True
+CANBK,INE476A01022,Canara Bank,CBK,Banking Services,equity,isin,CBK,2002-12-23,2026-09-15,5871,True
+INDUSTOWER,INE121J01017,Indus Towers Ltd,INDUSTOW,Telecommunications Services,equity,isin,INDUSTOW,2012-12-27,2026-09-15,3387,True
+COLPAL,INE259A01022,Colgate-Palmolive India Ltd,CLGT,Personal & Household Products & Services,equity,isin,CLGT,2000-06-30,2026-09-15,6478,True
+NAUKRI,INE663F01032,Info Edge India Ltd,INFOE,Software & IT Services,equity,isin,INFOE,2000-07-19,2026-09-15,2728,True
+HDFCAMC,INE127D01025,HDFC Asset Management Co Ltd,HDFCAMC,Investment Banking & Investment Services,equity,isin,HDFCAMC,2018-08-03,2026-09-15,2004,True
+ICICIGI,INE765G01017,ICICI Lombard General Insurance Co Ltd,ICICIGI,Insurance,equity,isin,ICICIGI,2017-09-26,2026-09-15,2218,True
+INDHOTEL,INE053A01029,Indian Hotels Co Ltd/The,IH,Hotels & Entertainment Services,equity,isin,IH,1999-06-30,2026-09-15,6740,True
+ICICIPRULI,INE726G01019,ICICI Prudential Life Insurance Co Ltd,IPRU,Insurance,equity,isin,IPRU,2016-09-28,2026-09-15,2464,True
+MARICO,INE196A01026,Marico Ltd,MRCO,Food & Tobacco,equity,isin,MRCO,1999-06-30,2026-09-15,6652,True
+IOC,INE242A01010,Indian Oil Corp Ltd,IOCL,Oil & Gas,equity,isin,IOCL,1999-06-30,2026-09-15,6740,True
+COALINDIA,INE522F01014,Coal India Ltd,COAL,Coal,equity,isin,COAL,2010-11-03,2026-09-15,3919,True
+TATASTEEL,INE081A01020,Tata Steel Ltd,TATA,Metals & Mining,equity,isin,TATA,1999-06-30,2026-09-15,6741,True
+SIGACHI,INE0D0K01022,Sigachi Industries Ltd,SIGACHI,Pharmaceuticals,equity,isin,SIGACHI,2021-11-12,2026-09-15,1199,True
+JITFINFRA,INE863T01013,JITF Infralogistics Ltd,JITFIN,Consumer Goods Conglomerates,equity,isin,JITFIN,2017-02-27,2026-09-15,2362,True
+MOL,INE0CT101020,Meghmani Organics Ltd,MOL,Chemicals,equity,isin,MOL,2021-08-18,2026-09-15,1257,True
+TTKHLTCARE,INE910C01018,TTK Healthcare Ltd,TTKP,Pharmaceuticals,equity,isin,TTKP,1999-07-01,2026-09-15,6519,True
+ADANIPOWER,INE814H01029,Adani Power Ltd,ADANI,Electrical Utilities & IPPs,equity,isin,ADANI,2009-08-19,2026-09-15,4218,True
+ADANIPORTS,INE742F01042,Adani Ports & Special Economic Zone Ltd,ADSEZ,Transport Infrastructure,equity,isin,ADSEZ,2007-11-26,2026-09-15,4640,True
+JSWSTEEL,INE019A01038,JSW Steel Ltd,JSTL,Metals & Mining,equity,isin,JSTL,1999-06-30,2026-09-15,6719,True
+LT,INE018A01030,Larsen & Toubro Ltd,LT,Construction & Engineering,equity,isin,LT,1999-06-30,2026-09-15,6716,True
+INDIGO,INE646L01027,InterGlobe Aviation Ltd,INDIGO,Passenger Transportation Services,equity,isin,INDIGO,2015-11-09,2026-09-15,2681,True
+TRENT,INE849A01020,Trent Ltd,TRENT,Diversified Retail,equity,isin,TRENT,1999-06-30,2026-09-15,6740,True
+NSEMCAP,,NIFTY Midcap 100,NSEMCAP,,index,unresolved,NSEMCAP,2003-01-01,2026-08-31,5724,False
+RELIANCE,INE002A01018,Reliance Industries Ltd,RELIANCE,Oil & Gas,equity,isin,RELIANCE,1999-06-30,2026-09-15,6741,True
+TCS,INE467B01029,Tata Consultancy Services Ltd,TCS,Software & IT Services,equity,isin,TCS,2004-08-25,2026-09-15,5451,True
+HDFCBANK,INE040A01034,HDFC Bank Ltd,HDFCB,Banking Services,equity,isin,HDFCB,1999-06-30,2026-09-15,6741,True
+BHARTIARTL,INE397D01024,Bharti Airtel Ltd,BHARTI,Telecommunications Services,equity,isin,BHARTI,2002-02-18,2026-09-15,6082,True
+ICICIBANK,INE090A01021,ICICI Bank Ltd,ICICIBC,Banking Services,equity,isin,ICICIBC,1999-06-30,2026-09-15,6740,True
+SBIN,INE062A01020,State Bank of India,SBIN,Banking Services,equity,isin,SBIN,2000-03-31,2026-09-15,6553,True
+LICI,INE0J1Y01017,Life Insurance Corp of India,LICI,Insurance,equity,isin,LICI,2022-05-16,2026-09-15,1076,True
+INFY,INE009A01021,Infosys Ltd,INFO,Software & IT Services,equity,isin,INFO,1999-06-30,2026-09-15,6741,True
+HINDUNILVR,INE030A01027,Hindustan Unilever Ltd,HUVR,Personal & Household Products & Services,equity,isin,HUVR,2000-03-31,2026-09-15,6552,True
+ITC,INE154A01025,ITC Ltd,ITC,Food & Tobacco,equity,isin,ITC,1999-06-30,2026-09-15,6740,True
+BAJFINANCE,INE296A01032,Bajaj Finance Ltd,BAF,Banking Services,equity,isin,BAF,1999-06-30,2026-09-15,6670,True
+TITAN,INE280A01028,Titan Co Ltd,TTAN,Textiles & Apparel,equity,isin,TTAN,1999-06-30,2026-09-15,6740,True
+MARUTI,INE585B01010,Maruti Suzuki India Ltd,MSIL,Automobiles & Auto Parts,equity,isin,MSIL,2003-07-08,2026-09-15,5737,True
+HCLTECH,INE860A01027,HCL Technologies Ltd,HCLT,Software & IT Services,equity,isin,HCLT,2000-01-11,2026-09-15,6608,True
+AXISBANK,INE238A01034,Axis Bank Ltd,AXSB,Banking Services,equity,isin,AXSB,1999-06-30,2026-09-15,6739,True
+AXISCADES,INE555B01013,AXISCADES Technologies Ltd,AXET,Professional & Commercial Services,equity,isin,AXET,2001-01-01,2026-09-15,6303,True
+ABB,INE117A01022,ABB India Ltd,ABB,"Machinery, Equipment & Components",equity,isin,ABB,2000-03-31,2026-09-15,6551,True
+DIVISLAB,INE361B01024,Divi's Laboratories Ltd,DIVI,Pharmaceuticals,equity,isin,DIVI,2003-03-12,2026-09-15,5816,True
+SESHAPAPER,INE630A01024,Seshasayee Paper & Boards Ltd,SPB,Paper & Forest Products,equity,isin,SPB,1999-06-30,2026-09-15,6369,True
+DLF,INE271C01023,DLF Ltd,DLFU,Real Estate Operations,equity,isin,DLFU,2007-07-04,2026-09-15,4741,True
+XPROINDIA,INE445C01015,XPRO India Ltd,XPRO,Chemicals,equity,isin,XPRO,2003-01-08,2026-09-15,5859,True
+SURYODAY,INE428Q01011,Suryoday Small Finance Bank Ltd,SURYODAY,Banking Services,equity,isin,SURYODAY,2021-03-25,2026-09-15,1355,True
+TAJGVK,INE586B01026,TAJGVK Hotels & Resorts Ltd,TAJG,Hotels & Entertainment Services,equity,isin,TAJG,2000-12-12,2026-09-15,6332,True
+SBGLP,INE05ST01028,Suratwwala Business Group Ltd,SBGLP,Real Estate Operations,equity,isin,SBGLP,2020-08-12,2026-09-15,1509,True
+SUVEN,INE495B01038,Suven Life Sciences Ltd,SVLS,Biotechnology & Medical Research,equity,isin,SVLS,1999-06-30,2026-09-15,6738,True
+JYOTISTRUC,INE197A01024,Jyoti Structures Ltd,JYS,Construction & Engineering,equity,isin,JYS,2015-09-01,2026-09-15,2725,True
+AMRUTANJAN,INE098F01031,Amrutanjan Health Care Ltd,ARJN,Pharmaceuticals,equity,isin,ARJN,2002-07-29,2026-09-15,5968,True
+ADANIGREEN,INE364U01010,Adani Green Energy Ltd,ADANIGR,Electrical Utilities & IPPs,equity,isin,ADANIGR,2018-06-18,2026-09-15,2039,True
+DATAMATICS,INE365B01017,Datacipher Ltd,DATA,Software & IT Services,equity,isin,DATA,2004-05-07,2026-09-15,5529,True
+JSWDULUX,INE133A01011,JSW Dulux Ltd.,JSWDULUX,Chemicals,equity,isin,JSWDULUX AKZO,1999-06-30,2026-09-15,6739,True
+MAHLIFE,INE813A01018,Mahindra Lifespace Developers Ltd.,MAHLIFE,Real Estate Operations,equity,"isin,name",MAHLIFE MLIFE,2000-04-12,2026-09-15,6543,True
+TMPV,INE155A01022,Tata Motors Passenger Vehicles Ltd.,TMPV,Automobiles & Auto Parts,equity,isin,TMPV TTMT,1999-06-30,2026-09-15,6740,True
+AWL,INE699H01024,AWL Agri Business Ltd.,AWL,Food & Tobacco,equity,"isin,name",AWL AWLTD,2022-02-07,2026-09-15,1140,True
+SAMMAANCAP,INE148I01020,Sammaan Capital Ltd.,SAMMAANC,Others,equity,isin,SAMMAANC IHFL,2013-07-23,2026-09-15,3244,True
+TIPSMUSIC,INE716B01029,Tips Music Ltd.,TIPSMUSI,Others,equity,"isin,name",TIPSMUSI TPS,2000-11-20,2026-09-15,6371,True
+LTM,INE214T01019,LTM Ltd.,LTM,Software & IT Services,equity,isin,LTM LTIM,2016-07-20,2026-09-15,2512,True
+TMCV,INE1TAE01010,Tata Motors Ltd.,TMCV,Commercial Vehicles,equity,isin,TMCV,2025-11-12,2026-09-15,212,True
+CEMPRO,INE686A01026,Cemindia Projects Ltd.,CEMPRO,Construction & Engineering,equity,isin,CEMPRO ITCE,1999-06-30,2026-09-15,6581,True
+GVT&D,INE200A01026,GE Vernova T&D India Ltd.,GVTD,"Machinery, Equipment & Components",equity,"isin,name",GVTD GETD,1999-06-30,2026-09-15,6712,True
+JINDALSTEL,INE749A01030,Jindal Steel Ltd.,JINDALST,Metals & Mining,equity,isin,JINDALST JSP,2000-01-24,2026-09-15,6586,True
+CCAVENUE,INE483S01020,AvenuesAI Ltd.,CCAVENUE,Financial Technology (Fintech) & Infrastructure,equity,"isin,override",CCAVENUE INFIBEAM INFIBE/S,2016-04-01,2026-09-15,2585,True
+SWANCORP,INE665A01038,Swan Corp Ltd.,SWANCORP,Textiles & Apparel,equity,isin,SWANCORP SWAN,1999-11-05,2026-09-15,5971,True
+SMLMAH,INE294B01019,SML Mahindra Ltd.,SMLMAH,"Machinery, Equipment & Components",equity,isin,SMLMAH SM,1999-06-30,2026-09-15,6648,True
+EMBDL,INE069I01010,Embassy Developments Ltd.,EMBDL,Others,equity,"isin,name",EMBDL IBREL,2007-03-23,2026-09-15,4810,True
+ACUTAAS,INE00FF01025,Acutaas Chemicals Ltd.,ACUTAAS,Chemicals,equity,"isin,name",ACUTAAS AMIORG,2021-09-14,2026-09-15,1240,True
+GMRAIRPORT,INE776C01039,GMR Airports Ltd.,GMRAIRPO,Others,equity,"isin,name",GMRAIRPO GMRI,2006-08-18,2026-09-15,4958,True
+ALIVUS,INE03Q201024,Alivus Life Sciences Ltd.,ALIVUS,Pharmaceuticals,equity,"isin,name",ALIVUS GLS,2021-08-05,2026-09-15,1265,True
+ETERNAL,INE758T01015,Eternal Ltd.,ETERNAL,Software & IT Services,equity,"isin,name",ETERNAL ZOMATO,2021-07-22,2026-09-15,1276,True
+IIFLCAPS,INE489L01022,IIFL Capital Services Ltd.,IIFLCAPS,Others,equity,"isin,name",IIFLCAPS IIFLSEC,2019-09-20,2026-09-15,1731,True
+GANESHHOU,INE460C01014,Ganesh Housing Ltd.,GANESHHO,Construction & Engineering,equity,isin,GANESHHO GHFC,1999-12-08,2026-09-15,6043,True
+UFBL,INE382M01027,United Foodbrands Ltd.,UFBL,Hotels & Entertainment Services,equity,isin,UFBL BARBEQUE,2021-04-06,2026-09-15,1348,True
+GVPIL,INE878A01011,GE Power India Ltd,GEPIL,Construction & Engineering,equity,"code,isin",GEPIL GVPIL,2000-03-21,2026-09-15,6556,True
+ABREL,INE055A01016,Aditya Birla Real Estate Ltd.,ABREL,Paper & Forest Products,equity,"isin,name",ABREL CENT,1999-06-30,2026-09-15,6740,True
+GUJENERGY,INE844O01030,Gujarat Energy Ltd.,GUJENERG,Natural Gas Utilities,equity,isin,GUJENERG GUJGA,2015-09-15,2026-09-15,2717,True
+BIRLANU,INE557A01011,BirlaNu Ltd.,BIRLANU,Homebuilding & Construction Supplies,equity,isin,BIRLANU HIL,1999-07-06,2026-09-15,6400,True
+INDUSINVIT,INE0NHL23019,Indus Infra Trust,INDUSINV,Others,invit,"isin-bhavcopy,override",INDUSINV INDUSINVIT BHINVIT,2024-03-12,2026-06-30,389,False
+VIYASH,INE807F01027,Viyash Scientific Ltd.,VIYASH,Pharmaceuticals,equity,isin,VIYASH SEQ,1999-09-16,2026-09-15,5971,True
+TARIL,INE763I01026,Transformers & Rectifiers (India) Ltd.,TARIL,"Machinery, Equipment & Components",equity,"isin,name",TARIL TRIL,2007-12-27,2026-09-15,4620,True
+COHANCE,INE03QK01018,Cohance Lifesciences Ltd,COHANCE,Pharmaceuticals,equity,isin,COHANCE SUVENPHA,2020-03-09,2026-09-15,1616,True
+GSPL,INE246F01010,Gujarat State Petronet Ltd,GUJS,Natural Gas Utilities,equity,isin-bhavcopy,GUJS,2006-02-15,2026-05-29,4899,False
+SANGHIIND,INE999B01013,Sanghi Industries Ltd,SNGI,Construction Materials,equity,isin-bhavcopy,SNGI,1999-07-02,2026-05-29,6369,False
+NETFSD26,INF204KC1022,Nippon India ETF Nifty SDL Apr 2026 Top 20 Equal Weight,NETFSD26,Others,etf,unresolved,NETFSD26,2025-02-28,2026-05-29,155,False
+CIGNITITEC,INE675C01017,Cigniti Technologies Ltd,CIGN,Software & IT Services,equity,isin-bhavcopy,CIGN,2008-07-09,2026-05-29,4302,False
+HBLENGINE,INE292B01021,HBL Engineering Ltd,HBLENGIN,Others,equity,"isin,name",HBLENGIN HBPS,1999-06-30,2026-09-15,6678,True
+VEEDOL,INE484C01030,Veedol Corp Ltd,VEEDOL,Oil & Gas,equity,"isin,name",VEEDOL TWO,2002-04-22,2026-09-15,6036,True
+BOSCH-HCIL,INE782A01015,Johnson Controls-Hitachi Air Conditioning India Ltd,BOSCHHCI,Household Goods,equity,"isin,override",BOSCHHCI JCHAC,1999-06-30,2026-09-15,6650,True
+JPASSOCIAT,INE455F01025,Jaiprakash Associates Ltd,JPA,Consumer Goods Conglomerates,equity,isin-bhavcopy,JPA,2004-06-14,2026-04-30,5163,False
+IBULLSLT,,Dhani Services Ltd,IBULLSLT,,equity,unresolved,IBULLSLT,2026-03-02,2026-03-30,19,False
+JUBLCPL,INE03CC01015,Jubilant Industries Ltd,JUBLCPL,Chemicals,equity,isin,JUBLCPL,2025-02-14,2026-09-15,392,True
+PIRAMALFIN,INE202B01038,Piramal Enterprises Ltd,PIRAMALF,Housing Finance Company,equity,override,PIRAMALF,2025-11-07,2026-09-15,215,True
+TV18_BBG,INE886H01027,TV18 Broadcast Ltd,TV18,Others,equity,unresolved,TV18,2007-02-07,2024-10-15,4364,False
+ISMT,INE732F01019,ISMT Ltd,ISMT,Automobiles & Auto Parts,equity,unresolved,ISMT,2003-09-26,2024-08-05,5153,False
+UDAICEMENT,INE225C01029,Udaipur Cement Works Ltd,UDAICEME,Construction Materials,equity,"isin-bhavcopy,override",UDAICEME UCW,1999-06-30,2025-11-20,4934,False
+TCNSBR,INE778U01029,TCNS Clothing Co Ltd,TCNSBR,Others,equity,unresolved,TCNSBR,2018-07-27,2024-09-02,1502,False
+BETF0425,INF754K01LD3,BHARAT Bond ETF - April 2025,BETF0425,Others,etf,unresolved,BETF0425,2025-02-28,2025-04-04,6,False
+IDFC,INE043D01016,IDFC Ltd,IDFC,Others,equity,unresolved,IDFC,2005-07-27,2024-10-09,4728,False
+IWEL,INE0FLR01028,Inox Wind Energy Ltd,IWEL,Renewable Energy,equity,isin-bhavcopy,IWEL,2021-06-11,2025-03-28,941,False
+DHANI,INE274G01010,Dhani Services Ltd,DHANI,Banking Services,equity,isin-bhavcopy,DHANI,2008-04-02,2025-11-20,4261,False
+PEL,INE140A01024,Piramal Enterprises Ltd,PIEL,Banking Services,equity,isin-bhavcopy,PIEL,1999-06-30,2025-11-20,5832,False
+TRANSRAILL,INE454P01035,Transrail Lighting Limited,TRANSRAI,Heavy Electrical Equipment,equity,override,TRANSRAI,2024-12-27,2026-09-15,429,True
+PENINLAND,INE138A01028,PENNAR INDUSTRIES LIMITED,PENL,Construction & Engineering,equity,isin,PENL,1999-06-30,2026-09-15,6682,True
+RESPONSINF,INE401B01010,RESPONSIVE INDUSTRIES LIMITED,RESI,Homebuilding & Construction Supplies,equity,isin-bhavcopy,RESI,2014-05-12,2025-03-28,2225,False
+KALYANCAP,INE149Q01021,KALYAN JEWELLERS INDIA LIMITED,KALYANCA,Specialty Retailers,equity,isin-bhavcopy,KALYANCA,2014-11-18,2025-03-28,2477,False
+ARVINDPO,INE0P4T01013,ARVIND PORT AND INFRA LIMITED,ARVINDPO,Transport Infrastructure,equity,unresolved,ARVINDPO,2023-10-25,2025-03-28,341,False
+APOLLOFI,INE412D01013,APOLLO MICRO SYSTEMS LIMITED,APFV,Aerospace & Defense,equity,isin-bhavcopy,APFV,1999-07-05,2025-03-28,5802,False
+SUNDRMBRAK,INE073D01013,SUNDRAM FASTENERS LIMITED,SBL,Automobiles & Auto Parts,equity,isin,SBL,2005-01-03,2026-09-15,5348,True
+ACCEL,INE258C01038,ACCELYA SOLUTIONS INDIA LIMITED,ACCEL,Software & IT Services,equity,isin-bhavcopy,ACCEL,1999-06-30,2025-03-28,6121,False
+ISEC,INE763G01038,ICICI Securities Ltd,ISEC,Investment Banking & Investment Services,equity,unresolved,ISEC,2018-04-03,2025-03-21,1723,False
+GRASIMPP,IN9047A01029,GRASIM INDUSTRIES LTD,GRASIMPP,,equity,partly-paid,GRASIMPP,2024-02-09,2024-12-12,169,False
+SOBHAPP,IN9671H01013,SOBHA LIMITED,SOBHAPP,,equity,partly-paid,SOBHAPP,2024-07-22,2024-12-05,95,False
+SKIPPEPP,IN9439E01012,SKIPPER LIMITED,SKIPPEPP,,equity,partly-paid,SKIPPEPP,2024-02-29,2024-11-01,166,False
+ANGEL,,,ANGEL,,equity,split: price mismatch,ANGEL,2018-03-05,2025-03-28,1746,False
+INTS,,,INTS,,equity,split: price mismatch,INTS,2013-12-05,2024-12-02,2591,False
+SIP,,,SIP,,equity,split: price mismatch,SIP,2000-05-08,2023-04-17,5340,False

@@ -1,0 +1,357 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Check Outputs · Quant Fund</title>
+<style>
+  :root{
+    --ink:#12253F; --gold:#C4A35A; --panel:#EEF1F5; --line:#D8DFE8;
+    --green:#1F7A4D; --red:#B4433A; --amber:#8A6A1F; --muted:#5B6B80;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:#F7F9FC;color:var(--ink);
+       font:15px/1.55 "Inter",system-ui,-apple-system,"Segoe UI",sans-serif}
+  header{background:var(--ink);color:#fff;padding:22px 28px 20px}
+  .eyebrow{color:var(--gold);letter-spacing:.18em;text-transform:uppercase;font-size:11px;font-weight:600}
+  h1{font:600 24px/1.2 Georgia,"Times New Roman",serif;margin:6px 0 4px}
+  header p{margin:0;color:#B9C6D6;font-size:13px}
+  main{max-width:1100px;margin:0 auto;padding:24px 20px 60px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:20px;margin-bottom:18px}
+  .card h2{font:600 15px/1.3 system-ui;margin:0 0 14px;letter-spacing:.02em}
+  label{display:block;font-size:12px;font-weight:600;color:var(--muted);margin-bottom:6px;
+        letter-spacing:.06em;text-transform:uppercase}
+  .row{display:flex;gap:16px;flex-wrap:wrap;align-items:flex-end}
+  .row>div{flex:1 1 200px}
+  input,select{width:100%;padding:9px 10px;border:1px solid var(--line);border-radius:6px;
+        background:#fff;font:inherit;color:inherit}
+  button{background:var(--ink);color:#fff;border:0;border-radius:6px;padding:10px 20px;
+        font:600 14px system-ui;cursor:pointer}
+  button:disabled{opacity:.5;cursor:not-allowed}
+  button.ghost{background:#fff;color:var(--ink);border:1px solid var(--ink)}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:4px 0 16px}
+  .stat{background:var(--panel);border-radius:8px;padding:12px 14px}
+  .stat b{display:block;font:600 22px/1.1 system-ui}
+  .stat span{font-size:12px;color:var(--muted)}
+  table{border-collapse:collapse;width:100%;font-size:12.5px}
+  th,td{border-bottom:1px solid var(--line);padding:6px 8px;text-align:right;white-space:nowrap}
+  th:nth-child(2),td:nth-child(2){text-align:left;font-weight:600}
+  th:nth-child(3),td:nth-child(3){text-align:left}
+  #pred-table th:nth-child(3),#pred-table td:nth-child(3){text-align:left}
+  /* quarter's return by strategy (from the workbook's QoQ sheet) */
+  .bars{display:grid;grid-template-columns:130px 1fr 64px;gap:8px 12px;align-items:center;margin:4px 0 6px}
+  .bars .name{font-size:13px;color:var(--ink)}
+  .bars .name.lead{font-weight:700}
+  .bars .track{position:relative;height:22px;background:var(--panel);border-radius:4px}
+  .bars .axis{position:absolute;top:-3px;bottom:-3px;width:1px;background:#9AA8B8}
+  .bars .bar{position:absolute;top:3px;bottom:3px;border-radius:3px}
+  .bars .val{font:600 13px system-ui;text-align:right;font-variant-numeric:tabular-nums}
+  .bars .val.pos{color:var(--green)} .bars .val.neg{color:var(--red)}
+  thead th{background:var(--panel);position:sticky;top:0}
+  tr.hit td{background:#F2F8F4}
+  td.win{color:var(--green);font-weight:600}
+  .scroll{overflow:auto;max-height:520px;border:1px solid var(--line);border-radius:8px}
+  .msg{padding:10px 12px;border-radius:6px;margin:10px 0 0;font-size:13.5px}
+  .warn{background:#FDF6E3;border-left:3px solid var(--amber);color:var(--amber)}
+  .err{background:#FBEDEC;border-left:3px solid var(--red);color:var(--red)}
+  .ok{background:#EDF6F1;border-left:3px solid var(--green);color:var(--green)}
+  .muted{color:var(--muted);font-size:12.5px}
+  code{background:var(--panel);padding:1px 5px;border-radius:4px;font-size:12px}
+  .spinner{display:inline-block;width:14px;height:14px;border:2px solid #ffffff66;border-top-color:#fff;
+        border-radius:50%;animation:spin .7s linear infinite;vertical-align:-2px;margin-right:8px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @media (max-width:600px){ .row>div{flex:1 1 100%} }
+  /* embedded in the portal (?embed=1): the portal supplies the title */
+  html.embed body{background:transparent}
+  html.embed header{display:none}
+  html.embed main{max-width:none;padding:0 0 8px}
+</style>
+</head>
+<body>
+<header>
+  <div class="eyebrow">Quant Fund · Model outputs</div>
+  <h1>Check Outputs</h1>
+  <p>Pick a quarter to see the model's stock-by-stock output, or upload a quarter's base data to score it.</p>
+</header>
+
+<main>
+  <div class="card">
+    <h2>1 · Choose a quarter</h2>
+    <div class="row">
+      <div>
+        <label for="quarter">Quarter</label>
+        <select id="quarter" disabled><option>Loading…</option></select>
+      </div>
+      <div style="flex:0 1 130px">
+        <label for="topn">Top N</label>
+        <input type="number" id="topn" value="30" min="1" max="500" step="1" />
+      </div>
+    </div>
+    <p class="muted" id="status" style="margin:12px 0 0">Loading…</p>
+    <div id="messages"></div>
+  </div>
+
+  <!-- ============ QUARTER WITH OUTPUT ============ -->
+  <div class="card" id="output" hidden>
+    <h2 id="output-title"></h2>
+    <div id="output-chart"></div>
+    <p class="muted" id="output-note"></p>
+    <div class="row" style="margin:14px 0">
+      <div style="flex:0 0 auto"><button id="output-download">Download .xlsx</button></div>
+    </div>
+    <div class="scroll"><table id="output-table"></table></div>
+    <p class="muted" style="margin-top:10px">Every stock in the quarter, by rank. Shaded rows are inside the Top N;
+      a green <b>1</b> in Target means the stock did finish among the quarter's winners, and in Top 30 Flag that it was
+      held in the backtest's Top 30. Current and next quarter prices are taken with a 60-day lag (e.g. Q4FY26: 31 May 2026
+      and 31 Aug 2026); Return is next / current − 1.</p>
+  </div>
+
+  <!-- ============ QUARTER WITHOUT OUTPUT: UPLOAD ============ -->
+  <div id="upload" hidden>
+    <div class="card">
+      <h2 id="upload-title"></h2>
+      <p class="muted" style="margin-top:0">Upload the quarter's base data: the raw Bloomberg fundamentals export,
+        or a file already in factor format (<code>Ticker, TMR, Momentum, … EPS</code>). Raw files are turned into
+        the 11 model factors, then scored.</p>
+      <div id="upload-warning"></div>
+      <div class="row" style="margin-top:14px">
+        <div>
+          <label for="file">Base data (.xlsx)</label>
+          <input type="file" id="file" accept=".xlsx,.xls" />
+        </div>
+        <div>
+          <label for="model">Model</label>
+          <select id="model"></select>
+        </div>
+        <div style="flex:0 1 130px">
+          <label for="threshold">Threshold</label>
+          <input type="number" id="threshold" value="0.5" min="0" max="1" step="0.05" />
+        </div>
+        <div style="flex:0 0 auto"><button id="run" disabled>Run predictions</button></div>
+      </div>
+      <div id="upload-messages"></div>
+    </div>
+
+    <div class="card" id="pred" hidden>
+      <h2 id="pred-title"></h2>
+      <div class="stats" id="pred-stats"></div>
+      <p class="muted" id="pred-window"></p>
+      <div class="row" style="margin:14px 0">
+        <div style="flex:0 0 auto"><button id="pred-download">Download .xlsx</button></div>
+      </div>
+      <div class="scroll"><table id="pred-table"></table></div>
+      <p class="muted" style="margin-top:10px">Sorted by predicted probability. Shaded rows are inside the Top N.</p>
+    </div>
+  </div>
+</main>
+
+<script>
+// same machine the page came from, so this works over the network as well as on localhost
+const API = `http://${location.hostname || "127.0.0.1"}:8100`;
+const $ = (id) => document.getElementById(id);
+let QUARTERS = [];
+let current = { output: null, pred: null };
+
+function message(where, text, kind) {
+  const div = document.createElement("div");
+  div.className = "msg " + kind;
+  div.textContent = text;
+  $(where).appendChild(div);
+}
+const pct = (x) => (x * 100).toFixed(1) + "%";
+const fmt = (v) => v === null || v === undefined ? "—" :
+  (typeof v === "number" ? (Number.isInteger(v) ? v : v.toFixed(4)) : v);
+
+const cell = (c, v) => c === "Return" && typeof v === "number" ? (v * 100).toFixed(2) + "%" :
+  (c.endsWith("qtr price") && typeof v === "number" ? v.toFixed(2) : fmt(v));
+
+function table(el, columns, rows, highlight) {
+  el.innerHTML = "<thead><tr>" + columns.map(c => `<th>${c}</th>`).join("") + "</tr></thead><tbody>" +
+    rows.map(row => `<tr class="${highlight(row) ? "hit" : ""}">` + columns.map(c =>
+      `<td class="${(c === "Target" || c === "Top 30 Flag") && row[c] === 1 ? "win" : ""}">${cell(c, row[c])}</td>`).join("") +
+    "</tr>").join("") + "</tbody>";
+}
+
+const STRATEGY_COLORS = { "BiLSTM Top 30": "#C4A35A", "Nifty 50": "#12253F", "Quality 30": "#8A97A8",
+                          "Momentum 30": "#2E7D8C", "Value 30": "#1F7A4D" };
+
+function returnChart(el, quarter, rows) {
+  if (!rows || !rows.length) { el.innerHTML = ""; return; }
+  const lo = Math.min(0, ...rows.map(r => r.return)), hi = Math.max(0, ...rows.map(r => r.return));
+  const span = (hi - lo) || 1, zero = (-lo / span) * 100;
+  el.innerHTML = `<p class="muted" style="margin:0 0 10px">${quarter} return: the model's Top 30 against the indices
+    (60-day lag, from the QoQ sheet of the supporting workbook)</p><div class="bars">` + rows.map(r => {
+      const w = Math.abs(r.return) / span * 100, left = r.return >= 0 ? zero : zero - w;
+      const lead = r.strategy === "BiLSTM Top 30";
+      return `<div class="name${lead ? " lead" : ""}">${r.strategy}</div>
+        <div class="track"><div class="axis" style="left:${zero}%"></div>
+          <div class="bar" style="left:${left}%;width:${w}%;background:${STRATEGY_COLORS[r.strategy] || "#5B6B80"}"></div></div>
+        <div class="val ${r.return >= 0 ? "pos" : "neg"}">${(r.return * 100).toFixed(2)}%</div>`;
+    }).join("") + "</div>";
+}
+
+function stats(el, pairs) {
+  el.innerHTML = pairs.map(([k, v]) => `<div class="stat"><b>${v}</b><span>${k}</span></div>`).join("");
+}
+
+async function getJSON(url, options) {
+  const r = await fetch(API + url, options);
+  const data = await r.json();
+  if (!r.ok) throw new Error(data.detail || "the service returned an error");
+  return data;
+}
+
+async function loadQuarters(select) {
+  const d = await getJSON("/api/outputs/quarters");
+  QUARTERS = d.quarters;
+  const sel = $("quarter");
+  sel.innerHTML = QUARTERS.map(q =>
+    `<option value="${q.quarter}">${q.quarter}</option>`).join("");
+  sel.disabled = false;
+  $("status").textContent = "";
+  sel.value = select || (QUARTERS.find(q => q.saved) || QUARTERS[0]).quarter;
+  showQuarter();
+}
+
+async function loadModels() {
+  try {
+    const m = await getJSON("/api/models");
+    $("model").innerHTML = m.models.map(x => `<option value="${x.id}">${x.name}</option>`).join("");
+    $("threshold").value = m.default_threshold;
+  } catch (e) {
+    message("upload-messages", "Could not list the models: " + e.message, "err");
+  }
+}
+
+async function showQuarter() {
+  const q = QUARTERS.find(x => x.quarter === $("quarter").value);
+  $("messages").innerHTML = "";
+  $("output").hidden = true;
+  $("upload").hidden = true;
+  if (!q) return;
+  if (q.saved) return showOutput(q);
+  showUpload(q);
+}
+
+async function showOutput(q) {
+  try {
+    current.output = await getJSON(`/api/outputs/${q.quarter}?top_n=${topN()}`);
+  } catch (e) {
+    return message("messages", e.message, "err");
+  }
+  const d = current.output, s = d.summary;
+  $("output-title").textContent = `2 · ${d.quarter} output`;
+  returnChart($("output-chart"), d.quarter, d.strategy_returns);
+  $("output-note").textContent = `${s.rows.toLocaleString()} stocks · ${s.set || "—"} set` +
+    (s.labelled ? "" : " · realised outcomes aren't known yet for this quarter");
+  table($("output-table"), d.columns, d.rows, row => row.Rank <= topN());
+  $("output").hidden = false;
+  postHeight();
+}
+
+function showUpload(q) {
+  $("upload-title").textContent = `2 · Upload ${q.quarter} base data`;
+  $("upload-warning").innerHTML = "";
+  if (!q.prices_ready) {
+    message("upload-warning", `${q.quarter}'s price window runs to ${q.window_end} and isn't complete yet, ` +
+      `so a raw file can't be processed. A file already in factor format still works.`, "warn");
+  }
+  $("upload-messages").innerHTML = "";
+  $("pred").hidden = true;
+  current.pred = null;
+  $("upload").hidden = false;
+  postHeight();
+}
+
+const topN = () => Math.max(1, parseInt($("topn").value, 10) || 30);
+
+$("quarter").addEventListener("change", showQuarter);
+$("topn").addEventListener("change", () => {
+  if (!$("output").hidden) showQuarter();
+  else if (current.pred) renderPrediction(current.pred);
+});
+$("file").addEventListener("change", () => { $("run").disabled = !$("file").files.length; });
+
+$("run").addEventListener("click", async () => {
+  const button = $("run"), quarter = $("quarter").value;
+  const body = new FormData();
+  body.append("file", $("file").files[0]);
+  body.append("model", $("model").value);
+  body.append("threshold", $("threshold").value);
+  body.append("top_n", topN());
+  body.append("quarter", quarter);
+  $("upload-messages").innerHTML = "";
+  $("pred").hidden = true;
+  button.disabled = true;
+  button.innerHTML = '<span class="spinner"></span>Working…';
+  try {
+    current.pred = await getJSON("/api/predict", { method: "POST", body });
+    renderPrediction(current.pred);
+  } catch (e) {
+    message("upload-messages", String(e.message || e), "err");
+  } finally {
+    button.disabled = false;
+    button.textContent = "Run predictions";
+    postHeight();
+  }
+});
+
+function renderPrediction(d) {
+  const s = d.summary;
+  $("pred-title").textContent = `3 · ${d.quarter} predictions`;
+  stats($("pred-stats"), [
+    ["Model", s.model_name], ["Scored", `${s.scored.toLocaleString()} / ${s.rows.toLocaleString()}`],
+    [`Above ${s.threshold}`, s.predicted_positive.toLocaleString()],
+    ["Mean probability", s.mean_probability == null ? "—" : s.mean_probability.toFixed(3)],
+  ]);
+  $("pred-window").textContent = d.window && d.window.window_start
+    ? `Price window ${d.window.window_start} to ${d.window.window_end} (${d.window.trading_days} trading days).`
+    : (d.window && d.window.note) || "";
+  const cols = ["Rank", "Ticker", "Name", "Pred_Prob", "Pred_Tag"].concat(
+    d.columns.filter(c => !["Ticker", "Name", "Pred_Prob", "Pred_Tag", "Rank", "In_Top_N", "Ticker_Encoded"].includes(c)));
+  table($("pred-table"), cols, d.preview, row => row.Rank != null && row.Rank <= topN());
+  $("pred").hidden = false;
+  postHeight();
+}
+
+$("pred-download").addEventListener("click", () => {
+  if (current.pred) window.location = API + "/api/download/" + current.pred.download_id;
+});
+$("output-download").addEventListener("click", () => {
+  if (current.output) window.location = API + "/api/download/" + current.output.download_id;
+});
+
+async function init() {
+  try {
+    await loadModels();
+    await loadQuarters();
+  } catch (e) {
+    $("status").textContent = "";
+    message("messages", "Outputs can't be loaded right now. Please try again later.", "err");
+    console.error("Check outputs: no response from " + API + " - start it with  python api/main.py", e);
+  }
+}
+init();
+
+/* Embedded in the portal (?embed=1): report height to the parent so it needs no inner scrollbar.
+   Measured synchronously: requestAnimationFrame does not fire while the frame is scrolled out of
+   view, which would leave the parent stuck at its default height. */
+const EMBED = new URLSearchParams(location.search).get("embed") === "1";
+function postHeight() {
+  if (!EMBED) return;
+  const send = () => parent.postMessage(
+    { type: "gift-re-wm-height", page: "check-outputs", height: document.documentElement.scrollHeight }, "*");
+  send();
+  setTimeout(send, 0);
+}
+if (EMBED) {
+  document.documentElement.classList.add("embed");
+  new ResizeObserver(postHeight).observe(document.body);
+  window.addEventListener("load", postHeight);
+  // the parent may attach its listener after this frame has loaded, so answer its ping
+  window.addEventListener("message", e => { if (e.data && e.data.type === "gift-re-wm-ping") postHeight(); });
+  [100, 300, 800, 1500].forEach(t => setTimeout(postHeight, t));
+}
+</script>
+</body>
+</html>

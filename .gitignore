@@ -1,0 +1,8 @@
+# secrets
+.env
+# local environments and caches
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store

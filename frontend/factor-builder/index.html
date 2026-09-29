@@ -1,0 +1,363 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Factor Builder · Quant Fund</title>
+<style>
+  :root{
+    --ink:#12253F; --gold:#C4A35A; --panel:#EEF1F5; --line:#D8DFE8;
+    --green:#1F7A4D; --red:#B4433A; --amber:#8A6A1F; --muted:#5B6B80;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:#F7F9FC;color:var(--ink);
+       font:15px/1.55 "Inter",system-ui,-apple-system,"Segoe UI",sans-serif}
+  header{background:var(--ink);color:#fff;padding:22px 28px 0}
+  .eyebrow{color:var(--gold);letter-spacing:.18em;text-transform:uppercase;font-size:11px;font-weight:600}
+  h1{font:600 24px/1.2 Georgia,"Times New Roman",serif;margin:6px 0 4px}
+  header p{margin:0 0 16px;color:#B9C6D6;font-size:13px}
+  .tabs{display:flex;gap:4px}
+  .tab{background:transparent;color:#B9C6D6;border:0;border-bottom:3px solid transparent;
+       padding:10px 18px;font:600 14px system-ui;cursor:pointer;border-radius:6px 6px 0 0}
+  .tab[aria-selected=true]{background:#F7F9FC;color:var(--ink);border-bottom-color:var(--gold)}
+  main{max-width:1100px;margin:0 auto;padding:24px 20px 60px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:20px;margin-bottom:18px}
+  .card h2{font:600 15px/1.3 system-ui;margin:0 0 14px;letter-spacing:.02em}
+  label{display:block;font-size:12px;font-weight:600;color:var(--muted);margin-bottom:6px;
+        letter-spacing:.06em;text-transform:uppercase}
+  .row{display:flex;gap:16px;flex-wrap:wrap;align-items:flex-end}
+  .row>div{flex:1 1 200px}
+  input,select{width:100%;padding:9px 10px;border:1px solid var(--line);border-radius:6px;
+        background:#fff;font:inherit;color:inherit}
+  button{background:var(--ink);color:#fff;border:0;border-radius:6px;padding:10px 20px;
+        font:600 14px system-ui;cursor:pointer}
+  button:disabled{opacity:.5;cursor:not-allowed}
+  button.ghost{background:#fff;color:var(--ink);border:1px solid var(--ink)}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:4px 0 16px}
+  .stat{background:var(--panel);border-radius:8px;padding:12px 14px}
+  .stat b{display:block;font:600 22px/1.1 system-ui}
+  .stat span{font-size:12px;color:var(--muted)}
+  table{border-collapse:collapse;width:100%;font-size:12.5px}
+  th,td{border-bottom:1px solid var(--line);padding:6px 8px;text-align:right;white-space:nowrap}
+  th:first-child,td:first-child{text-align:left;font-weight:600}
+  thead th{background:var(--panel);position:sticky;top:0}
+  tr.hit td{background:#F2F8F4}
+  .scroll{overflow:auto;max-height:440px;border:1px solid var(--line);border-radius:8px}
+  .msg{padding:10px 12px;border-radius:6px;margin:6px 0;font-size:13.5px}
+  .warn{background:#FDF6E3;border-left:3px solid var(--amber);color:var(--amber)}
+  .err{background:#FBEDEC;border-left:3px solid var(--red);color:var(--red)}
+  .ok{background:#EDF6F1;border-left:3px solid var(--green);color:var(--green)}
+  .muted{color:var(--muted);font-size:12.5px}
+  code{background:var(--panel);padding:1px 5px;border-radius:4px;font-size:12px}
+  .spinner{display:inline-block;width:14px;height:14px;border:2px solid #ffffff66;border-top-color:#fff;
+        border-radius:50%;animation:spin .7s linear infinite;vertical-align:-2px;margin-right:8px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @media (max-width:600px){ .row>div{flex:1 1 100%} }
+  /* embedded in the portal (?embed=1): the portal supplies the title, keep only the tab bar */
+  html.embed body{background:transparent}
+  html.embed header{padding-top:6px;border-radius:8px 8px 0 0}
+  html.embed header .eyebrow, html.embed header h1, html.embed header p{display:none}
+  html.embed main{max-width:none;padding:20px 0 8px}
+</style>
+</head>
+<body>
+<header>
+  <div class="eyebrow">Quant Fund · Data Pipeline</div>
+  <h1>Factor Builder</h1>
+  <p>Turn a quarter's raw fundamentals export into model input — and score it.</p>
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" aria-selected="true" data-tab="factors">Factors</button>
+    <button class="tab" role="tab" aria-selected="false" data-tab="predict">Predictions</button>
+  </div>
+</header>
+
+<main>
+  <p class="muted" id="status" style="margin-top:0">Checking the price database…</p>
+
+  <!-- ============ FACTORS ============ -->
+  <section data-panel="factors">
+    <div class="card">
+      <h2>1 · Upload the quarter</h2>
+      <div class="row">
+        <div>
+          <label for="f-file">Raw fundamentals file (.xlsx)</label>
+          <input type="file" id="f-file" accept=".xlsx,.xls" />
+        </div>
+        <div style="flex:0 1 190px">
+          <label for="f-quarter">Quarter</label>
+          <select id="f-quarter"><option value="">Detect from the file</option></select>
+        </div>
+        <div style="flex:0 0 auto"><button id="f-go" disabled>Build factors</button></div>
+      </div>
+      <div id="f-messages"></div>
+    </div>
+
+    <div class="card" id="f-results" hidden>
+      <h2>2 · Result</h2>
+      <div class="stats" id="f-stats"></div>
+      <p class="muted" id="f-window"></p>
+      <div id="f-resultMessages"></div>
+      <div class="row" style="margin:14px 0">
+        <div style="flex:0 0 auto"><button id="f-download">Download .xlsx</button></div>
+      </div>
+      <div class="scroll"><table id="f-preview"></table></div>
+      <p class="muted" style="margin-top:10px">First 25 rows. The download has every row.</p>
+    </div>
+
+    <div class="card">
+      <h2>How the factors are built</h2>
+      <p class="muted" style="margin-top:0">
+        <b>From your file:</b> <code>EP</code> = 1/PE, <code>BP</code> = 1/PB, <code>SP</code> = 1/(PX per sales),
+        <code>DE</code> and <code>EPS</code> as-is, <code>Dividend_Flag</code> = 1 when the dividend yield is above zero.<br/>
+        <b>From the price database:</b> <code>TMR</code> (12-month return %), <code>Momentum</code> (price change over the quarter),
+        <code>Beta</code> and <code>Alpha</code> against the NIFTY Midcap 100, <code>Zscore</code> (price standardised within its industry).<br/>
+        <b>Price window:</b> the quarter shifted forward two months, so Q1 FY25 (Apr–Jun 2024) uses 1 Jun 2024 to 31 Aug 2024.
+        Prices are split and bonus adjusted.
+      </p>
+    </div>
+  </section>
+
+  <!-- ============ PREDICTIONS ============ -->
+  <section data-panel="predict" hidden>
+    <div class="card">
+      <h2>1 · Upload and choose a model</h2>
+      <div class="row">
+        <div>
+          <label for="p-file">Raw fundamentals file (.xlsx)</label>
+          <input type="file" id="p-file" accept=".xlsx,.xls" />
+        </div>
+        <div style="flex:0 1 190px">
+          <label for="p-quarter">Quarter</label>
+          <select id="p-quarter"><option value="">Detect from the file</option></select>
+        </div>
+      </div>
+      <div class="row" style="margin-top:14px">
+        <div>
+          <label for="p-model">Model</label>
+          <select id="p-model"></select>
+        </div>
+        <div style="flex:0 1 130px">
+          <label for="p-threshold">Threshold</label>
+          <input type="number" id="p-threshold" value="0.5" min="0" max="1" step="0.05" />
+        </div>
+        <div style="flex:0 1 130px">
+          <label for="p-topn">Top N</label>
+          <input type="number" id="p-topn" value="30" min="1" max="500" step="1" />
+        </div>
+        <div style="flex:0 0 auto"><button id="p-go" disabled>Run predictions</button></div>
+      </div>
+      <p class="muted" id="p-modelNote" style="margin:12px 0 0"></p>
+      <div id="p-messages"></div>
+    </div>
+
+    <div class="card" id="p-results" hidden>
+      <h2>2 · Predictions</h2>
+      <div class="stats" id="p-stats"></div>
+      <p class="muted" id="p-window"></p>
+      <div id="p-resultMessages"></div>
+      <div class="row" style="margin:14px 0">
+        <div style="flex:0 0 auto"><button id="p-download">Download .xlsx</button></div>
+      </div>
+      <div class="scroll"><table id="p-preview"></table></div>
+      <p class="muted" style="margin-top:10px">
+        Sorted by predicted probability. Shaded rows are inside the Top N. The download has every row.</p>
+    </div>
+
+    <div class="card">
+      <h2>How scoring works</h2>
+      <p class="muted" style="margin-top:0">
+        The same file is converted to factors first, then each feature is power-transformed
+        (Yeo-Johnson, or Box-Cox for <code>EP</code> and <code>SP</code>), standard-scaled across the batch, and fed to the
+        model along with the encoded ticker — the steps from <code>oot_preds</code>.
+        <code>Pred_Prob</code> is the model's probability, <code>Pred_Tag</code> is 1 above the threshold.
+        Stocks the model never saw in training, and rows with missing factors, are left unscored and counted below.
+      </p>
+    </div>
+  </section>
+</main>
+
+<script>
+// same machine the page came from, so this works over the network as well as on localhost
+const API = `http://${location.hostname || "127.0.0.1"}:8100`;
+const $ = (id) => document.getElementById(id);
+const results = { factors: null, predict: null };
+
+function message(where, text, kind) {
+  const div = document.createElement("div");
+  div.className = "msg " + kind;
+  div.textContent = text;
+  $(where).appendChild(div);
+}
+
+document.querySelectorAll(".tab").forEach(tab => {
+  tab.addEventListener("click", () => {
+    document.querySelectorAll(".tab").forEach(t => t.setAttribute("aria-selected", String(t === tab)));
+    document.querySelectorAll("[data-panel]").forEach(p => { p.hidden = p.dataset.panel !== tab.dataset.tab; });
+  });
+});
+
+async function init() {
+  try {
+    const c = await (await fetch(API + "/api/coverage")).json();
+    [$("f-quarter"), $("p-quarter")].forEach(sel => {
+      c.quarters.slice().reverse().forEach(q => {
+        const o = document.createElement("option");
+        o.value = q.quarter;
+        o.textContent = q.quarter + (q.benchmark_ok ? "" : "  (no benchmark prices)");
+        sel.appendChild(o);
+      });
+    });
+    $("status").textContent =
+      `Prices to ${c.latest_price_date}; benchmark to ${c.benchmark_latest_date}. ` +
+      `Ready: ${c.quarters.filter(q => q.benchmark_ok).map(q => q.quarter).slice(-6).join(", ")}.`;
+  } catch (e) {
+    $("status").textContent = "";
+    const why = "Can't reach the factor service at " + API + ". It runs on the machine that holds the " +
+      "price database: start it with  python api/main.py  and open this page from that machine.";
+    message("f-messages", why, "err");
+    message("p-messages", why, "err");
+    return;
+  }
+  try {
+    const m = await (await fetch(API + "/api/models")).json();
+    m.models.forEach(model => {
+      const o = document.createElement("option");
+      o.value = model.id;
+      o.textContent = `${model.name}  (${model.size_mb} MB)`;
+      o.dataset.note = model.note;
+      $("p-model").appendChild(o);
+    });
+    $("p-threshold").value = m.default_threshold;
+    showModelNote();
+  } catch (e) {
+    message("p-messages", "Could not list the models: " + e.message, "err");
+  }
+}
+
+function showModelNote() {
+  const opt = $("p-model").selectedOptions[0];
+  $("p-modelNote").textContent = opt ? opt.dataset.note : "";
+}
+$("p-model").addEventListener("change", showModelNote);
+
+$("f-file").addEventListener("change", () => { $("f-go").disabled = !$("f-file").files.length; });
+$("p-file").addEventListener("change", () => { $("p-go").disabled = !$("p-file").files.length; });
+
+async function submit(button, url, body, onDone, messagesId) {
+  $(messagesId).innerHTML = "";
+  const label = button.textContent;
+  button.disabled = true;
+  button.innerHTML = '<span class="spinner"></span>Working…';
+  try {
+    const r = await fetch(API + url, { method: "POST", body });
+    const data = await r.json();
+    if (!r.ok) throw new Error(data.detail || "the service rejected the file");
+    onDone(data);
+  } catch (e) {
+    message(messagesId, String(e.message || e), "err");
+  } finally {
+    button.disabled = false;
+    button.textContent = label;
+  }
+}
+
+$("f-go").addEventListener("click", () => {
+  const body = new FormData();
+  body.append("file", $("f-file").files[0]);
+  if ($("f-quarter").value) body.append("quarter", $("f-quarter").value);
+  $("f-results").hidden = true;
+  submit($("f-go"), "/api/process", body, renderFactors, "f-messages");
+});
+
+$("p-go").addEventListener("click", () => {
+  const body = new FormData();
+  body.append("file", $("p-file").files[0]);
+  body.append("model", $("p-model").value);
+  body.append("threshold", $("p-threshold").value);
+  body.append("top_n", $("p-topn").value);
+  if ($("p-quarter").value) body.append("quarter", $("p-quarter").value);
+  $("p-results").hidden = true;
+  submit($("p-go"), "/api/predict", body, renderPredictions, "p-messages");
+});
+
+function table(el, columns, rows, highlight) {
+  el.innerHTML = "<thead><tr>" + columns.map(c => `<th>${c}</th>`).join("") + "</tr></thead><tbody>" +
+    rows.map(row => `<tr class="${highlight && highlight(row) ? "hit" : ""}">` + columns.map(c => {
+      const v = row[c];
+      return `<td>${v === null || v === undefined ? "—" :
+        (typeof v === "number" ? (Number.isInteger(v) ? v : v.toFixed(4)) : v)}</td>`;
+    }).join("") + "</tr>").join("") + "</tbody>";
+}
+
+function windowText(d) {
+  if (!d.window || !d.window.window_start) return d.window && d.window.note ? d.window.note : "";
+  return `Price window ${d.window.window_start} to ${d.window.window_end}` +
+    (d.window.twelve_months_before ? `, 12 months before: ${d.window.twelve_months_before}` : "") +
+    ` (${d.window.trading_days} trading days).`;
+}
+
+function renderFactors(d) {
+  results.factors = d;
+  $("f-results").hidden = false;
+  $("f-resultMessages").innerHTML = "";
+  const s = d.stats;
+  $("f-stats").innerHTML = [
+    ["Quarter", d.quarter], ["Rows", s.rows.toLocaleString()],
+    ["Complete rows", s.with_all_factors.toLocaleString()],
+    ["No price match", s.missing_price_factors.toLocaleString()],
+    ["Dividend payers", s.dividend_payers.toLocaleString()],
+  ].map(([k, v]) => `<div class="stat"><b>${v}</b><span>${k}</span></div>`).join("");
+  $("f-window").textContent = windowText(d);
+  // blank-factor counts stay in the stat row above and in the downloaded file
+  table($("f-preview"), d.columns, d.preview);
+}
+
+function renderPredictions(d) {
+  results.predict = d;
+  $("p-results").hidden = false;
+  $("p-resultMessages").innerHTML = "";
+  const s = d.summary;
+  $("p-stats").innerHTML = [
+    ["Quarter", d.quarter], ["Model", s.model_name],
+    ["Scored", `${s.scored.toLocaleString()} / ${s.rows.toLocaleString()}`],
+    [`Above ${s.threshold}`, s.predicted_positive.toLocaleString()],
+    ["Mean probability", s.mean_probability == null ? "—" : s.mean_probability.toFixed(3)],
+  ].map(([k, v]) => `<div class="stat"><b>${v}</b><span>${k}</span></div>`).join("");
+  $("p-window").textContent = windowText(d);
+  // counts of unscored rows stay in the stat row above and in the downloaded file
+  const cols = ["Ticker", "Pred_Prob", "Pred_Tag", "Rank"].concat(
+    d.columns.filter(c => !["Ticker", "Pred_Prob", "Pred_Tag", "Rank", "In_Top_N", "Ticker_Encoded"].includes(c)));
+  table($("p-preview"), cols, d.preview, row => row.In_Top_N === 1);
+}
+
+$("f-download").addEventListener("click", () => {
+  if (results.factors) window.location = API + "/api/download/" + results.factors.download_id;
+});
+$("p-download").addEventListener("click", () => {
+  if (results.predict) window.location = API + "/api/download/" + results.predict.download_id;
+});
+
+init();
+
+/* Embedded in the portal (?embed=1): report height to the parent so it needs no inner scrollbar.
+   Measured synchronously: requestAnimationFrame does not fire while the frame is scrolled out of
+   view, which would leave the parent stuck at its default height. */
+const EMBED = new URLSearchParams(location.search).get("embed") === "1";
+function postHeight() {
+  if (!EMBED) return;
+  const send = () => parent.postMessage(
+    { type: "gift-re-wm-height", page: "factors", height: document.documentElement.scrollHeight }, "*");
+  send();
+  setTimeout(send, 0);
+}
+if (EMBED) {
+  document.documentElement.classList.add("embed");
+  new ResizeObserver(postHeight).observe(document.body);
+  window.addEventListener("load", postHeight);
+  // the parent may attach its listener after this frame has loaded, so answer its ping
+  window.addEventListener("message", e => { if (e.data && e.data.type === "gift-re-wm-ping") postHeight(); });
+  [100, 300, 800, 1500].forEach(t => setTimeout(postHeight, t));
+}
+</script>
+</body>
+</html>
